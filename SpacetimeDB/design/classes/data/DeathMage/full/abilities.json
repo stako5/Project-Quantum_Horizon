@@ -1,0 +1,1112 @@
+{
+  "class": "Death Mage",
+  "abilities": [
+    {
+      "id": "death_mage/woe_act_1",
+      "name": "Woe Act 1",
+      "branch": "Woe",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 20.2
+      },
+      "cooldown_s": 19.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.09
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_2",
+      "name": "Woe Act 2",
+      "branch": "Woe",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 12.9
+      },
+      "cooldown_s": 19.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.19
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.47
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_3",
+      "name": "Woe Act 3",
+      "branch": "Woe",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 23.2
+      },
+      "cooldown_s": 10.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.83
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_4",
+      "name": "Woe Act 4",
+      "branch": "Woe",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 32.2
+      },
+      "cooldown_s": 15.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.05
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.91
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_5",
+      "name": "Woe Act 5",
+      "branch": "Woe",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 15.3
+      },
+      "cooldown_s": 7.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.16
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.07
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_6",
+      "name": "Woe Act 6",
+      "branch": "Woe",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 33.9
+      },
+      "cooldown_s": 13.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.99
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_7",
+      "name": "Woe Act 7",
+      "branch": "Woe",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 13.0
+      },
+      "cooldown_s": 12.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.3
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.93
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_8",
+      "name": "Woe Act 8",
+      "branch": "Woe",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 20.1
+      },
+      "cooldown_s": 15.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.88
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.42
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_9",
+      "name": "Woe Act 9",
+      "branch": "Woe",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 18.2
+      },
+      "cooldown_s": 8.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.9
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.55
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_act_10",
+      "name": "Woe Act 10",
+      "branch": "Woe",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 20.1
+      },
+      "cooldown_s": 18.5,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.41
+        }
+      ],
+      "description": "Active ability in Woe branch."
+    },
+    {
+      "id": "death_mage/woe_pas_1",
+      "name": "Woe Passive 1",
+      "branch": "Woe",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.4
+        }
+      ],
+      "description": "Passive bonus themed to Woe."
+    },
+    {
+      "id": "death_mage/woe_pas_2",
+      "name": "Woe Passive 2",
+      "branch": "Woe",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.2
+        }
+      ],
+      "description": "Passive bonus themed to Woe."
+    },
+    {
+      "id": "death_mage/woe_pas_3",
+      "name": "Woe Passive 3",
+      "branch": "Woe",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.8
+        }
+      ],
+      "description": "Passive bonus themed to Woe."
+    },
+    {
+      "id": "death_mage/woe_pas_4",
+      "name": "Woe Passive 4",
+      "branch": "Woe",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.8
+        }
+      ],
+      "description": "Passive bonus themed to Woe."
+    },
+    {
+      "id": "death_mage/woe_exo_1",
+      "name": "Woe Exotic 1",
+      "branch": "Woe",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Woe to other branches."
+    },
+    {
+      "id": "death_mage/woe_exo_2",
+      "name": "Woe Exotic 2",
+      "branch": "Woe",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Woe to other branches."
+    },
+    {
+      "id": "death_mage/harvest_act_1",
+      "name": "Harvest Act 1",
+      "branch": "Harvest",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 31.1
+      },
+      "cooldown_s": 10.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.01
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.32
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_2",
+      "name": "Harvest Act 2",
+      "branch": "Harvest",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 16.0
+      },
+      "cooldown_s": 9.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.36
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_3",
+      "name": "Harvest Act 3",
+      "branch": "Harvest",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 29.6
+      },
+      "cooldown_s": 15.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.22
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.6
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_4",
+      "name": "Harvest Act 4",
+      "branch": "Harvest",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 26.8
+      },
+      "cooldown_s": 9.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.28
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.1
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_5",
+      "name": "Harvest Act 5",
+      "branch": "Harvest",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 13.9
+      },
+      "cooldown_s": 7.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.33
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_6",
+      "name": "Harvest Act 6",
+      "branch": "Harvest",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 16.7
+      },
+      "cooldown_s": 17.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.16
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.45
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_7",
+      "name": "Harvest Act 7",
+      "branch": "Harvest",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 12.3
+      },
+      "cooldown_s": 13.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.07
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.33
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_8",
+      "name": "Harvest Act 8",
+      "branch": "Harvest",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 10.1
+      },
+      "cooldown_s": 6.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.87
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.03
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_9",
+      "name": "Harvest Act 9",
+      "branch": "Harvest",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 25.4
+      },
+      "cooldown_s": 18.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.15
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.32
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_act_10",
+      "name": "Harvest Act 10",
+      "branch": "Harvest",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 29.8
+      },
+      "cooldown_s": 7.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.84
+        }
+      ],
+      "description": "Active ability in Harvest branch."
+    },
+    {
+      "id": "death_mage/harvest_pas_1",
+      "name": "Harvest Passive 1",
+      "branch": "Harvest",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.5
+        }
+      ],
+      "description": "Passive bonus themed to Harvest."
+    },
+    {
+      "id": "death_mage/harvest_pas_2",
+      "name": "Harvest Passive 2",
+      "branch": "Harvest",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.4
+        }
+      ],
+      "description": "Passive bonus themed to Harvest."
+    },
+    {
+      "id": "death_mage/harvest_pas_3",
+      "name": "Harvest Passive 3",
+      "branch": "Harvest",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.3
+        }
+      ],
+      "description": "Passive bonus themed to Harvest."
+    },
+    {
+      "id": "death_mage/harvest_pas_4",
+      "name": "Harvest Passive 4",
+      "branch": "Harvest",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.5
+        }
+      ],
+      "description": "Passive bonus themed to Harvest."
+    },
+    {
+      "id": "death_mage/harvest_exo_1",
+      "name": "Harvest Exotic 1",
+      "branch": "Harvest",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Harvest to other branches."
+    },
+    {
+      "id": "death_mage/harvest_exo_2",
+      "name": "Harvest Exotic 2",
+      "branch": "Harvest",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Harvest to other branches."
+    },
+    {
+      "id": "death_mage/necrosis_act_1",
+      "name": "Necrosis Act 1",
+      "branch": "Necrosis",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 29.3
+      },
+      "cooldown_s": 15.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.22
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.69
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_2",
+      "name": "Necrosis Act 2",
+      "branch": "Necrosis",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 20.1
+      },
+      "cooldown_s": 9.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.04
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.31
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_3",
+      "name": "Necrosis Act 3",
+      "branch": "Necrosis",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 14.5
+      },
+      "cooldown_s": 6.8,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.95
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.52
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_4",
+      "name": "Necrosis Act 4",
+      "branch": "Necrosis",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 14.8
+      },
+      "cooldown_s": 9.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.02
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_5",
+      "name": "Necrosis Act 5",
+      "branch": "Necrosis",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 23.1
+      },
+      "cooldown_s": 18.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.7
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_6",
+      "name": "Necrosis Act 6",
+      "branch": "Necrosis",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 25.4
+      },
+      "cooldown_s": 6.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.44
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_7",
+      "name": "Necrosis Act 7",
+      "branch": "Necrosis",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 23.4
+      },
+      "cooldown_s": 11.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.06
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.16
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_8",
+      "name": "Necrosis Act 8",
+      "branch": "Necrosis",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 29.3
+      },
+      "cooldown_s": 18.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.03
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.0
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_9",
+      "name": "Necrosis Act 9",
+      "branch": "Necrosis",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 22.4
+      },
+      "cooldown_s": 17.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.06
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.75
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_act_10",
+      "name": "Necrosis Act 10",
+      "branch": "Necrosis",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 20.4
+      },
+      "cooldown_s": 12.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.29
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.45
+        }
+      ],
+      "description": "Active ability in Necrosis branch."
+    },
+    {
+      "id": "death_mage/necrosis_pas_1",
+      "name": "Necrosis Passive 1",
+      "branch": "Necrosis",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.6
+        }
+      ],
+      "description": "Passive bonus themed to Necrosis."
+    },
+    {
+      "id": "death_mage/necrosis_pas_2",
+      "name": "Necrosis Passive 2",
+      "branch": "Necrosis",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.3
+        }
+      ],
+      "description": "Passive bonus themed to Necrosis."
+    },
+    {
+      "id": "death_mage/necrosis_pas_3",
+      "name": "Necrosis Passive 3",
+      "branch": "Necrosis",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.2
+        }
+      ],
+      "description": "Passive bonus themed to Necrosis."
+    },
+    {
+      "id": "death_mage/necrosis_pas_4",
+      "name": "Necrosis Passive 4",
+      "branch": "Necrosis",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.8
+        }
+      ],
+      "description": "Passive bonus themed to Necrosis."
+    },
+    {
+      "id": "death_mage/necrosis_exo_1",
+      "name": "Necrosis Exotic 1",
+      "branch": "Necrosis",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Necrosis to other branches."
+    },
+    {
+      "id": "death_mage/necrosis_exo_2",
+      "name": "Necrosis Exotic 2",
+      "branch": "Necrosis",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Necrosis to other branches."
+    },
+    {
+      "id": "death_mage/ultimate_1",
+      "name": "Death Mage Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Death Mage."
+    },
+    {
+      "id": "death_mage/ultimate_2",
+      "name": "Death Mage Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Soul Ash",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Death Mage."
+    }
+  ],
+  "perks": []
+}

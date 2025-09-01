@@ -1,0 +1,1165 @@
+{
+  "count": 20,
+  "bosses": [
+    {
+      "id": "boss_01",
+      "name": "Archon Omniscient",
+      "biome": "Sunken Arcology",
+      "tier": 3,
+      "mechanics": [
+        "phase-shift",
+        "arena-rotate",
+        "reflect-shield"
+      ],
+      "puzzle_modules": [
+        "pressure-plates",
+        "pattern-match",
+        "code-switches"
+      ],
+      "phases": [
+        "adds",
+        "burst",
+        "burn"
+      ],
+      "armor_set": {
+        "id": "set_01",
+        "name": "Mythic Archon Omniscient",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Archon Omniscient Helm",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Archon Omniscient Chest",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Archon Omniscient Gloves",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Archon Omniscient Legs",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Archon Omniscient Boots",
+            "bonus": "+Haste vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Drowned boulevards sleep beneath algae-lit vaults. Elevators ferry bubbles past statues of drowned ambition. Archon Omniscient stirs \u2014 a conductor of phase-shift, arena-rotate and ritual. Their lair reconfigures itself with pressure-plates, pattern-match, code-switches until your choices fit the pattern. Survive the adds and burst to face the burn that writes your name into the coolant."
+    },
+    {
+      "id": "boss_02",
+      "name": "The Phosphor Oracle of Eventide",
+      "biome": "Sunken Arcology",
+      "tier": 3,
+      "mechanics": [
+        "adds-wave",
+        "stack-spread",
+        "reflect-shield"
+      ],
+      "puzzle_modules": [
+        "glyph-keys",
+        "pipe-valves",
+        "battery-routing"
+      ],
+      "phases": [
+        "burn",
+        "adds",
+        "burst"
+      ],
+      "armor_set": {
+        "id": "set_02",
+        "name": "Mythic The Phosphor Oracle of Eventide",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Phosphor Oracle of Eventide Helm",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Phosphor Oracle of Eventide Chest",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Phosphor Oracle of Eventide Gloves",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Phosphor Oracle of Eventide Legs",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Phosphor Oracle of Eventide Boots",
+            "bonus": "+Crit vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Drowned boulevards sleep beneath algae-lit vaults. Elevators ferry bubbles past statues of drowned ambition. The Phosphor Oracle of Eventide stirs \u2014 a conductor of adds-wave, stack-spread and ritual. Their lair reconfigures itself with glyph-keys, pipe-valves, battery-routing until your choices fit the pattern. Survive the burn and adds to face the burst that writes your name into the coolant."
+    },
+    {
+      "id": "boss_03",
+      "name": "Archon Singularity",
+      "biome": "Void Marsh",
+      "tier": 4,
+      "mechanics": [
+        "hazard-flood",
+        "stack-spread",
+        "energy-tethers"
+      ],
+      "puzzle_modules": [
+        "pattern-match",
+        "pipe-valves",
+        "weight-scales"
+      ],
+      "phases": [
+        "hazard",
+        "burst",
+        "adds"
+      ],
+      "armor_set": {
+        "id": "set_03",
+        "name": "Mythic Archon Singularity",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Archon Singularity Helm",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Archon Singularity Chest",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Archon Singularity Gloves",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Archon Singularity Legs",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Archon Singularity Boots",
+            "bonus": "+Power vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Low fog clots around reality's bruises where the world sinks into Null. Each reed is a metronome for the far tide beyond causality. Archon Singularity stirs \u2014 a conductor of hazard-flood, stack-spread and ritual. Their lair reconfigures itself with pattern-match, pipe-valves, weight-scales until your choices fit the pattern. Survive the hazard and burst to face the adds that writes your name into the coolant."
+    },
+    {
+      "id": "boss_04",
+      "name": "The Chromatic Oracle of Last Light",
+      "biome": "Sunken Arcology",
+      "tier": 3,
+      "mechanics": [
+        "gravity-well",
+        "split-form",
+        "stack-spread"
+      ],
+      "puzzle_modules": [
+        "holo-bridge",
+        "pipe-valves",
+        "pattern-match"
+      ],
+      "phases": [
+        "hazard",
+        "burst",
+        "burn"
+      ],
+      "armor_set": {
+        "id": "set_04",
+        "name": "Mythic The Chromatic Oracle of Last Light",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Chromatic Oracle of Last Light Helm",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Chromatic Oracle of Last Light Chest",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Chromatic Oracle of Last Light Gloves",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Chromatic Oracle of Last Light Legs",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Chromatic Oracle of Last Light Boots",
+            "bonus": "+Crit vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Drowned boulevards sleep beneath algae-lit vaults. Elevators ferry bubbles past statues of drowned ambition. The Chromatic Oracle of Last Light stirs \u2014 a conductor of gravity-well, split-form and ritual. Their lair reconfigures itself with holo-bridge, pipe-valves, pattern-match until your choices fit the pattern. Survive the hazard and burst to face the burn that writes your name into the coolant."
+    },
+    {
+      "id": "boss_05",
+      "name": "The Abyssal Monolith of Last Light",
+      "biome": "Cryo Tundra Colony",
+      "tier": 3,
+      "mechanics": [
+        "reflect-shield",
+        "arena-rotate",
+        "memory-runes"
+      ],
+      "puzzle_modules": [
+        "laser-mirror",
+        "holo-bridge",
+        "battery-routing"
+      ],
+      "phases": [
+        "soft-enrage",
+        "interlude",
+        "adds"
+      ],
+      "armor_set": {
+        "id": "set_05",
+        "name": "Mythic The Abyssal Monolith of Last Light",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Abyssal Monolith of Last Light Helm",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Abyssal Monolith of Last Light Chest",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Abyssal Monolith of Last Light Gloves",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Abyssal Monolith of Last Light Legs",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Abyssal Monolith of Last Light Boots",
+            "bonus": "+Power vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Frost gardens bloom on abandoned domes, each petal a memory of warmth. Wind writes thin scriptures across ice corridors. The Abyssal Monolith of Last Light stirs \u2014 a conductor of reflect-shield, arena-rotate and ritual. Their lair reconfigures itself with laser-mirror, holo-bridge, battery-routing until your choices fit the pattern. Survive the soft-enrage and interlude to face the adds that writes your name into the coolant."
+    },
+    {
+      "id": "boss_06",
+      "name": "Archon Transcendent",
+      "biome": "Neon Metropolis",
+      "tier": 3,
+      "mechanics": [
+        "stack-spread",
+        "phase-shift",
+        "energy-tethers"
+      ],
+      "puzzle_modules": [
+        "pressure-plates",
+        "pattern-match",
+        "laser-mirror"
+      ],
+      "phases": [
+        "hazard",
+        "soft-enrage",
+        "burst"
+      ],
+      "armor_set": {
+        "id": "set_06",
+        "name": "Mythic Archon Transcendent",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Archon Transcendent Helm",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Archon Transcendent Chest",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Archon Transcendent Gloves",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Archon Transcendent Legs",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Archon Transcendent Boots",
+            "bonus": "+DR vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Neon rain hisses on overheated steel as monorails carve light through the skyline. Corporate ghosts bargain in the glass, and every reflection lies. Archon Transcendent stirs \u2014 a conductor of stack-spread, phase-shift and ritual. Their lair reconfigures itself with pressure-plates, pattern-match, laser-mirror until your choices fit the pattern. Survive the hazard and soft-enrage to face the burst that writes your name into the coolant."
+    },
+    {
+      "id": "boss_07",
+      "name": "The Static Leviathan of Parallax",
+      "biome": "Hologram Dunes",
+      "tier": 3,
+      "mechanics": [
+        "stack-spread",
+        "arena-rotate",
+        "split-form"
+      ],
+      "puzzle_modules": [
+        "battery-routing",
+        "rune-dials",
+        "pipe-valves"
+      ],
+      "phases": [
+        "burn",
+        "adds",
+        "soft-enrage"
+      ],
+      "armor_set": {
+        "id": "set_07",
+        "name": "Mythic The Static Leviathan of Parallax",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Static Leviathan of Parallax Helm",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Static Leviathan of Parallax Chest",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Static Leviathan of Parallax Gloves",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Static Leviathan of Parallax Legs",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Static Leviathan of Parallax Boots",
+            "bonus": "+Crit vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Mirages argue with each other until one becomes real. Signal obelisks chant coordinates to nowhere. The Static Leviathan of Parallax stirs \u2014 a conductor of stack-spread, arena-rotate and ritual. Their lair reconfigures itself with battery-routing, rune-dials, pipe-valves until your choices fit the pattern. Survive the burn and adds to face the soft-enrage that writes your name into the coolant."
+    },
+    {
+      "id": "boss_08",
+      "name": "The Ultraviolet Seraph of Eventide",
+      "biome": "Nanite Forest",
+      "tier": 3,
+      "mechanics": [
+        "energy-tethers",
+        "arena-rotate",
+        "phase-shift"
+      ],
+      "puzzle_modules": [
+        "battery-routing",
+        "weight-scales",
+        "laser-mirror"
+      ],
+      "phases": [
+        "hazard",
+        "burn",
+        "burst"
+      ],
+      "armor_set": {
+        "id": "set_08",
+        "name": "Mythic The Ultraviolet Seraph of Eventide",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Ultraviolet Seraph of Eventide Helm",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Ultraviolet Seraph of Eventide Chest",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Ultraviolet Seraph of Eventide Gloves",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Ultraviolet Seraph of Eventide Legs",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Ultraviolet Seraph of Eventide Boots",
+            "bonus": "+Haste vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Leaves are algorithms; bark is compiled; roots gossip in swarms. Every breeze rearranges decisions made a heartbeat ago. The Ultraviolet Seraph of Eventide stirs \u2014 a conductor of energy-tethers, arena-rotate and ritual. Their lair reconfigures itself with battery-routing, weight-scales, laser-mirror until your choices fit the pattern. Survive the hazard and burn to face the burst that writes your name into the coolant."
+    },
+    {
+      "id": "boss_09",
+      "name": "The Obsidian Chimera of Broken Axiom",
+      "biome": "Orbital Graveyard",
+      "tier": 3,
+      "mechanics": [
+        "gravity-well",
+        "memory-runes",
+        "energy-tethers"
+      ],
+      "puzzle_modules": [
+        "rune-dials",
+        "battery-routing",
+        "code-switches"
+      ],
+      "phases": [
+        "soft-enrage",
+        "burst",
+        "hazard"
+      ],
+      "armor_set": {
+        "id": "set_09",
+        "name": "Mythic The Obsidian Chimera of Broken Axiom",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Obsidian Chimera of Broken Axiom Helm",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Obsidian Chimera of Broken Axiom Chest",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Obsidian Chimera of Broken Axiom Gloves",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Obsidian Chimera of Broken Axiom Legs",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Obsidian Chimera of Broken Axiom Boots",
+            "bonus": "+Power vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Dead constellations of hulls drift in slow elegies. Sails rattle with the last sunlight they ever caught. The Obsidian Chimera of Broken Axiom stirs \u2014 a conductor of gravity-well, memory-runes and ritual. Their lair reconfigures itself with rune-dials, battery-routing, code-switches until your choices fit the pattern. Survive the soft-enrage and burst to face the hazard that writes your name into the coolant."
+    },
+    {
+      "id": "boss_10",
+      "name": "The Neon Seraph of Neon Night",
+      "biome": "Neon Metropolis",
+      "tier": 5,
+      "mechanics": [
+        "memory-runes",
+        "energy-tethers",
+        "reflect-shield"
+      ],
+      "puzzle_modules": [
+        "laser-mirror",
+        "battery-routing",
+        "code-switches"
+      ],
+      "phases": [
+        "hazard",
+        "soft-enrage",
+        "burst"
+      ],
+      "armor_set": {
+        "id": "set_10",
+        "name": "Mythic The Neon Seraph of Neon Night",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Neon Seraph of Neon Night Helm",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Neon Seraph of Neon Night Chest",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Neon Seraph of Neon Night Gloves",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Neon Seraph of Neon Night Legs",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Neon Seraph of Neon Night Boots",
+            "bonus": "+FP vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Neon rain hisses on overheated steel as monorails carve light through the skyline. Corporate ghosts bargain in the glass, and every reflection lies. The Neon Seraph of Neon Night stirs \u2014 a conductor of memory-runes, energy-tethers and ritual. Their lair reconfigures itself with laser-mirror, battery-routing, code-switches until your choices fit the pattern. Survive the hazard and soft-enrage to face the burst that writes your name into the coolant."
+    },
+    {
+      "id": "boss_11",
+      "name": "Archon Singularity",
+      "biome": "Industrial Wastes",
+      "tier": 3,
+      "mechanics": [
+        "memory-runes",
+        "adds-wave",
+        "hazard-flood"
+      ],
+      "puzzle_modules": [
+        "battery-routing",
+        "rune-dials",
+        "code-switches"
+      ],
+      "phases": [
+        "hazard",
+        "interlude",
+        "burst"
+      ],
+      "armor_set": {
+        "id": "set_11",
+        "name": "Mythic Archon Singularity",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Archon Singularity Helm",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Archon Singularity Chest",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Archon Singularity Gloves",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Archon Singularity Legs",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Archon Singularity Boots",
+            "bonus": "+Haste vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Toxic winds comb through skeletonized refineries, singing in rusted teeth. Scavenger choirs drum on barrels that still remember the last meltdown. Archon Singularity stirs \u2014 a conductor of memory-runes, adds-wave and ritual. Their lair reconfigures itself with battery-routing, rune-dials, code-switches until your choices fit the pattern. Survive the hazard and interlude to face the burst that writes your name into the coolant."
+    },
+    {
+      "id": "boss_12",
+      "name": "Paragon Omega",
+      "biome": "Void Marsh",
+      "tier": 4,
+      "mechanics": [
+        "hazard-flood",
+        "reflect-shield",
+        "gravity-well"
+      ],
+      "puzzle_modules": [
+        "holo-bridge",
+        "glyph-keys",
+        "code-switches"
+      ],
+      "phases": [
+        "burn",
+        "adds",
+        "interlude"
+      ],
+      "armor_set": {
+        "id": "set_12",
+        "name": "Mythic Paragon Omega",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Paragon Omega Helm",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Paragon Omega Chest",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Paragon Omega Gloves",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Paragon Omega Legs",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Paragon Omega Boots",
+            "bonus": "+DR vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Low fog clots around reality's bruises where the world sinks into Null. Each reed is a metronome for the far tide beyond causality. Paragon Omega stirs \u2014 a conductor of hazard-flood, reflect-shield and ritual. Their lair reconfigures itself with holo-bridge, glyph-keys, code-switches until your choices fit the pattern. Survive the burn and adds to face the interlude that writes your name into the coolant."
+    },
+    {
+      "id": "boss_13",
+      "name": "The Obsidian Harbinger of Lost Signals",
+      "biome": "Nanite Forest",
+      "tier": 4,
+      "mechanics": [
+        "phase-shift",
+        "hazard-flood",
+        "adds-wave"
+      ],
+      "puzzle_modules": [
+        "code-switches",
+        "glyph-keys",
+        "laser-mirror"
+      ],
+      "phases": [
+        "adds",
+        "soft-enrage",
+        "burst"
+      ],
+      "armor_set": {
+        "id": "set_13",
+        "name": "Mythic The Obsidian Harbinger of Lost Signals",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Obsidian Harbinger of Lost Signals Helm",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Obsidian Harbinger of Lost Signals Chest",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Obsidian Harbinger of Lost Signals Gloves",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Obsidian Harbinger of Lost Signals Legs",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Obsidian Harbinger of Lost Signals Boots",
+            "bonus": "+Crit vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Leaves are algorithms; bark is compiled; roots gossip in swarms. Every breeze rearranges decisions made a heartbeat ago. The Obsidian Harbinger of Lost Signals stirs \u2014 a conductor of phase-shift, hazard-flood and ritual. Their lair reconfigures itself with code-switches, glyph-keys, laser-mirror until your choices fit the pattern. Survive the adds and soft-enrage to face the burst that writes your name into the coolant."
+    },
+    {
+      "id": "boss_14",
+      "name": "The Chromatic Sovereign of Neon Night",
+      "biome": "Plasma Lagoons",
+      "tier": 5,
+      "mechanics": [
+        "phase-shift",
+        "hazard-flood",
+        "stack-spread"
+      ],
+      "puzzle_modules": [
+        "weight-scales",
+        "code-switches",
+        "laser-mirror"
+      ],
+      "phases": [
+        "burn",
+        "hazard",
+        "adds"
+      ],
+      "armor_set": {
+        "id": "set_14",
+        "name": "Mythic The Chromatic Sovereign of Neon Night",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Chromatic Sovereign of Neon Night Helm",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Chromatic Sovereign of Neon Night Chest",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Chromatic Sovereign of Neon Night Gloves",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Chromatic Sovereign of Neon Night Legs",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Chromatic Sovereign of Neon Night Boots",
+            "bonus": "+DR vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Azure arcs stitch the water; every ripple carries the taste of thunder. Cooling spires hum a lullaby they learned from storms. The Chromatic Sovereign of Neon Night stirs \u2014 a conductor of phase-shift, hazard-flood and ritual. Their lair reconfigures itself with weight-scales, code-switches, laser-mirror until your choices fit the pattern. Survive the burn and hazard to face the adds that writes your name into the coolant."
+    },
+    {
+      "id": "boss_15",
+      "name": "Abyssal Catalyst",
+      "biome": "Sunken Arcology",
+      "tier": 4,
+      "mechanics": [
+        "reflect-shield",
+        "adds-wave",
+        "gravity-well"
+      ],
+      "puzzle_modules": [
+        "rune-dials",
+        "laser-mirror",
+        "weight-scales"
+      ],
+      "phases": [
+        "interlude",
+        "burst",
+        "hazard"
+      ],
+      "armor_set": {
+        "id": "set_15",
+        "name": "Mythic Abyssal Catalyst",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Abyssal Catalyst Helm",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Abyssal Catalyst Chest",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Abyssal Catalyst Gloves",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Abyssal Catalyst Legs",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Abyssal Catalyst Boots",
+            "bonus": "+Haste vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Drowned boulevards sleep beneath algae-lit vaults. Elevators ferry bubbles past statues of drowned ambition. Abyssal Catalyst stirs \u2014 a conductor of reflect-shield, adds-wave and ritual. Their lair reconfigures itself with rune-dials, laser-mirror, weight-scales until your choices fit the pattern. Survive the interlude and burst to face the hazard that writes your name into the coolant."
+    },
+    {
+      "id": "boss_16",
+      "name": "Phosphor Seraph",
+      "biome": "Reactor Badlands",
+      "tier": 4,
+      "mechanics": [
+        "stack-spread",
+        "hazard-flood",
+        "memory-runes"
+      ],
+      "puzzle_modules": [
+        "glyph-keys",
+        "holo-bridge",
+        "pattern-match"
+      ],
+      "phases": [
+        "hazard",
+        "burn",
+        "adds"
+      ],
+      "armor_set": {
+        "id": "set_16",
+        "name": "Mythic Phosphor Seraph",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Phosphor Seraph Helm",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Phosphor Seraph Chest",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Phosphor Seraph Gloves",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Phosphor Seraph Legs",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Phosphor Seraph Boots",
+            "bonus": "+Crit vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Cracked vents cough daylight; the earth sweats mercury. Heat mirages deal in counterfeit horizons. Phosphor Seraph stirs \u2014 a conductor of stack-spread, hazard-flood and ritual. Their lair reconfigures itself with glyph-keys, holo-bridge, pattern-match until your choices fit the pattern. Survive the hazard and burn to face the adds that writes your name into the coolant."
+    },
+    {
+      "id": "boss_17",
+      "name": "Neon Harbinger",
+      "biome": "Plasma Lagoons",
+      "tier": 5,
+      "mechanics": [
+        "reflect-shield",
+        "arena-rotate",
+        "phase-shift"
+      ],
+      "puzzle_modules": [
+        "holo-bridge",
+        "pattern-match",
+        "weight-scales"
+      ],
+      "phases": [
+        "burn",
+        "soft-enrage",
+        "burst"
+      ],
+      "armor_set": {
+        "id": "set_17",
+        "name": "Mythic Neon Harbinger",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Neon Harbinger Helm",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Neon Harbinger Chest",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Neon Harbinger Gloves",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Neon Harbinger Legs",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Neon Harbinger Boots",
+            "bonus": "+FP vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Azure arcs stitch the water; every ripple carries the taste of thunder. Cooling spires hum a lullaby they learned from storms. Neon Harbinger stirs \u2014 a conductor of reflect-shield, arena-rotate and ritual. Their lair reconfigures itself with holo-bridge, pattern-match, weight-scales until your choices fit the pattern. Survive the burn and soft-enrage to face the burst that writes your name into the coolant."
+    },
+    {
+      "id": "boss_18",
+      "name": "Sovereign Singularity",
+      "biome": "Neon Metropolis",
+      "tier": 4,
+      "mechanics": [
+        "split-form",
+        "energy-tethers",
+        "adds-wave"
+      ],
+      "puzzle_modules": [
+        "rune-dials",
+        "weight-scales",
+        "battery-routing"
+      ],
+      "phases": [
+        "hazard",
+        "burn",
+        "interlude"
+      ],
+      "armor_set": {
+        "id": "set_18",
+        "name": "Mythic Sovereign Singularity",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Sovereign Singularity Helm",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Sovereign Singularity Chest",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Sovereign Singularity Gloves",
+            "bonus": "+DR vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Sovereign Singularity Legs",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Sovereign Singularity Boots",
+            "bonus": "+FP vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Neon rain hisses on overheated steel as monorails carve light through the skyline. Corporate ghosts bargain in the glass, and every reflection lies. Sovereign Singularity stirs \u2014 a conductor of split-form, energy-tethers and ritual. Their lair reconfigures itself with rune-dials, weight-scales, battery-routing until your choices fit the pattern. Survive the hazard and burn to face the interlude that writes your name into the coolant."
+    },
+    {
+      "id": "boss_19",
+      "name": "The Chromatic Monolith of the Reactor",
+      "biome": "Void Marsh",
+      "tier": 4,
+      "mechanics": [
+        "arena-rotate",
+        "adds-wave",
+        "memory-runes"
+      ],
+      "puzzle_modules": [
+        "weight-scales",
+        "glyph-keys",
+        "rune-dials"
+      ],
+      "phases": [
+        "hazard",
+        "burst",
+        "interlude"
+      ],
+      "armor_set": {
+        "id": "set_19",
+        "name": "Mythic The Chromatic Monolith of the Reactor",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "The Chromatic Monolith of the Reactor Helm",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "The Chromatic Monolith of the Reactor Chest",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "The Chromatic Monolith of the Reactor Gloves",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "The Chromatic Monolith of the Reactor Legs",
+            "bonus": "+Crit vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "The Chromatic Monolith of the Reactor Boots",
+            "bonus": "+DR vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Low fog clots around reality's bruises where the world sinks into Null. Each reed is a metronome for the far tide beyond causality. The Chromatic Monolith of the Reactor stirs \u2014 a conductor of arena-rotate, adds-wave and ritual. Their lair reconfigures itself with weight-scales, glyph-keys, rune-dials until your choices fit the pattern. Survive the hazard and burst to face the interlude that writes your name into the coolant."
+    },
+    {
+      "id": "boss_20",
+      "name": "Phosphor Paragon",
+      "biome": "Sunken Arcology",
+      "tier": 4,
+      "mechanics": [
+        "split-form",
+        "phase-shift",
+        "adds-wave"
+      ],
+      "puzzle_modules": [
+        "holo-bridge",
+        "pipe-valves",
+        "weight-scales"
+      ],
+      "phases": [
+        "hazard",
+        "interlude",
+        "adds"
+      ],
+      "armor_set": {
+        "id": "set_20",
+        "name": "Mythic Phosphor Paragon",
+        "pieces": [
+          {
+            "slot": "helm",
+            "name": "Phosphor Paragon Helm",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "chest",
+            "name": "Phosphor Paragon Chest",
+            "bonus": "+Haste vs bosses"
+          },
+          {
+            "slot": "gloves",
+            "name": "Phosphor Paragon Gloves",
+            "bonus": "+FP vs bosses"
+          },
+          {
+            "slot": "legs",
+            "name": "Phosphor Paragon Legs",
+            "bonus": "+Power vs bosses"
+          },
+          {
+            "slot": "boots",
+            "name": "Phosphor Paragon Boots",
+            "bonus": "+Haste vs bosses"
+          }
+        ],
+        "set_bonuses": [
+          "(2) +5% damage to elites",
+          "(4) +10% ability haste",
+          "(5) Unique: unleash a mythic burst on dodge"
+        ]
+      },
+      "description": "Drowned boulevards sleep beneath algae-lit vaults. Elevators ferry bubbles past statues of drowned ambition. Phosphor Paragon stirs \u2014 a conductor of split-form, phase-shift and ritual. Their lair reconfigures itself with holo-bridge, pipe-valves, weight-scales until your choices fit the pattern. Survive the hazard and interlude to face the adds that writes your name into the coolant."
+    }
+  ]
+}

@@ -1,0 +1,1958 @@
+{
+  "class": "Void Mage",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "void_mage/perk_1",
+      "name": "Void Mage Perk 1",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_2",
+      "name": "Void Mage Perk 2",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_3",
+      "name": "Void Mage Perk 3",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.8,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_4",
+      "name": "Void Mage Perk 4",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 3.0,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_5",
+      "name": "Void Mage Perk 5",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_6",
+      "name": "Void Mage Perk 6",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_7",
+      "name": "Void Mage Perk 7",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_8",
+      "name": "Void Mage Perk 8",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_9",
+      "name": "Void Mage Perk 9",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.8,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_10",
+      "name": "Void Mage Perk 10",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_11",
+      "name": "Void Mage Perk 11",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.0,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_12",
+      "name": "Void Mage Perk 12",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_13",
+      "name": "Void Mage Perk 13",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.6,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_14",
+      "name": "Void Mage Perk 14",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_15",
+      "name": "Void Mage Perk 15",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_16",
+      "name": "Void Mage Perk 16",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_17",
+      "name": "Void Mage Perk 17",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_18",
+      "name": "Void Mage Perk 18",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_19",
+      "name": "Void Mage Perk 19",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.1,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_20",
+      "name": "Void Mage Perk 20",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_21",
+      "name": "Void Mage Perk 21",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_22",
+      "name": "Void Mage Perk 22",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.1,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_23",
+      "name": "Void Mage Perk 23",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_24",
+      "name": "Void Mage Perk 24",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_25",
+      "name": "Void Mage Perk 25",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_26",
+      "name": "Void Mage Perk 26",
+      "tier": "Legendary",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_27",
+      "name": "Void Mage Perk 27",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_28",
+      "name": "Void Mage Perk 28",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 3.0,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_29",
+      "name": "Void Mage Perk 29",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_30",
+      "name": "Void Mage Perk 30",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_31",
+      "name": "Void Mage Perk 31",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_32",
+      "name": "Void Mage Perk 32",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.1,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_33",
+      "name": "Void Mage Perk 33",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_34",
+      "name": "Void Mage Perk 34",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.6,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_35",
+      "name": "Void Mage Perk 35",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.1,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_36",
+      "name": "Void Mage Perk 36",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_37",
+      "name": "Void Mage Perk 37",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_38",
+      "name": "Void Mage Perk 38",
+      "tier": "Legendary",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_39",
+      "name": "Void Mage Perk 39",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_40",
+      "name": "Void Mage Perk 40",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.6,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_41",
+      "name": "Void Mage Perk 41",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_42",
+      "name": "Void Mage Perk 42",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.7,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_43",
+      "name": "Void Mage Perk 43",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_44",
+      "name": "Void Mage Perk 44",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_45",
+      "name": "Void Mage Perk 45",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_46",
+      "name": "Void Mage Perk 46",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_47",
+      "name": "Void Mage Perk 47",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_48",
+      "name": "Void Mage Perk 48",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_49",
+      "name": "Void Mage Perk 49",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_50",
+      "name": "Void Mage Perk 50",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_51",
+      "name": "Void Mage Perk 51",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_52",
+      "name": "Void Mage Perk 52",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_53",
+      "name": "Void Mage Perk 53",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.8,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_54",
+      "name": "Void Mage Perk 54",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_55",
+      "name": "Void Mage Perk 55",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_56",
+      "name": "Void Mage Perk 56",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_57",
+      "name": "Void Mage Perk 57",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_58",
+      "name": "Void Mage Perk 58",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_59",
+      "name": "Void Mage Perk 59",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_60",
+      "name": "Void Mage Perk 60",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.2,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_61",
+      "name": "Void Mage Perk 61",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.9,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_62",
+      "name": "Void Mage Perk 62",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_63",
+      "name": "Void Mage Perk 63",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_64",
+      "name": "Void Mage Perk 64",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_65",
+      "name": "Void Mage Perk 65",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_66",
+      "name": "Void Mage Perk 66",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_67",
+      "name": "Void Mage Perk 67",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.5,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_68",
+      "name": "Void Mage Perk 68",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_69",
+      "name": "Void Mage Perk 69",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_70",
+      "name": "Void Mage Perk 70",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.0,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_71",
+      "name": "Void Mage Perk 71",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.5,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_72",
+      "name": "Void Mage Perk 72",
+      "tier": "Legendary",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_73",
+      "name": "Void Mage Perk 73",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.1,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_74",
+      "name": "Void Mage Perk 74",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_75",
+      "name": "Void Mage Perk 75",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.5,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_76",
+      "name": "Void Mage Perk 76",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_77",
+      "name": "Void Mage Perk 77",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_78",
+      "name": "Void Mage Perk 78",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_79",
+      "name": "Void Mage Perk 79",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_80",
+      "name": "Void Mage Perk 80",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.0,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_81",
+      "name": "Void Mage Perk 81",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_82",
+      "name": "Void Mage Perk 82",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_83",
+      "name": "Void Mage Perk 83",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.5,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_84",
+      "name": "Void Mage Perk 84",
+      "tier": "Legendary",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.4,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_85",
+      "name": "Void Mage Perk 85",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_86",
+      "name": "Void Mage Perk 86",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_87",
+      "name": "Void Mage Perk 87",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_88",
+      "name": "Void Mage Perk 88",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_89",
+      "name": "Void Mage Perk 89",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_90",
+      "name": "Void Mage Perk 90",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_91",
+      "name": "Void Mage Perk 91",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_92",
+      "name": "Void Mage Perk 92",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_93",
+      "name": "Void Mage Perk 93",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing mobility for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_94",
+      "name": "Void Mage Perk 94",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_95",
+      "name": "Void Mage Perk 95",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_96",
+      "name": "Void Mage Perk 96",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.9,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_97",
+      "name": "Void Mage Perk 97",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_98",
+      "name": "Void Mage Perk 98",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_99",
+      "name": "Void Mage Perk 99",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing defense for Void Mage."
+    },
+    {
+      "id": "void_mage/perk_100",
+      "name": "Void Mage Perk 100",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing control for Void Mage."
+    }
+  ]
+}

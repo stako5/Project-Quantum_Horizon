@@ -1,0 +1,1957 @@
+{
+  "class": "Warrior",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "warrior/perk_1",
+      "name": "Warrior Perk 1",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_2",
+      "name": "Warrior Perk 2",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.0,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_3",
+      "name": "Warrior Perk 3",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_4",
+      "name": "Warrior Perk 4",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing control for Warrior."
+    },
+    {
+      "id": "warrior/perk_5",
+      "name": "Warrior Perk 5",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_6",
+      "name": "Warrior Perk 6",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control for Warrior."
+    },
+    {
+      "id": "warrior/perk_7",
+      "name": "Warrior Perk 7",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.2,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_8",
+      "name": "Warrior Perk 8",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_9",
+      "name": "Warrior Perk 9",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_10",
+      "name": "Warrior Perk 10",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 3.0,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Warrior."
+    },
+    {
+      "id": "warrior/perk_11",
+      "name": "Warrior Perk 11",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.5,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_12",
+      "name": "Warrior Perk 12",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_13",
+      "name": "Warrior Perk 13",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_14",
+      "name": "Warrior Perk 14",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.6,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_15",
+      "name": "Warrior Perk 15",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_16",
+      "name": "Warrior Perk 16",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_17",
+      "name": "Warrior Perk 17",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.5,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_18",
+      "name": "Warrior Perk 18",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_19",
+      "name": "Warrior Perk 19",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_20",
+      "name": "Warrior Perk 20",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.4,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_21",
+      "name": "Warrior Perk 21",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.1,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_22",
+      "name": "Warrior Perk 22",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_23",
+      "name": "Warrior Perk 23",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_24",
+      "name": "Warrior Perk 24",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_25",
+      "name": "Warrior Perk 25",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.5,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_26",
+      "name": "Warrior Perk 26",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Warrior."
+    },
+    {
+      "id": "warrior/perk_27",
+      "name": "Warrior Perk 27",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.1,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_28",
+      "name": "Warrior Perk 28",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_29",
+      "name": "Warrior Perk 29",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_30",
+      "name": "Warrior Perk 30",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_31",
+      "name": "Warrior Perk 31",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_32",
+      "name": "Warrior Perk 32",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.5,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_33",
+      "name": "Warrior Perk 33",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.2,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_34",
+      "name": "Warrior Perk 34",
+      "tier": "Legendary",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_35",
+      "name": "Warrior Perk 35",
+      "tier": "Legendary",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.5,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_36",
+      "name": "Warrior Perk 36",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.4,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_37",
+      "name": "Warrior Perk 37",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.7,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_38",
+      "name": "Warrior Perk 38",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_39",
+      "name": "Warrior Perk 39",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_40",
+      "name": "Warrior Perk 40",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.4,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_41",
+      "name": "Warrior Perk 41",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_42",
+      "name": "Warrior Perk 42",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_43",
+      "name": "Warrior Perk 43",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_44",
+      "name": "Warrior Perk 44",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.9,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_45",
+      "name": "Warrior Perk 45",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_46",
+      "name": "Warrior Perk 46",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_47",
+      "name": "Warrior Perk 47",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.4,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_48",
+      "name": "Warrior Perk 48",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_49",
+      "name": "Warrior Perk 49",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_50",
+      "name": "Warrior Perk 50",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.0,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_51",
+      "name": "Warrior Perk 51",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_52",
+      "name": "Warrior Perk 52",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_53",
+      "name": "Warrior Perk 53",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_54",
+      "name": "Warrior Perk 54",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing control for Warrior."
+    },
+    {
+      "id": "warrior/perk_55",
+      "name": "Warrior Perk 55",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.5,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_56",
+      "name": "Warrior Perk 56",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.2,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_57",
+      "name": "Warrior Perk 57",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.1,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_58",
+      "name": "Warrior Perk 58",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.2,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_59",
+      "name": "Warrior Perk 59",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing control for Warrior."
+    },
+    {
+      "id": "warrior/perk_60",
+      "name": "Warrior Perk 60",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_61",
+      "name": "Warrior Perk 61",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_62",
+      "name": "Warrior Perk 62",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_63",
+      "name": "Warrior Perk 63",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_64",
+      "name": "Warrior Perk 64",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_65",
+      "name": "Warrior Perk 65",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_66",
+      "name": "Warrior Perk 66",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.4,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_67",
+      "name": "Warrior Perk 67",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Warrior."
+    },
+    {
+      "id": "warrior/perk_68",
+      "name": "Warrior Perk 68",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_69",
+      "name": "Warrior Perk 69",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Warrior."
+    },
+    {
+      "id": "warrior/perk_70",
+      "name": "Warrior Perk 70",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing control for Warrior."
+    },
+    {
+      "id": "warrior/perk_71",
+      "name": "Warrior Perk 71",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_72",
+      "name": "Warrior Perk 72",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.7,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_73",
+      "name": "Warrior Perk 73",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_74",
+      "name": "Warrior Perk 74",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_75",
+      "name": "Warrior Perk 75",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_76",
+      "name": "Warrior Perk 76",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_77",
+      "name": "Warrior Perk 77",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Warrior."
+    },
+    {
+      "id": "warrior/perk_78",
+      "name": "Warrior Perk 78",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_79",
+      "name": "Warrior Perk 79",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.4,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_80",
+      "name": "Warrior Perk 80",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_81",
+      "name": "Warrior Perk 81",
+      "tier": "Legendary",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.9,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_82",
+      "name": "Warrior Perk 82",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_83",
+      "name": "Warrior Perk 83",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_84",
+      "name": "Warrior Perk 84",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_85",
+      "name": "Warrior Perk 85",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_86",
+      "name": "Warrior Perk 86",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    },
+    {
+      "id": "warrior/perk_87",
+      "name": "Warrior Perk 87",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_88",
+      "name": "Warrior Perk 88",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_89",
+      "name": "Warrior Perk 89",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing control for Warrior."
+    },
+    {
+      "id": "warrior/perk_90",
+      "name": "Warrior Perk 90",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_91",
+      "name": "Warrior Perk 91",
+      "tier": "Legendary",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Warrior."
+    },
+    {
+      "id": "warrior/perk_92",
+      "name": "Warrior Perk 92",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.0,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Warrior."
+    },
+    {
+      "id": "warrior/perk_93",
+      "name": "Warrior Perk 93",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.6,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_94",
+      "name": "Warrior Perk 94",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.2,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_95",
+      "name": "Warrior Perk 95",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.2,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing control for Warrior."
+    },
+    {
+      "id": "warrior/perk_96",
+      "name": "Warrior Perk 96",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_97",
+      "name": "Warrior Perk 97",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Warrior."
+    },
+    {
+      "id": "warrior/perk_98",
+      "name": "Warrior Perk 98",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Warrior."
+    },
+    {
+      "id": "warrior/perk_99",
+      "name": "Warrior Perk 99",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Warrior."
+    },
+    {
+      "id": "warrior/perk_100",
+      "name": "Warrior Perk 100",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Warrior."
+    }
+  ]
+}

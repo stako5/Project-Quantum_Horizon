@@ -1,0 +1,1112 @@
+{
+  "class": "Nanobots Mage",
+  "abilities": [
+    {
+      "id": "nanobots_mage/swarm_act_1",
+      "name": "Swarm Act 1",
+      "branch": "Swarm",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 13.7
+      },
+      "cooldown_s": 14.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.1
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.7
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_2",
+      "name": "Swarm Act 2",
+      "branch": "Swarm",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 13.6
+      },
+      "cooldown_s": 13.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.65
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_3",
+      "name": "Swarm Act 3",
+      "branch": "Swarm",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 21.2
+      },
+      "cooldown_s": 16.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.09
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_4",
+      "name": "Swarm Act 4",
+      "branch": "Swarm",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 14.8
+      },
+      "cooldown_s": 18.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.92
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.04
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_5",
+      "name": "Swarm Act 5",
+      "branch": "Swarm",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 21.1
+      },
+      "cooldown_s": 14.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.07
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.1
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_6",
+      "name": "Swarm Act 6",
+      "branch": "Swarm",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 19.2
+      },
+      "cooldown_s": 12.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.87
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_7",
+      "name": "Swarm Act 7",
+      "branch": "Swarm",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 32.0
+      },
+      "cooldown_s": 18.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.1
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.6
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_8",
+      "name": "Swarm Act 8",
+      "branch": "Swarm",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 19.8
+      },
+      "cooldown_s": 10.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.3
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.82
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_9",
+      "name": "Swarm Act 9",
+      "branch": "Swarm",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 22.3
+      },
+      "cooldown_s": 9.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.76
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_act_10",
+      "name": "Swarm Act 10",
+      "branch": "Swarm",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 11.8
+      },
+      "cooldown_s": 8.6,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.3
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.5
+        }
+      ],
+      "description": "Active ability in Swarm branch."
+    },
+    {
+      "id": "nanobots_mage/swarm_pas_1",
+      "name": "Swarm Passive 1",
+      "branch": "Swarm",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.1
+        }
+      ],
+      "description": "Passive bonus themed to Swarm."
+    },
+    {
+      "id": "nanobots_mage/swarm_pas_2",
+      "name": "Swarm Passive 2",
+      "branch": "Swarm",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.0
+        }
+      ],
+      "description": "Passive bonus themed to Swarm."
+    },
+    {
+      "id": "nanobots_mage/swarm_pas_3",
+      "name": "Swarm Passive 3",
+      "branch": "Swarm",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.5
+        }
+      ],
+      "description": "Passive bonus themed to Swarm."
+    },
+    {
+      "id": "nanobots_mage/swarm_pas_4",
+      "name": "Swarm Passive 4",
+      "branch": "Swarm",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.3
+        }
+      ],
+      "description": "Passive bonus themed to Swarm."
+    },
+    {
+      "id": "nanobots_mage/swarm_exo_1",
+      "name": "Swarm Exotic 1",
+      "branch": "Swarm",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Swarm to other branches."
+    },
+    {
+      "id": "nanobots_mage/swarm_exo_2",
+      "name": "Swarm Exotic 2",
+      "branch": "Swarm",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Swarm to other branches."
+    },
+    {
+      "id": "nanobots_mage/forge_act_1",
+      "name": "Forge Act 1",
+      "branch": "Forge",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 11.6
+      },
+      "cooldown_s": 13.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.86
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.52
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_2",
+      "name": "Forge Act 2",
+      "branch": "Forge",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 15.3
+      },
+      "cooldown_s": 18.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.65
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_3",
+      "name": "Forge Act 3",
+      "branch": "Forge",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 33.3
+      },
+      "cooldown_s": 16.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.95
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_4",
+      "name": "Forge Act 4",
+      "branch": "Forge",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 25.2
+      },
+      "cooldown_s": 17.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.07
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.18
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_5",
+      "name": "Forge Act 5",
+      "branch": "Forge",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 18.9
+      },
+      "cooldown_s": 16.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.27
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.38
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_6",
+      "name": "Forge Act 6",
+      "branch": "Forge",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 30.8
+      },
+      "cooldown_s": 6.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.13
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_7",
+      "name": "Forge Act 7",
+      "branch": "Forge",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 26.7
+      },
+      "cooldown_s": 16.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.94
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.01
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_8",
+      "name": "Forge Act 8",
+      "branch": "Forge",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 20.8
+      },
+      "cooldown_s": 13.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.27
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.27
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_9",
+      "name": "Forge Act 9",
+      "branch": "Forge",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 16.2
+      },
+      "cooldown_s": 18.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.93
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_act_10",
+      "name": "Forge Act 10",
+      "branch": "Forge",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 31.4
+      },
+      "cooldown_s": 17.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.28
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.86
+        }
+      ],
+      "description": "Active ability in Forge branch."
+    },
+    {
+      "id": "nanobots_mage/forge_pas_1",
+      "name": "Forge Passive 1",
+      "branch": "Forge",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.8
+        }
+      ],
+      "description": "Passive bonus themed to Forge."
+    },
+    {
+      "id": "nanobots_mage/forge_pas_2",
+      "name": "Forge Passive 2",
+      "branch": "Forge",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.8
+        }
+      ],
+      "description": "Passive bonus themed to Forge."
+    },
+    {
+      "id": "nanobots_mage/forge_pas_3",
+      "name": "Forge Passive 3",
+      "branch": "Forge",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.4
+        }
+      ],
+      "description": "Passive bonus themed to Forge."
+    },
+    {
+      "id": "nanobots_mage/forge_pas_4",
+      "name": "Forge Passive 4",
+      "branch": "Forge",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.9
+        }
+      ],
+      "description": "Passive bonus themed to Forge."
+    },
+    {
+      "id": "nanobots_mage/forge_exo_1",
+      "name": "Forge Exotic 1",
+      "branch": "Forge",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Forge to other branches."
+    },
+    {
+      "id": "nanobots_mage/forge_exo_2",
+      "name": "Forge Exotic 2",
+      "branch": "Forge",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Forge to other branches."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_1",
+      "name": "Assimilate Act 1",
+      "branch": "Assimilate",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 32.8
+      },
+      "cooldown_s": 7.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.88
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.72
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_2",
+      "name": "Assimilate Act 2",
+      "branch": "Assimilate",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 12.4
+      },
+      "cooldown_s": 12.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.14
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_3",
+      "name": "Assimilate Act 3",
+      "branch": "Assimilate",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 16.3
+      },
+      "cooldown_s": 8.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.8
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.43
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_4",
+      "name": "Assimilate Act 4",
+      "branch": "Assimilate",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 10.7
+      },
+      "cooldown_s": 12.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.19
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_5",
+      "name": "Assimilate Act 5",
+      "branch": "Assimilate",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 24.1
+      },
+      "cooldown_s": 8.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.92
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.62
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_6",
+      "name": "Assimilate Act 6",
+      "branch": "Assimilate",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 24.8
+      },
+      "cooldown_s": 15.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.28
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.36
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_7",
+      "name": "Assimilate Act 7",
+      "branch": "Assimilate",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 27.0
+      },
+      "cooldown_s": 16.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.9
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.22
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_8",
+      "name": "Assimilate Act 8",
+      "branch": "Assimilate",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 19.0
+      },
+      "cooldown_s": 14.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.22
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.72
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_9",
+      "name": "Assimilate Act 9",
+      "branch": "Assimilate",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 11.0
+      },
+      "cooldown_s": 14.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.28
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.35
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_act_10",
+      "name": "Assimilate Act 10",
+      "branch": "Assimilate",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 32.8
+      },
+      "cooldown_s": 12.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.94
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.12
+        }
+      ],
+      "description": "Active ability in Assimilate branch."
+    },
+    {
+      "id": "nanobots_mage/assimilate_pas_1",
+      "name": "Assimilate Passive 1",
+      "branch": "Assimilate",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.0
+        }
+      ],
+      "description": "Passive bonus themed to Assimilate."
+    },
+    {
+      "id": "nanobots_mage/assimilate_pas_2",
+      "name": "Assimilate Passive 2",
+      "branch": "Assimilate",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.3
+        }
+      ],
+      "description": "Passive bonus themed to Assimilate."
+    },
+    {
+      "id": "nanobots_mage/assimilate_pas_3",
+      "name": "Assimilate Passive 3",
+      "branch": "Assimilate",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 4.0
+        }
+      ],
+      "description": "Passive bonus themed to Assimilate."
+    },
+    {
+      "id": "nanobots_mage/assimilate_pas_4",
+      "name": "Assimilate Passive 4",
+      "branch": "Assimilate",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.9
+        }
+      ],
+      "description": "Passive bonus themed to Assimilate."
+    },
+    {
+      "id": "nanobots_mage/assimilate_exo_1",
+      "name": "Assimilate Exotic 1",
+      "branch": "Assimilate",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Assimilate to other branches."
+    },
+    {
+      "id": "nanobots_mage/assimilate_exo_2",
+      "name": "Assimilate Exotic 2",
+      "branch": "Assimilate",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Assimilate to other branches."
+    },
+    {
+      "id": "nanobots_mage/ultimate_1",
+      "name": "Nanobots Mage Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/ultimate_2",
+      "name": "Nanobots Mage Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Nanite Swarm",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Nanobots Mage."
+    }
+  ],
+  "perks": []
+}

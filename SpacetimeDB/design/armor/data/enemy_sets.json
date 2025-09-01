@@ -1,0 +1,6404 @@
+{
+  "sets": [
+    {
+      "id": "enemy_type_grim_scrap_beast_series_81",
+      "name": "Grim Scrap Beast Series 81 Panoply",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Scrap Beast Series 81 Panoply Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Scrap Beast Series 81 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Scrap Beast Series 81 Panoply Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Scrap Beast Series 81 Panoply Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Scrap Beast Series 81 Panoply Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_gutter_pirate_series_56",
+      "name": "Chrome Gutter Pirate Series 56 Mail",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Gutter Pirate Series 56 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Gutter Pirate Series 56 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Gutter Pirate Series 56 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Gutter Pirate Series 56 Mail Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Gutter Pirate Series 56 Mail Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_street_samurai_unit_69",
+      "name": "Grime Street Samurai Unit 69 Array",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Street Samurai Unit 69 Array Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Street Samurai Unit 69 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Street Samurai Unit 69 Array Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Street Samurai Unit 69 Array Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Street Samurai Unit 69 Array Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_street_samurai_mk_62",
+      "name": "Chrome Street Samurai Mk.62 Bulwark",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Street Samurai Mk.62 Bulwark Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Street Samurai Mk.62 Bulwark Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Street Samurai Mk.62 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Street Samurai Mk.62 Bulwark Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Street Samurai Mk.62 Bulwark Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_synth_cultist_type_51",
+      "name": "Grime Synth Cultist Type 51 Bulwark",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Synth Cultist Type 51 Bulwark Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Synth Cultist Type 51 Bulwark Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Synth Cultist Type 51 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Synth Cultist Type 51 Bulwark Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Synth Cultist Type 51 Bulwark Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_bio_construct_type_18",
+      "name": "Rust Bio-Construct Type 18 Ward",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Bio-Construct Type 18 Ward Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Bio-Construct Type 18 Ward Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Bio-Construct Type 18 Ward Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Bio-Construct Type 18 Ward Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Bio-Construct Type 18 Ward Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_bio_construct_type_66",
+      "name": "Rust Bio-Construct Type 66 Raiment",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Bio-Construct Type 66 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Bio-Construct Type 66 Raiment Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Bio-Construct Type 66 Raiment Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Bio-Construct Type 66 Raiment Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Bio-Construct Type 66 Raiment Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_warp_horror_mk_64",
+      "name": "Chrome Warp Horror Mk.64 Bulwark",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Warp Horror Mk.64 Bulwark Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Warp Horror Mk.64 Bulwark Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Warp Horror Mk.64 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Warp Horror Mk.64 Bulwark Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Warp Horror Mk.64 Bulwark Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_voidspawn_mk_92",
+      "name": "Void Voidspawn Mk.92 Bulwark",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Voidspawn Mk.92 Bulwark Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Voidspawn Mk.92 Bulwark Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Voidspawn Mk.92 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Voidspawn Mk.92 Bulwark Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Voidspawn Mk.92 Bulwark Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_gutter_pirate_type_44",
+      "name": "Grim Gutter Pirate Type 44 Array",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Gutter Pirate Type 44 Array Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Gutter Pirate Type 44 Array Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Gutter Pirate Type 44 Array Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Gutter Pirate Type 44 Array Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Gutter Pirate Type 44 Array Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_drone_series_50",
+      "name": "Pulse Drone Series 50 Mail",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Drone Series 50 Mail Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Drone Series 50 Mail Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Drone Series 50 Mail Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Drone Series 50 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Drone Series 50 Mail Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_nanite_swarm_type_95",
+      "name": "Grim Nanite Swarm Type 95 Mail",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Nanite Swarm Type 95 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Nanite Swarm Type 95 Mail Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Nanite Swarm Type 95 Mail Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Nanite Swarm Type 95 Mail Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Nanite Swarm Type 95 Mail Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_warp_horror_unit_39",
+      "name": "Phase Warp Horror Unit 39 Mail",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Warp Horror Unit 39 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Warp Horror Unit 39 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Warp Horror Unit 39 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Warp Horror Unit 39 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Warp Horror Unit 39 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_street_samurai_unit_67",
+      "name": "Black Street Samurai Unit 67 Bulwark",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Street Samurai Unit 67 Bulwark Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Street Samurai Unit 67 Bulwark Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Street Samurai Unit 67 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Street Samurai Unit 67 Bulwark Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Street Samurai Unit 67 Bulwark Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_nanite_swarm_unit_89",
+      "name": "Pulse Nanite Swarm Unit 89 Bulwark",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Nanite Swarm Unit 89 Bulwark Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Nanite Swarm Unit 89 Bulwark Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Nanite Swarm Unit 89 Bulwark Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Nanite Swarm Unit 89 Bulwark Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Nanite Swarm Unit 89 Bulwark Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_drone_mk_53",
+      "name": "Rust Drone Mk.53 Bulwark",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Drone Mk.53 Bulwark Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Drone Mk.53 Bulwark Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Drone Mk.53 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Drone Mk.53 Bulwark Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Drone Mk.53 Bulwark Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_drone_mk_85",
+      "name": "Rust Drone Mk.85 Raiment",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Drone Mk.85 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Drone Mk.85 Raiment Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Drone Mk.85 Raiment Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Drone Mk.85 Raiment Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Drone Mk.85 Raiment Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_gutter_pirate_series_52",
+      "name": "Black Gutter Pirate Series 52 Guard",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Gutter Pirate Series 52 Guard Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Gutter Pirate Series 52 Guard Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Gutter Pirate Series 52 Guard Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Gutter Pirate Series 52 Guard Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Gutter Pirate Series 52 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_warp_horror_unit_70",
+      "name": "Void Warp Horror Unit 70 Carapace",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Warp Horror Unit 70 Carapace Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Warp Horror Unit 70 Carapace Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Warp Horror Unit 70 Carapace Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Warp Horror Unit 70 Carapace Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Warp Horror Unit 70 Carapace Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_scrap_beast_unit_78",
+      "name": "Rust Scrap Beast Unit 78 Harness",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Scrap Beast Unit 78 Harness Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Scrap Beast Unit 78 Harness Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Scrap Beast Unit 78 Harness Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Scrap Beast Unit 78 Harness Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Scrap Beast Unit 78 Harness Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_gutter_pirate_mk_32",
+      "name": "Chrome Gutter Pirate Mk.32 Raiment",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Gutter Pirate Mk.32 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Gutter Pirate Mk.32 Raiment Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Gutter Pirate Mk.32 Raiment Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Gutter Pirate Mk.32 Raiment Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Gutter Pirate Mk.32 Raiment Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_bio_construct_type_25",
+      "name": "Chrome Bio-Construct Type 25 Guard",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Bio-Construct Type 25 Guard Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Bio-Construct Type 25 Guard Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Bio-Construct Type 25 Guard Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Bio-Construct Type 25 Guard Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Bio-Construct Type 25 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_gutter_pirate_unit_75",
+      "name": "Grime Gutter Pirate Unit 75 Guard",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Gutter Pirate Unit 75 Guard Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Gutter Pirate Unit 75 Guard Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Gutter Pirate Unit 75 Guard Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Gutter Pirate Unit 75 Guard Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Gutter Pirate Unit 75 Guard Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_junkbot_unit_12",
+      "name": "Neon Junkbot Unit 12 Guard",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Junkbot Unit 12 Guard Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Junkbot Unit 12 Guard Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Junkbot Unit 12 Guard Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Junkbot Unit 12 Guard Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Junkbot Unit 12 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_street_samurai_series_55",
+      "name": "Grim Street Samurai Series 55 Raiment",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Street Samurai Series 55 Raiment Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Street Samurai Series 55 Raiment Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Street Samurai Series 55 Raiment Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Street Samurai Series 55 Raiment Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Street Samurai Series 55 Raiment Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_scrap_beast_unit_66",
+      "name": "Chrome Scrap Beast Unit 66 Array",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Scrap Beast Unit 66 Array Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Scrap Beast Unit 66 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Scrap Beast Unit 66 Array Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Scrap Beast Unit 66 Array Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Scrap Beast Unit 66 Array Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_bio_construct_unit_82",
+      "name": "Pulse Bio-Construct Unit 82 Aegis",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Bio-Construct Unit 82 Aegis Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Bio-Construct Unit 82 Aegis Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Bio-Construct Unit 82 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Bio-Construct Unit 82 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Bio-Construct Unit 82 Aegis Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_drone_unit_74",
+      "name": "Grime Drone Unit 74 Raiment",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Drone Unit 74 Raiment Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Drone Unit 74 Raiment Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Drone Unit 74 Raiment Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Drone Unit 74 Raiment Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Drone Unit 74 Raiment Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_scrap_beast_series_19",
+      "name": "Rust Scrap Beast Series 19 Harness",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Scrap Beast Series 19 Harness Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Scrap Beast Series 19 Harness Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Scrap Beast Series 19 Harness Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Scrap Beast Series 19 Harness Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Scrap Beast Series 19 Harness Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_gutter_pirate_type_95",
+      "name": "Rust Gutter Pirate Type 95 Array",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Gutter Pirate Type 95 Array Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Gutter Pirate Type 95 Array Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Gutter Pirate Type 95 Array Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Gutter Pirate Type 95 Array Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Gutter Pirate Type 95 Array Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_drone_mk_33",
+      "name": "Chrome Drone Mk.33 Aegis",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Drone Mk.33 Aegis Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Drone Mk.33 Aegis Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Drone Mk.33 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Drone Mk.33 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Drone Mk.33 Aegis Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_warp_horror_mk_94",
+      "name": "Phase Warp Horror Mk.94 Aegis",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Warp Horror Mk.94 Aegis Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Warp Horror Mk.94 Aegis Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Warp Horror Mk.94 Aegis Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Warp Horror Mk.94 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Warp Horror Mk.94 Aegis Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_gutter_pirate_mk_83",
+      "name": "Void Gutter Pirate Mk.83 Guard",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Gutter Pirate Mk.83 Guard Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Gutter Pirate Mk.83 Guard Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Gutter Pirate Mk.83 Guard Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Gutter Pirate Mk.83 Guard Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Gutter Pirate Mk.83 Guard Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_corp_enforcer_type_10",
+      "name": "Grim Corp Enforcer Type 10 Raiment",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Corp Enforcer Type 10 Raiment Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Corp Enforcer Type 10 Raiment Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Corp Enforcer Type 10 Raiment Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Corp Enforcer Type 10 Raiment Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Corp Enforcer Type 10 Raiment Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_drone_mk_94",
+      "name": "Neon Drone Mk.94 Guard",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Drone Mk.94 Guard Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Drone Mk.94 Guard Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Drone Mk.94 Guard Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Drone Mk.94 Guard Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Drone Mk.94 Guard Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_warp_horror_series_13",
+      "name": "Black Warp Horror Series 13 Carapace",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Warp Horror Series 13 Carapace Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Warp Horror Series 13 Carapace Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Warp Horror Series 13 Carapace Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Warp Horror Series 13 Carapace Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Warp Horror Series 13 Carapace Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_nanite_swarm_series_62",
+      "name": "Grim Nanite Swarm Series 62 Carapace",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Nanite Swarm Series 62 Carapace Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Nanite Swarm Series 62 Carapace Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Nanite Swarm Series 62 Carapace Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Nanite Swarm Series 62 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Nanite Swarm Series 62 Carapace Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_neon_raider_mk_11",
+      "name": "Grim Neon Raider Mk.11 Panoply",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Neon Raider Mk.11 Panoply Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Neon Raider Mk.11 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Neon Raider Mk.11 Panoply Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Neon Raider Mk.11 Panoply Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Neon Raider Mk.11 Panoply Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_bio_construct_unit_92",
+      "name": "Rust Bio-Construct Unit 92 Ward",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Bio-Construct Unit 92 Ward Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Bio-Construct Unit 92 Ward Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Bio-Construct Unit 92 Ward Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Bio-Construct Unit 92 Ward Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Bio-Construct Unit 92 Ward Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_synth_cultist_unit_16",
+      "name": "Void Synth Cultist Unit 16 Ward",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Synth Cultist Unit 16 Ward Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Synth Cultist Unit 16 Ward Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Synth Cultist Unit 16 Ward Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Synth Cultist Unit 16 Ward Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Synth Cultist Unit 16 Ward Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_gutter_pirate_mk_59",
+      "name": "Black Gutter Pirate Mk.59 Ward",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Gutter Pirate Mk.59 Ward Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Gutter Pirate Mk.59 Ward Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Gutter Pirate Mk.59 Ward Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Gutter Pirate Mk.59 Ward Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Gutter Pirate Mk.59 Ward Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_scrap_beast_type_31",
+      "name": "Neon Scrap Beast Type 31 Bulwark",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Scrap Beast Type 31 Bulwark Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Scrap Beast Type 31 Bulwark Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Scrap Beast Type 31 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Scrap Beast Type 31 Bulwark Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Scrap Beast Type 31 Bulwark Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_gutter_pirate_mk_43",
+      "name": "Black Gutter Pirate Mk.43 Guard",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Gutter Pirate Mk.43 Guard Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Gutter Pirate Mk.43 Guard Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Gutter Pirate Mk.43 Guard Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Gutter Pirate Mk.43 Guard Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Gutter Pirate Mk.43 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_street_samurai_unit_14",
+      "name": "Phase Street Samurai Unit 14 Guard",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Street Samurai Unit 14 Guard Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Street Samurai Unit 14 Guard Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Street Samurai Unit 14 Guard Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Street Samurai Unit 14 Guard Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Street Samurai Unit 14 Guard Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_drone_type_62",
+      "name": "Neon Drone Type 62 Guard",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Drone Type 62 Guard Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Drone Type 62 Guard Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Drone Type 62 Guard Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Drone Type 62 Guard Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Drone Type 62 Guard Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_warp_horror_unit_8",
+      "name": "Grime Warp Horror Unit 8 Mail",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Warp Horror Unit 8 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Warp Horror Unit 8 Mail Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Warp Horror Unit 8 Mail Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Warp Horror Unit 8 Mail Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Warp Horror Unit 8 Mail Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_scrap_beast_series_83",
+      "name": "Grim Scrap Beast Series 83 Guard",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Scrap Beast Series 83 Guard Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Scrap Beast Series 83 Guard Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Scrap Beast Series 83 Guard Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Scrap Beast Series 83 Guard Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Scrap Beast Series 83 Guard Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_corp_enforcer_type_13",
+      "name": "Chrome Corp Enforcer Type 13 Carapace",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Corp Enforcer Type 13 Carapace Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Corp Enforcer Type 13 Carapace Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Corp Enforcer Type 13 Carapace Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Corp Enforcer Type 13 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Corp Enforcer Type 13 Carapace Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_drone_series_6",
+      "name": "Grime Drone Series 6 Aegis",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Drone Series 6 Aegis Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Drone Series 6 Aegis Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Drone Series 6 Aegis Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Drone Series 6 Aegis Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Drone Series 6 Aegis Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_drone_series_21",
+      "name": "Chrome Drone Series 21 Panoply",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Drone Series 21 Panoply Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Drone Series 21 Panoply Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Drone Series 21 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Drone Series 21 Panoply Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Drone Series 21 Panoply Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_corp_enforcer_mk_18",
+      "name": "Chrome Corp Enforcer Mk.18 Panoply",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Corp Enforcer Mk.18 Panoply Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Corp Enforcer Mk.18 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Corp Enforcer Mk.18 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Corp Enforcer Mk.18 Panoply Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Corp Enforcer Mk.18 Panoply Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_junkbot_mk_49",
+      "name": "Void Junkbot Mk.49 Aegis",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Junkbot Mk.49 Aegis Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Junkbot Mk.49 Aegis Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Junkbot Mk.49 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Junkbot Mk.49 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Junkbot Mk.49 Aegis Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_neon_raider_unit_35",
+      "name": "Void Neon Raider Unit 35 Mail",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Neon Raider Unit 35 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Neon Raider Unit 35 Mail Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Neon Raider Unit 35 Mail Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Neon Raider Unit 35 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Neon Raider Unit 35 Mail Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_synth_cultist_mk_35",
+      "name": "Chrome Synth Cultist Mk.35 Harness",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Synth Cultist Mk.35 Harness Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Synth Cultist Mk.35 Harness Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Synth Cultist Mk.35 Harness Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Synth Cultist Mk.35 Harness Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Synth Cultist Mk.35 Harness Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_street_samurai_mk_87",
+      "name": "Black Street Samurai Mk.87 Carapace",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Street Samurai Mk.87 Carapace Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Street Samurai Mk.87 Carapace Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Street Samurai Mk.87 Carapace Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Street Samurai Mk.87 Carapace Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Street Samurai Mk.87 Carapace Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_voidspawn_unit_81",
+      "name": "Pulse Voidspawn Unit 81 Carapace",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Voidspawn Unit 81 Carapace Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Voidspawn Unit 81 Carapace Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Voidspawn Unit 81 Carapace Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Voidspawn Unit 81 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Voidspawn Unit 81 Carapace Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_nanite_swarm_unit_86",
+      "name": "Chrome Nanite Swarm Unit 86 Array",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Nanite Swarm Unit 86 Array Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Nanite Swarm Unit 86 Array Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Nanite Swarm Unit 86 Array Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Nanite Swarm Unit 86 Array Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Nanite Swarm Unit 86 Array Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_junkbot_series_62",
+      "name": "Grim Junkbot Series 62 Mail",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Junkbot Series 62 Mail Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Junkbot Series 62 Mail Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Junkbot Series 62 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Junkbot Series 62 Mail Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Junkbot Series 62 Mail Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_synth_cultist_unit_25",
+      "name": "Phase Synth Cultist Unit 25 Harness",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Synth Cultist Unit 25 Harness Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Synth Cultist Unit 25 Harness Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Synth Cultist Unit 25 Harness Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Synth Cultist Unit 25 Harness Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Synth Cultist Unit 25 Harness Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_junkbot_unit_80",
+      "name": "Pulse Junkbot Unit 80 Ward",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Junkbot Unit 80 Ward Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Junkbot Unit 80 Ward Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Junkbot Unit 80 Ward Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Junkbot Unit 80 Ward Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Junkbot Unit 80 Ward Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_street_samurai_series_35",
+      "name": "Neon Street Samurai Series 35 Panoply",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Street Samurai Series 35 Panoply Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Street Samurai Series 35 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Street Samurai Series 35 Panoply Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Street Samurai Series 35 Panoply Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Street Samurai Series 35 Panoply Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_bio_construct_series_31",
+      "name": "Pulse Bio-Construct Series 31 Panoply",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Bio-Construct Series 31 Panoply Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Bio-Construct Series 31 Panoply Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Bio-Construct Series 31 Panoply Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Bio-Construct Series 31 Panoply Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Bio-Construct Series 31 Panoply Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_junkbot_mk_64",
+      "name": "Pulse Junkbot Mk.64 Panoply",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Junkbot Mk.64 Panoply Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Junkbot Mk.64 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Junkbot Mk.64 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Junkbot Mk.64 Panoply Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Junkbot Mk.64 Panoply Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_nanite_swarm_type_33",
+      "name": "Pulse Nanite Swarm Type 33 Mail",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Nanite Swarm Type 33 Mail Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Nanite Swarm Type 33 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Nanite Swarm Type 33 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Nanite Swarm Type 33 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Nanite Swarm Type 33 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_junkbot_series_66",
+      "name": "Chrome Junkbot Series 66 Aegis",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Junkbot Series 66 Aegis Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Junkbot Series 66 Aegis Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Junkbot Series 66 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Junkbot Series 66 Aegis Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Junkbot Series 66 Aegis Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_neon_raider_series_72",
+      "name": "Pulse Neon Raider Series 72 Raiment",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Neon Raider Series 72 Raiment Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Neon Raider Series 72 Raiment Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Neon Raider Series 72 Raiment Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Neon Raider Series 72 Raiment Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Neon Raider Series 72 Raiment Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_voidspawn_mk_7",
+      "name": "Grim Voidspawn Mk.7 Bulwark",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Voidspawn Mk.7 Bulwark Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Voidspawn Mk.7 Bulwark Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Voidspawn Mk.7 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Voidspawn Mk.7 Bulwark Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Voidspawn Mk.7 Bulwark Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_drone_series_35",
+      "name": "Void Drone Series 35 Harness",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Drone Series 35 Harness Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Drone Series 35 Harness Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Drone Series 35 Harness Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Drone Series 35 Harness Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Drone Series 35 Harness Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_street_samurai_series_73",
+      "name": "Pulse Street Samurai Series 73 Aegis",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Street Samurai Series 73 Aegis Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Street Samurai Series 73 Aegis Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Street Samurai Series 73 Aegis Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Street Samurai Series 73 Aegis Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Street Samurai Series 73 Aegis Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_scrap_beast_unit_90",
+      "name": "Phase Scrap Beast Unit 90 Array",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Scrap Beast Unit 90 Array Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Scrap Beast Unit 90 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Scrap Beast Unit 90 Array Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Scrap Beast Unit 90 Array Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Scrap Beast Unit 90 Array Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_gutter_pirate_unit_27",
+      "name": "Black Gutter Pirate Unit 27 Guard",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Gutter Pirate Unit 27 Guard Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Gutter Pirate Unit 27 Guard Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Gutter Pirate Unit 27 Guard Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Gutter Pirate Unit 27 Guard Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Gutter Pirate Unit 27 Guard Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_warp_horror_series_93",
+      "name": "Grime Warp Horror Series 93 Aegis",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Warp Horror Series 93 Aegis Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Warp Horror Series 93 Aegis Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Warp Horror Series 93 Aegis Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Warp Horror Series 93 Aegis Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Warp Horror Series 93 Aegis Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_junkbot_series_90",
+      "name": "Chrome Junkbot Series 90 Bulwark",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Junkbot Series 90 Bulwark Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Junkbot Series 90 Bulwark Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Junkbot Series 90 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Junkbot Series 90 Bulwark Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Junkbot Series 90 Bulwark Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_scrap_beast_mk_5",
+      "name": "Rust Scrap Beast Mk.5 Carapace",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Scrap Beast Mk.5 Carapace Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Scrap Beast Mk.5 Carapace Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Scrap Beast Mk.5 Carapace Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Scrap Beast Mk.5 Carapace Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Scrap Beast Mk.5 Carapace Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_street_samurai_type_58",
+      "name": "Void Street Samurai Type 58 Ward",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Street Samurai Type 58 Ward Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Street Samurai Type 58 Ward Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Street Samurai Type 58 Ward Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Street Samurai Type 58 Ward Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Street Samurai Type 58 Ward Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_nanite_swarm_type_48",
+      "name": "Void Nanite Swarm Type 48 Guard",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Nanite Swarm Type 48 Guard Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Nanite Swarm Type 48 Guard Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Nanite Swarm Type 48 Guard Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Nanite Swarm Type 48 Guard Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Nanite Swarm Type 48 Guard Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_nanite_swarm_unit_84",
+      "name": "Phase Nanite Swarm Unit 84 Guard",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Nanite Swarm Unit 84 Guard Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Nanite Swarm Unit 84 Guard Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Nanite Swarm Unit 84 Guard Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Nanite Swarm Unit 84 Guard Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Nanite Swarm Unit 84 Guard Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_voidspawn_mk_25",
+      "name": "Pulse Voidspawn Mk.25 Mail",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Voidspawn Mk.25 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Voidspawn Mk.25 Mail Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Voidspawn Mk.25 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Voidspawn Mk.25 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Voidspawn Mk.25 Mail Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_synth_cultist_mk_89",
+      "name": "Phase Synth Cultist Mk.89 Guard",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Synth Cultist Mk.89 Guard Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Synth Cultist Mk.89 Guard Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Synth Cultist Mk.89 Guard Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Synth Cultist Mk.89 Guard Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Synth Cultist Mk.89 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_synth_cultist_mk_58",
+      "name": "Black Synth Cultist Mk.58 Carapace",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Synth Cultist Mk.58 Carapace Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Synth Cultist Mk.58 Carapace Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Synth Cultist Mk.58 Carapace Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Synth Cultist Mk.58 Carapace Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Synth Cultist Mk.58 Carapace Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_warp_horror_type_44",
+      "name": "Chrome Warp Horror Type 44 Guard",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Warp Horror Type 44 Guard Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Warp Horror Type 44 Guard Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Warp Horror Type 44 Guard Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Warp Horror Type 44 Guard Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Warp Horror Type 44 Guard Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_warp_horror_mk_34",
+      "name": "Pulse Warp Horror Mk.34 Mail",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Warp Horror Mk.34 Mail Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Warp Horror Mk.34 Mail Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Warp Horror Mk.34 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Warp Horror Mk.34 Mail Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Warp Horror Mk.34 Mail Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_voidspawn_mk_72",
+      "name": "Rust Voidspawn Mk.72 Bulwark",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Voidspawn Mk.72 Bulwark Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Voidspawn Mk.72 Bulwark Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Voidspawn Mk.72 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Voidspawn Mk.72 Bulwark Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Voidspawn Mk.72 Bulwark Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_voidspawn_type_1",
+      "name": "Pulse Voidspawn Type 1 Panoply",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Voidspawn Type 1 Panoply Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Voidspawn Type 1 Panoply Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Voidspawn Type 1 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Voidspawn Type 1 Panoply Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Voidspawn Type 1 Panoply Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_bio_construct_mk_63",
+      "name": "Grime Bio-Construct Mk.63 Array",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Bio-Construct Mk.63 Array Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Bio-Construct Mk.63 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Bio-Construct Mk.63 Array Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Bio-Construct Mk.63 Array Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Bio-Construct Mk.63 Array Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_nanite_swarm_series_17",
+      "name": "Black Nanite Swarm Series 17 Bulwark",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Nanite Swarm Series 17 Bulwark Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Nanite Swarm Series 17 Bulwark Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Nanite Swarm Series 17 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Nanite Swarm Series 17 Bulwark Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Nanite Swarm Series 17 Bulwark Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_synth_cultist_series_9",
+      "name": "Phase Synth Cultist Series 9 Array",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Synth Cultist Series 9 Array Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Synth Cultist Series 9 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Synth Cultist Series 9 Array Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Synth Cultist Series 9 Array Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Synth Cultist Series 9 Array Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_bio_construct_unit_55",
+      "name": "Grime Bio-Construct Unit 55 Raiment",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Bio-Construct Unit 55 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Bio-Construct Unit 55 Raiment Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Bio-Construct Unit 55 Raiment Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Bio-Construct Unit 55 Raiment Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Bio-Construct Unit 55 Raiment Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_drone_series_97",
+      "name": "Phase Drone Series 97 Panoply",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Drone Series 97 Panoply Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Drone Series 97 Panoply Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Drone Series 97 Panoply Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Drone Series 97 Panoply Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Drone Series 97 Panoply Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_synth_cultist_unit_1",
+      "name": "Neon Synth Cultist Unit 1 Bulwark",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Synth Cultist Unit 1 Bulwark Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Synth Cultist Unit 1 Bulwark Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Synth Cultist Unit 1 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Synth Cultist Unit 1 Bulwark Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Synth Cultist Unit 1 Bulwark Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_gutter_pirate_type_30",
+      "name": "Pulse Gutter Pirate Type 30 Mail",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Gutter Pirate Type 30 Mail Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Gutter Pirate Type 30 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Gutter Pirate Type 30 Mail Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Gutter Pirate Type 30 Mail Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Gutter Pirate Type 30 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_neon_raider_mk_34",
+      "name": "Pulse Neon Raider Mk.34 Array",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Neon Raider Mk.34 Array Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Neon Raider Mk.34 Array Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Neon Raider Mk.34 Array Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Neon Raider Mk.34 Array Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Neon Raider Mk.34 Array Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_warp_horror_unit_35",
+      "name": "Grim Warp Horror Unit 35 Array",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Warp Horror Unit 35 Array Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Warp Horror Unit 35 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Warp Horror Unit 35 Array Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Warp Horror Unit 35 Array Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Warp Horror Unit 35 Array Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_neon_raider_mk_56",
+      "name": "Rust Neon Raider Mk.56 Aegis",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Neon Raider Mk.56 Aegis Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Neon Raider Mk.56 Aegis Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Neon Raider Mk.56 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Neon Raider Mk.56 Aegis Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Neon Raider Mk.56 Aegis Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_neon_raider_series_30",
+      "name": "Phase Neon Raider Series 30 Guard",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Neon Raider Series 30 Guard Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Neon Raider Series 30 Guard Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Neon Raider Series 30 Guard Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Neon Raider Series 30 Guard Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Neon Raider Series 30 Guard Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_bio_construct_mk_30",
+      "name": "Chrome Bio-Construct Mk.30 Bulwark",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Bio-Construct Mk.30 Bulwark Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Bio-Construct Mk.30 Bulwark Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Bio-Construct Mk.30 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Bio-Construct Mk.30 Bulwark Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Bio-Construct Mk.30 Bulwark Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_street_samurai_type_98",
+      "name": "Void Street Samurai Type 98 Guard",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Street Samurai Type 98 Guard Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Street Samurai Type 98 Guard Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Street Samurai Type 98 Guard Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Street Samurai Type 98 Guard Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Street Samurai Type 98 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_gutter_pirate_type_16",
+      "name": "Void Gutter Pirate Type 16 Aegis",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Gutter Pirate Type 16 Aegis Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Gutter Pirate Type 16 Aegis Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Gutter Pirate Type 16 Aegis Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Gutter Pirate Type 16 Aegis Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Gutter Pirate Type 16 Aegis Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_neon_raider_type_67",
+      "name": "Void Neon Raider Type 67 Panoply",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Neon Raider Type 67 Panoply Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Neon Raider Type 67 Panoply Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Neon Raider Type 67 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Neon Raider Type 67 Panoply Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Neon Raider Type 67 Panoply Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_warp_horror_unit_9",
+      "name": "Grime Warp Horror Unit 9 Mail",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Warp Horror Unit 9 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Warp Horror Unit 9 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Warp Horror Unit 9 Mail Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Warp Horror Unit 9 Mail Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Warp Horror Unit 9 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_gutter_pirate_unit_18",
+      "name": "Black Gutter Pirate Unit 18 Bulwark",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Gutter Pirate Unit 18 Bulwark Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Gutter Pirate Unit 18 Bulwark Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Gutter Pirate Unit 18 Bulwark Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Gutter Pirate Unit 18 Bulwark Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Gutter Pirate Unit 18 Bulwark Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_warp_horror_type_4",
+      "name": "Pulse Warp Horror Type 4 Bulwark",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Warp Horror Type 4 Bulwark Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Warp Horror Type 4 Bulwark Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Warp Horror Type 4 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Warp Horror Type 4 Bulwark Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Warp Horror Type 4 Bulwark Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_junkbot_unit_44",
+      "name": "Void Junkbot Unit 44 Panoply",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Junkbot Unit 44 Panoply Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Junkbot Unit 44 Panoply Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Junkbot Unit 44 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Junkbot Unit 44 Panoply Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Junkbot Unit 44 Panoply Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_nanite_swarm_unit_11",
+      "name": "Void Nanite Swarm Unit 11 Raiment",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Nanite Swarm Unit 11 Raiment Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Nanite Swarm Unit 11 Raiment Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Nanite Swarm Unit 11 Raiment Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Nanite Swarm Unit 11 Raiment Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Nanite Swarm Unit 11 Raiment Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_gutter_pirate_type_52",
+      "name": "Chrome Gutter Pirate Type 52 Raiment",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Gutter Pirate Type 52 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Gutter Pirate Type 52 Raiment Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Gutter Pirate Type 52 Raiment Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Gutter Pirate Type 52 Raiment Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Gutter Pirate Type 52 Raiment Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_voidspawn_unit_34",
+      "name": "Rust Voidspawn Unit 34 Carapace",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Voidspawn Unit 34 Carapace Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Voidspawn Unit 34 Carapace Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Voidspawn Unit 34 Carapace Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Voidspawn Unit 34 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Voidspawn Unit 34 Carapace Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_warp_horror_mk_45",
+      "name": "Grim Warp Horror Mk.45 Mail",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Warp Horror Mk.45 Mail Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Warp Horror Mk.45 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Warp Horror Mk.45 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Warp Horror Mk.45 Mail Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Warp Horror Mk.45 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_drone_type_83",
+      "name": "Rust Drone Type 83 Raiment",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Drone Type 83 Raiment Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Drone Type 83 Raiment Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Drone Type 83 Raiment Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Drone Type 83 Raiment Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Drone Type 83 Raiment Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_neon_raider_series_36",
+      "name": "Grime Neon Raider Series 36 Mail",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Neon Raider Series 36 Mail Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Neon Raider Series 36 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Neon Raider Series 36 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Neon Raider Series 36 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Neon Raider Series 36 Mail Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_nanite_swarm_mk_45",
+      "name": "Black Nanite Swarm Mk.45 Mail",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Nanite Swarm Mk.45 Mail Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Nanite Swarm Mk.45 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Nanite Swarm Mk.45 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Nanite Swarm Mk.45 Mail Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Nanite Swarm Mk.45 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_voidspawn_unit_77",
+      "name": "Black Voidspawn Unit 77 Aegis",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Voidspawn Unit 77 Aegis Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Voidspawn Unit 77 Aegis Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Voidspawn Unit 77 Aegis Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Voidspawn Unit 77 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Voidspawn Unit 77 Aegis Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_junkbot_type_7",
+      "name": "Rust Junkbot Type 7 Mail",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Junkbot Type 7 Mail Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Junkbot Type 7 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Junkbot Type 7 Mail Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Junkbot Type 7 Mail Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Junkbot Type 7 Mail Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_gutter_pirate_unit_91",
+      "name": "Neon Gutter Pirate Unit 91 Mail",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Gutter Pirate Unit 91 Mail Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Gutter Pirate Unit 91 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Gutter Pirate Unit 91 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Gutter Pirate Unit 91 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Gutter Pirate Unit 91 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_neon_raider_type_76",
+      "name": "Phase Neon Raider Type 76 Mail",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Neon Raider Type 76 Mail Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Neon Raider Type 76 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Neon Raider Type 76 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Neon Raider Type 76 Mail Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Neon Raider Type 76 Mail Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_drone_unit_10",
+      "name": "Black Drone Unit 10 Array",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Drone Unit 10 Array Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Drone Unit 10 Array Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Drone Unit 10 Array Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Drone Unit 10 Array Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Drone Unit 10 Array Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_corp_enforcer_type_38",
+      "name": "Grim Corp Enforcer Type 38 Harness",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Corp Enforcer Type 38 Harness Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Corp Enforcer Type 38 Harness Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Corp Enforcer Type 38 Harness Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Corp Enforcer Type 38 Harness Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Corp Enforcer Type 38 Harness Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_warp_horror_unit_12",
+      "name": "Grime Warp Horror Unit 12 Panoply",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Warp Horror Unit 12 Panoply Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Warp Horror Unit 12 Panoply Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Warp Horror Unit 12 Panoply Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Warp Horror Unit 12 Panoply Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Warp Horror Unit 12 Panoply Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_scrap_beast_mk_36",
+      "name": "Pulse Scrap Beast Mk.36 Raiment",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Scrap Beast Mk.36 Raiment Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Scrap Beast Mk.36 Raiment Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Scrap Beast Mk.36 Raiment Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Scrap Beast Mk.36 Raiment Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Scrap Beast Mk.36 Raiment Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_junkbot_mk_20",
+      "name": "Grim Junkbot Mk.20 Carapace",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Junkbot Mk.20 Carapace Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Junkbot Mk.20 Carapace Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Junkbot Mk.20 Carapace Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Junkbot Mk.20 Carapace Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Junkbot Mk.20 Carapace Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_neon_raider_mk_27",
+      "name": "Neon Neon Raider Mk.27 Mail",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Neon Raider Mk.27 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Neon Raider Mk.27 Mail Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Neon Raider Mk.27 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Neon Raider Mk.27 Mail Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Neon Raider Mk.27 Mail Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_corp_enforcer_mk_79",
+      "name": "Pulse Corp Enforcer Mk.79 Array",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Corp Enforcer Mk.79 Array Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Corp Enforcer Mk.79 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Corp Enforcer Mk.79 Array Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Corp Enforcer Mk.79 Array Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Corp Enforcer Mk.79 Array Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_corp_enforcer_mk_81",
+      "name": "Grime Corp Enforcer Mk.81 Mail",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Corp Enforcer Mk.81 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Corp Enforcer Mk.81 Mail Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Corp Enforcer Mk.81 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Corp Enforcer Mk.81 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Corp Enforcer Mk.81 Mail Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_nanite_swarm_series_35",
+      "name": "Phase Nanite Swarm Series 35 Ward",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Nanite Swarm Series 35 Ward Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Nanite Swarm Series 35 Ward Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Nanite Swarm Series 35 Ward Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Nanite Swarm Series 35 Ward Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Nanite Swarm Series 35 Ward Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_junkbot_type_33",
+      "name": "Void Junkbot Type 33 Array",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Junkbot Type 33 Array Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Junkbot Type 33 Array Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Junkbot Type 33 Array Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Junkbot Type 33 Array Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Junkbot Type 33 Array Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_corp_enforcer_type_31",
+      "name": "Grime Corp Enforcer Type 31 Carapace",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Corp Enforcer Type 31 Carapace Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Corp Enforcer Type 31 Carapace Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Corp Enforcer Type 31 Carapace Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Corp Enforcer Type 31 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Corp Enforcer Type 31 Carapace Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_junkbot_type_46",
+      "name": "Pulse Junkbot Type 46 Raiment",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Junkbot Type 46 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Junkbot Type 46 Raiment Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Junkbot Type 46 Raiment Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Junkbot Type 46 Raiment Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Junkbot Type 46 Raiment Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_nanite_swarm_unit_52",
+      "name": "Rust Nanite Swarm Unit 52 Harness",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Nanite Swarm Unit 52 Harness Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Nanite Swarm Unit 52 Harness Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Nanite Swarm Unit 52 Harness Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Nanite Swarm Unit 52 Harness Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Nanite Swarm Unit 52 Harness Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_nanite_swarm_mk_47",
+      "name": "Rust Nanite Swarm Mk.47 Guard",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Nanite Swarm Mk.47 Guard Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Nanite Swarm Mk.47 Guard Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Nanite Swarm Mk.47 Guard Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Nanite Swarm Mk.47 Guard Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Nanite Swarm Mk.47 Guard Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_street_samurai_mk_86",
+      "name": "Pulse Street Samurai Mk.86 Array",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Street Samurai Mk.86 Array Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Street Samurai Mk.86 Array Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Street Samurai Mk.86 Array Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Street Samurai Mk.86 Array Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Street Samurai Mk.86 Array Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_street_samurai_type_56",
+      "name": "Phase Street Samurai Type 56 Panoply",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Street Samurai Type 56 Panoply Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Street Samurai Type 56 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Street Samurai Type 56 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Street Samurai Type 56 Panoply Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Street Samurai Type 56 Panoply Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_nanite_swarm_unit_49",
+      "name": "Pulse Nanite Swarm Unit 49 Array",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Nanite Swarm Unit 49 Array Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Nanite Swarm Unit 49 Array Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Nanite Swarm Unit 49 Array Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Nanite Swarm Unit 49 Array Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Nanite Swarm Unit 49 Array Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_bio_construct_type_56",
+      "name": "Black Bio-Construct Type 56 Mail",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Bio-Construct Type 56 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Bio-Construct Type 56 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Bio-Construct Type 56 Mail Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Bio-Construct Type 56 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Bio-Construct Type 56 Mail Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_scrap_beast_mk_33",
+      "name": "Neon Scrap Beast Mk.33 Aegis",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Scrap Beast Mk.33 Aegis Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Scrap Beast Mk.33 Aegis Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Scrap Beast Mk.33 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Scrap Beast Mk.33 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Scrap Beast Mk.33 Aegis Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_corp_enforcer_type_37",
+      "name": "Neon Corp Enforcer Type 37 Mail",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Corp Enforcer Type 37 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Corp Enforcer Type 37 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Corp Enforcer Type 37 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Corp Enforcer Type 37 Mail Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Corp Enforcer Type 37 Mail Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_drone_type_69",
+      "name": "Chrome Drone Type 69 Bulwark",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Drone Type 69 Bulwark Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Drone Type 69 Bulwark Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Drone Type 69 Bulwark Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Drone Type 69 Bulwark Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Drone Type 69 Bulwark Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_bio_construct_unit_45",
+      "name": "Grime Bio-Construct Unit 45 Array",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Bio-Construct Unit 45 Array Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Bio-Construct Unit 45 Array Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Bio-Construct Unit 45 Array Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Bio-Construct Unit 45 Array Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Bio-Construct Unit 45 Array Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_voidspawn_unit_14",
+      "name": "Chrome Voidspawn Unit 14 Aegis",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Voidspawn Unit 14 Aegis Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Voidspawn Unit 14 Aegis Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Voidspawn Unit 14 Aegis Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Voidspawn Unit 14 Aegis Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Voidspawn Unit 14 Aegis Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_corp_enforcer_mk_82",
+      "name": "Grim Corp Enforcer Mk.82 Guard",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Corp Enforcer Mk.82 Guard Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Corp Enforcer Mk.82 Guard Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Corp Enforcer Mk.82 Guard Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Corp Enforcer Mk.82 Guard Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Corp Enforcer Mk.82 Guard Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_scrap_beast_mk_95",
+      "name": "Phase Scrap Beast Mk.95 Raiment",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Scrap Beast Mk.95 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Scrap Beast Mk.95 Raiment Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Scrap Beast Mk.95 Raiment Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Scrap Beast Mk.95 Raiment Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Scrap Beast Mk.95 Raiment Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_scrap_beast_unit_83",
+      "name": "Chrome Scrap Beast Unit 83 Guard",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Scrap Beast Unit 83 Guard Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Scrap Beast Unit 83 Guard Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Scrap Beast Unit 83 Guard Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Scrap Beast Unit 83 Guard Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Scrap Beast Unit 83 Guard Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_warp_horror_type_20",
+      "name": "Phase Warp Horror Type 20 Mail",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Warp Horror Type 20 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Warp Horror Type 20 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Warp Horror Type 20 Mail Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Warp Horror Type 20 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Warp Horror Type 20 Mail Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_nanite_swarm_type_33",
+      "name": "Rust Nanite Swarm Type 33 Ward",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Nanite Swarm Type 33 Ward Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Nanite Swarm Type 33 Ward Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Nanite Swarm Type 33 Ward Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Nanite Swarm Type 33 Ward Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Nanite Swarm Type 33 Ward Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_drone_type_86",
+      "name": "Grim Drone Type 86 Mail",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Drone Type 86 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Drone Type 86 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Drone Type 86 Mail Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Drone Type 86 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Drone Type 86 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_gutter_pirate_series_25",
+      "name": "Grim Gutter Pirate Series 25 Ward",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Gutter Pirate Series 25 Ward Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Gutter Pirate Series 25 Ward Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Gutter Pirate Series 25 Ward Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Gutter Pirate Series 25 Ward Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Gutter Pirate Series 25 Ward Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_gutter_pirate_series_93",
+      "name": "Grime Gutter Pirate Series 93 Panoply",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Gutter Pirate Series 93 Panoply Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Gutter Pirate Series 93 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Gutter Pirate Series 93 Panoply Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Gutter Pirate Series 93 Panoply Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Gutter Pirate Series 93 Panoply Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_neon_raider_type_59",
+      "name": "Grime Neon Raider Type 59 Bulwark",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Neon Raider Type 59 Bulwark Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Neon Raider Type 59 Bulwark Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Neon Raider Type 59 Bulwark Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Neon Raider Type 59 Bulwark Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Neon Raider Type 59 Bulwark Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_corp_enforcer_series_65",
+      "name": "Chrome Corp Enforcer Series 65 Aegis",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Corp Enforcer Series 65 Aegis Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Corp Enforcer Series 65 Aegis Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Corp Enforcer Series 65 Aegis Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Corp Enforcer Series 65 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Corp Enforcer Series 65 Aegis Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_nanite_swarm_unit_8",
+      "name": "Chrome Nanite Swarm Unit 8 Mail",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Nanite Swarm Unit 8 Mail Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Nanite Swarm Unit 8 Mail Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Nanite Swarm Unit 8 Mail Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Nanite Swarm Unit 8 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Nanite Swarm Unit 8 Mail Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_street_samurai_mk_15",
+      "name": "Grime Street Samurai Mk.15 Guard",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Street Samurai Mk.15 Guard Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Street Samurai Mk.15 Guard Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Street Samurai Mk.15 Guard Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Street Samurai Mk.15 Guard Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Street Samurai Mk.15 Guard Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_street_samurai_mk_49",
+      "name": "Pulse Street Samurai Mk.49 Harness",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Street Samurai Mk.49 Harness Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Street Samurai Mk.49 Harness Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Street Samurai Mk.49 Harness Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Street Samurai Mk.49 Harness Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Street Samurai Mk.49 Harness Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_nanite_swarm_type_6",
+      "name": "Grime Nanite Swarm Type 6 Array",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Nanite Swarm Type 6 Array Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Nanite Swarm Type 6 Array Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Nanite Swarm Type 6 Array Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Nanite Swarm Type 6 Array Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Nanite Swarm Type 6 Array Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_neon_raider_mk_64",
+      "name": "Phase Neon Raider Mk.64 Raiment",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Neon Raider Mk.64 Raiment Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Neon Raider Mk.64 Raiment Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Neon Raider Mk.64 Raiment Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Neon Raider Mk.64 Raiment Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Neon Raider Mk.64 Raiment Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_street_samurai_mk_48",
+      "name": "Black Street Samurai Mk.48 Mail",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Street Samurai Mk.48 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Street Samurai Mk.48 Mail Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Street Samurai Mk.48 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Street Samurai Mk.48 Mail Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Street Samurai Mk.48 Mail Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_synth_cultist_series_92",
+      "name": "Black Synth Cultist Series 92 Array",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Synth Cultist Series 92 Array Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Synth Cultist Series 92 Array Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Synth Cultist Series 92 Array Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Synth Cultist Series 92 Array Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Synth Cultist Series 92 Array Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_nanite_swarm_unit_13",
+      "name": "Pulse Nanite Swarm Unit 13 Harness",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Nanite Swarm Unit 13 Harness Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Nanite Swarm Unit 13 Harness Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Nanite Swarm Unit 13 Harness Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Nanite Swarm Unit 13 Harness Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Nanite Swarm Unit 13 Harness Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_neon_raider_mk_19",
+      "name": "Chrome Neon Raider Mk.19 Aegis",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Neon Raider Mk.19 Aegis Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Neon Raider Mk.19 Aegis Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Neon Raider Mk.19 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Neon Raider Mk.19 Aegis Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Neon Raider Mk.19 Aegis Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_scrap_beast_series_69",
+      "name": "Neon Scrap Beast Series 69 Aegis",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Scrap Beast Series 69 Aegis Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Scrap Beast Series 69 Aegis Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Scrap Beast Series 69 Aegis Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Scrap Beast Series 69 Aegis Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Scrap Beast Series 69 Aegis Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_drone_series_12",
+      "name": "Rust Drone Series 12 Guard",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Drone Series 12 Guard Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Drone Series 12 Guard Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Drone Series 12 Guard Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Drone Series 12 Guard Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Drone Series 12 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_corp_enforcer_series_63",
+      "name": "Chrome Corp Enforcer Series 63 Mail",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Corp Enforcer Series 63 Mail Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Corp Enforcer Series 63 Mail Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Corp Enforcer Series 63 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Corp Enforcer Series 63 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Corp Enforcer Series 63 Mail Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_drone_type_25",
+      "name": "Black Drone Type 25 Carapace",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Drone Type 25 Carapace Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Drone Type 25 Carapace Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Drone Type 25 Carapace Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Drone Type 25 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Drone Type 25 Carapace Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_neon_raider_mk_87",
+      "name": "Void Neon Raider Mk.87 Array",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Neon Raider Mk.87 Array Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Neon Raider Mk.87 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Neon Raider Mk.87 Array Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Neon Raider Mk.87 Array Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Neon Raider Mk.87 Array Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_junkbot_series_16",
+      "name": "Void Junkbot Series 16 Ward",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Junkbot Series 16 Ward Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Junkbot Series 16 Ward Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Junkbot Series 16 Ward Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Junkbot Series 16 Ward Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Junkbot Series 16 Ward Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_street_samurai_mk_67",
+      "name": "Phase Street Samurai Mk.67 Mail",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Street Samurai Mk.67 Mail Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Street Samurai Mk.67 Mail Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Street Samurai Mk.67 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Street Samurai Mk.67 Mail Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Street Samurai Mk.67 Mail Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_street_samurai_unit_29",
+      "name": "Grim Street Samurai Unit 29 Aegis",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Street Samurai Unit 29 Aegis Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Street Samurai Unit 29 Aegis Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Street Samurai Unit 29 Aegis Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Street Samurai Unit 29 Aegis Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Street Samurai Unit 29 Aegis Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_bio_construct_mk_74",
+      "name": "Grime Bio-Construct Mk.74 Panoply",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Bio-Construct Mk.74 Panoply Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Bio-Construct Mk.74 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Bio-Construct Mk.74 Panoply Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Bio-Construct Mk.74 Panoply Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Bio-Construct Mk.74 Panoply Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_nanite_swarm_unit_22",
+      "name": "Neon Nanite Swarm Unit 22 Ward",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Nanite Swarm Unit 22 Ward Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Nanite Swarm Unit 22 Ward Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Nanite Swarm Unit 22 Ward Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Nanite Swarm Unit 22 Ward Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Nanite Swarm Unit 22 Ward Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_scrap_beast_series_69",
+      "name": "Grim Scrap Beast Series 69 Carapace",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Scrap Beast Series 69 Carapace Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Scrap Beast Series 69 Carapace Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Scrap Beast Series 69 Carapace Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Scrap Beast Series 69 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Scrap Beast Series 69 Carapace Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_bio_construct_mk_18",
+      "name": "Rust Bio-Construct Mk.18 Mail",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Bio-Construct Mk.18 Mail Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Bio-Construct Mk.18 Mail Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Bio-Construct Mk.18 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Bio-Construct Mk.18 Mail Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Bio-Construct Mk.18 Mail Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_pulse_corp_enforcer_series_93",
+      "name": "Pulse Corp Enforcer Series 93 Ward",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Pulse Corp Enforcer Series 93 Ward Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Pulse Corp Enforcer Series 93 Ward Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Pulse Corp Enforcer Series 93 Ward Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Pulse Corp Enforcer Series 93 Ward Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Pulse Corp Enforcer Series 93 Ward Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_nanite_swarm_unit_25",
+      "name": "Grime Nanite Swarm Unit 25 Guard",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Nanite Swarm Unit 25 Guard Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Nanite Swarm Unit 25 Guard Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Nanite Swarm Unit 25 Guard Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Nanite Swarm Unit 25 Guard Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Nanite Swarm Unit 25 Guard Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grime_gutter_pirate_type_79",
+      "name": "Grime Gutter Pirate Type 79 Mail",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grime Gutter Pirate Type 79 Mail Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grime Gutter Pirate Type 79 Mail Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grime Gutter Pirate Type 79 Mail Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grime Gutter Pirate Type 79 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Grime Gutter Pirate Type 79 Mail Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_neon_raider_unit_89",
+      "name": "Void Neon Raider Unit 89 Bulwark",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Neon Raider Unit 89 Bulwark Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Neon Raider Unit 89 Bulwark Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Neon Raider Unit 89 Bulwark Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Neon Raider Unit 89 Bulwark Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Neon Raider Unit 89 Bulwark Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_nanite_swarm_series_47",
+      "name": "Black Nanite Swarm Series 47 Bulwark",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Nanite Swarm Series 47 Bulwark Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Nanite Swarm Series 47 Bulwark Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Nanite Swarm Series 47 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Nanite Swarm Series 47 Bulwark Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Nanite Swarm Series 47 Bulwark Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_nanite_swarm_series_35",
+      "name": "Void Nanite Swarm Series 35 Raiment",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Nanite Swarm Series 35 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Nanite Swarm Series 35 Raiment Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Nanite Swarm Series 35 Raiment Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Nanite Swarm Series 35 Raiment Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Nanite Swarm Series 35 Raiment Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_voidspawn_mk_69",
+      "name": "Neon Voidspawn Mk.69 Panoply",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Voidspawn Mk.69 Panoply Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Voidspawn Mk.69 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Voidspawn Mk.69 Panoply Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Voidspawn Mk.69 Panoply Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Voidspawn Mk.69 Panoply Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_corp_enforcer_mk_21",
+      "name": "Black Corp Enforcer Mk.21 Harness",
+      "enemy_family": "Corp Enforcer",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Corp Enforcer Mk.21 Harness Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Corp Enforcer Mk.21 Harness Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Corp Enforcer Mk.21 Harness Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Corp Enforcer Mk.21 Harness Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Corp Enforcer Mk.21 Harness Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_synth_cultist_unit_6",
+      "name": "Grim Synth Cultist Unit 6 Raiment",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Synth Cultist Unit 6 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Synth Cultist Unit 6 Raiment Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Synth Cultist Unit 6 Raiment Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Synth Cultist Unit 6 Raiment Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Synth Cultist Unit 6 Raiment Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_drone_type_37",
+      "name": "Chrome Drone Type 37 Mail",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Drone Type 37 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Drone Type 37 Mail Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Drone Type 37 Mail Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Drone Type 37 Mail Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Drone Type 37 Mail Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_drone_mk_81",
+      "name": "Void Drone Mk.81 Ward",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Drone Mk.81 Ward Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Drone Mk.81 Ward Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Drone Mk.81 Ward Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Drone Mk.81 Ward Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Drone Mk.81 Ward Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_synth_cultist_type_30",
+      "name": "Neon Synth Cultist Type 30 Carapace",
+      "enemy_family": "Synth Cultist",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Synth Cultist Type 30 Carapace Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Synth Cultist Type 30 Carapace Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Synth Cultist Type 30 Carapace Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Synth Cultist Type 30 Carapace Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Synth Cultist Type 30 Carapace Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_scrap_beast_unit_64",
+      "name": "Phase Scrap Beast Unit 64 Aegis",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Scrap Beast Unit 64 Aegis Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Scrap Beast Unit 64 Aegis Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Scrap Beast Unit 64 Aegis Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Scrap Beast Unit 64 Aegis Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Scrap Beast Unit 64 Aegis Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_voidspawn_series_27",
+      "name": "Void Voidspawn Series 27 Carapace",
+      "enemy_family": "Voidspawn",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Voidspawn Series 27 Carapace Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Voidspawn Series 27 Carapace Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Voidspawn Series 27 Carapace Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Voidspawn Series 27 Carapace Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Voidspawn Series 27 Carapace Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_warp_horror_type_20",
+      "name": "Black Warp Horror Type 20 Aegis",
+      "enemy_family": "Warp Horror",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Warp Horror Type 20 Aegis Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Warp Horror Type 20 Aegis Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Warp Horror Type 20 Aegis Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Warp Horror Type 20 Aegis Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Warp Horror Type 20 Aegis Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_junkbot_series_76",
+      "name": "Chrome Junkbot Series 76 Array",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Junkbot Series 76 Array Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Junkbot Series 76 Array Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Junkbot Series 76 Array Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Junkbot Series 76 Array Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Junkbot Series 76 Array Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_bio_construct_mk_58",
+      "name": "Neon Bio-Construct Mk.58 Mail",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Bio-Construct Mk.58 Mail Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Bio-Construct Mk.58 Mail Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Bio-Construct Mk.58 Mail Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Bio-Construct Mk.58 Mail Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Bio-Construct Mk.58 Mail Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_drone_type_53",
+      "name": "Neon Drone Type 53 Array",
+      "enemy_family": "Drone",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Drone Type 53 Array Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Drone Type 53 Array Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Drone Type 53 Array Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Drone Type 53 Array Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Drone Type 53 Array Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_street_samurai_type_86",
+      "name": "Chrome Street Samurai Type 86 Guard",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Street Samurai Type 86 Guard Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Street Samurai Type 86 Guard Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Street Samurai Type 86 Guard Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Street Samurai Type 86 Guard Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Street Samurai Type 86 Guard Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_junkbot_type_50",
+      "name": "Grim Junkbot Type 50 Panoply",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Junkbot Type 50 Panoply Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Junkbot Type 50 Panoply Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Junkbot Type 50 Panoply Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Junkbot Type 50 Panoply Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Junkbot Type 50 Panoply Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_nanite_swarm_type_61",
+      "name": "Rust Nanite Swarm Type 61 Harness",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Nanite Swarm Type 61 Harness Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Nanite Swarm Type 61 Harness Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Nanite Swarm Type 61 Harness Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Nanite Swarm Type 61 Harness Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Nanite Swarm Type 61 Harness Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_black_gutter_pirate_unit_93",
+      "name": "Black Gutter Pirate Unit 93 Panoply",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Black Gutter Pirate Unit 93 Panoply Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Black Gutter Pirate Unit 93 Panoply Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Black Gutter Pirate Unit 93 Panoply Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Black Gutter Pirate Unit 93 Panoply Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Black Gutter Pirate Unit 93 Panoply Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_neon_raider_series_71",
+      "name": "Rust Neon Raider Series 71 Bulwark",
+      "enemy_family": "Neon Raider",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Neon Raider Series 71 Bulwark Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Neon Raider Series 71 Bulwark Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Neon Raider Series 71 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Neon Raider Series 71 Bulwark Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Neon Raider Series 71 Bulwark Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_rust_bio_construct_mk_78",
+      "name": "Rust Bio-Construct Mk.78 Mail",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Rust Bio-Construct Mk.78 Mail Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Rust Bio-Construct Mk.78 Mail Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Rust Bio-Construct Mk.78 Mail Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Rust Bio-Construct Mk.78 Mail Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Rust Bio-Construct Mk.78 Mail Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_chrome_street_samurai_unit_91",
+      "name": "Chrome Street Samurai Unit 91 Guard",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Chrome Street Samurai Unit 91 Guard Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Chrome Street Samurai Unit 91 Guard Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Chrome Street Samurai Unit 91 Guard Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Chrome Street Samurai Unit 91 Guard Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Chrome Street Samurai Unit 91 Guard Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_scrap_beast_mk_23",
+      "name": "Grim Scrap Beast Mk.23 Raiment",
+      "enemy_family": "Scrap Beast",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Scrap Beast Mk.23 Raiment Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Scrap Beast Mk.23 Raiment Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Scrap Beast Mk.23 Raiment Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Scrap Beast Mk.23 Raiment Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Scrap Beast Mk.23 Raiment Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_gutter_pirate_unit_3",
+      "name": "Grim Gutter Pirate Unit 3 Panoply",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Gutter Pirate Unit 3 Panoply Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Gutter Pirate Unit 3 Panoply Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Gutter Pirate Unit 3 Panoply Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Gutter Pirate Unit 3 Panoply Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Gutter Pirate Unit 3 Panoply Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_grim_bio_construct_series_85",
+      "name": "Grim Bio-Construct Series 85 Carapace",
+      "enemy_family": "Bio-Construct",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Grim Bio-Construct Series 85 Carapace Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Grim Bio-Construct Series 85 Carapace Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Grim Bio-Construct Series 85 Carapace Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Grim Bio-Construct Series 85 Carapace Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Grim Bio-Construct Series 85 Carapace Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_nanite_swarm_mk_66",
+      "name": "Void Nanite Swarm Mk.66 Harness",
+      "enemy_family": "Nanite Swarm",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Nanite Swarm Mk.66 Harness Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Nanite Swarm Mk.66 Harness Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Nanite Swarm Mk.66 Harness Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Nanite Swarm Mk.66 Harness Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Nanite Swarm Mk.66 Harness Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_neon_junkbot_mk_56",
+      "name": "Neon Junkbot Mk.56 Bulwark",
+      "enemy_family": "Junkbot",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Neon Junkbot Mk.56 Bulwark Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Neon Junkbot Mk.56 Bulwark Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Neon Junkbot Mk.56 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Neon Junkbot Mk.56 Bulwark Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Neon Junkbot Mk.56 Bulwark Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_phase_gutter_pirate_unit_63",
+      "name": "Phase Gutter Pirate Unit 63 Bulwark",
+      "enemy_family": "Gutter Pirate",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Phase Gutter Pirate Unit 63 Bulwark Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Phase Gutter Pirate Unit 63 Bulwark Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Phase Gutter Pirate Unit 63 Bulwark Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Phase Gutter Pirate Unit 63 Bulwark Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Phase Gutter Pirate Unit 63 Bulwark Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "enemy_type_void_street_samurai_unit_14",
+      "name": "Void Street Samurai Unit 14 Harness",
+      "enemy_family": "Street Samurai",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Void Street Samurai Unit 14 Harness Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Void Street Samurai Unit 14 Harness Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Void Street Samurai Unit 14 Harness Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Void Street Samurai Unit 14 Harness Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Void Street Samurai Unit 14 Harness Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    }
+  ]
+}

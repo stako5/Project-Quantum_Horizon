@@ -1,0 +1,1112 @@
+{
+  "class": "Life Mage",
+  "abilities": [
+    {
+      "id": "life_mage/bloom_act_1",
+      "name": "Bloom Act 1",
+      "branch": "Bloom",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 29.5
+      },
+      "cooldown_s": 18.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.21
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.03
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_2",
+      "name": "Bloom Act 2",
+      "branch": "Bloom",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 31.3
+      },
+      "cooldown_s": 9.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.08
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_3",
+      "name": "Bloom Act 3",
+      "branch": "Bloom",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 16.4
+      },
+      "cooldown_s": 18.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.9
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.08
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_4",
+      "name": "Bloom Act 4",
+      "branch": "Bloom",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 11.9
+      },
+      "cooldown_s": 11.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.64
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_5",
+      "name": "Bloom Act 5",
+      "branch": "Bloom",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 20.6
+      },
+      "cooldown_s": 10.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.21
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.01
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_6",
+      "name": "Bloom Act 6",
+      "branch": "Bloom",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 22.7
+      },
+      "cooldown_s": 7.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.86
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.94
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_7",
+      "name": "Bloom Act 7",
+      "branch": "Bloom",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 10.6
+      },
+      "cooldown_s": 19.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.45
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_8",
+      "name": "Bloom Act 8",
+      "branch": "Bloom",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 18.1
+      },
+      "cooldown_s": 18.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.07
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_9",
+      "name": "Bloom Act 9",
+      "branch": "Bloom",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 32.3
+      },
+      "cooldown_s": 19.8,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.2
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_act_10",
+      "name": "Bloom Act 10",
+      "branch": "Bloom",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 21.1
+      },
+      "cooldown_s": 9.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.19
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.02
+        }
+      ],
+      "description": "Active ability in Bloom branch."
+    },
+    {
+      "id": "life_mage/bloom_pas_1",
+      "name": "Bloom Passive 1",
+      "branch": "Bloom",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.9
+        }
+      ],
+      "description": "Passive bonus themed to Bloom."
+    },
+    {
+      "id": "life_mage/bloom_pas_2",
+      "name": "Bloom Passive 2",
+      "branch": "Bloom",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.3
+        }
+      ],
+      "description": "Passive bonus themed to Bloom."
+    },
+    {
+      "id": "life_mage/bloom_pas_3",
+      "name": "Bloom Passive 3",
+      "branch": "Bloom",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.9
+        }
+      ],
+      "description": "Passive bonus themed to Bloom."
+    },
+    {
+      "id": "life_mage/bloom_pas_4",
+      "name": "Bloom Passive 4",
+      "branch": "Bloom",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.9
+        }
+      ],
+      "description": "Passive bonus themed to Bloom."
+    },
+    {
+      "id": "life_mage/bloom_exo_1",
+      "name": "Bloom Exotic 1",
+      "branch": "Bloom",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Bloom to other branches."
+    },
+    {
+      "id": "life_mage/bloom_exo_2",
+      "name": "Bloom Exotic 2",
+      "branch": "Bloom",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Bloom to other branches."
+    },
+    {
+      "id": "life_mage/thorns_act_1",
+      "name": "Thorns Act 1",
+      "branch": "Thorns",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 30.0
+      },
+      "cooldown_s": 17.5,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.8
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.81
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_2",
+      "name": "Thorns Act 2",
+      "branch": "Thorns",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 26.0
+      },
+      "cooldown_s": 17.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.28
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.15
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_3",
+      "name": "Thorns Act 3",
+      "branch": "Thorns",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 10.1
+      },
+      "cooldown_s": 7.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.14
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.87
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_4",
+      "name": "Thorns Act 4",
+      "branch": "Thorns",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 34.7
+      },
+      "cooldown_s": 14.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.15
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.47
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_5",
+      "name": "Thorns Act 5",
+      "branch": "Thorns",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 27.8
+      },
+      "cooldown_s": 13.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.29
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.18
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_6",
+      "name": "Thorns Act 6",
+      "branch": "Thorns",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 28.2
+      },
+      "cooldown_s": 9.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.06
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.97
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_7",
+      "name": "Thorns Act 7",
+      "branch": "Thorns",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 28.6
+      },
+      "cooldown_s": 14.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.16
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.15
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_8",
+      "name": "Thorns Act 8",
+      "branch": "Thorns",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 11.9
+      },
+      "cooldown_s": 10.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.84
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.52
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_9",
+      "name": "Thorns Act 9",
+      "branch": "Thorns",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 33.4
+      },
+      "cooldown_s": 14.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.86
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.17
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_act_10",
+      "name": "Thorns Act 10",
+      "branch": "Thorns",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 16.6
+      },
+      "cooldown_s": 13.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.33
+        }
+      ],
+      "description": "Active ability in Thorns branch."
+    },
+    {
+      "id": "life_mage/thorns_pas_1",
+      "name": "Thorns Passive 1",
+      "branch": "Thorns",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.8
+        }
+      ],
+      "description": "Passive bonus themed to Thorns."
+    },
+    {
+      "id": "life_mage/thorns_pas_2",
+      "name": "Thorns Passive 2",
+      "branch": "Thorns",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.0
+        }
+      ],
+      "description": "Passive bonus themed to Thorns."
+    },
+    {
+      "id": "life_mage/thorns_pas_3",
+      "name": "Thorns Passive 3",
+      "branch": "Thorns",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.4
+        }
+      ],
+      "description": "Passive bonus themed to Thorns."
+    },
+    {
+      "id": "life_mage/thorns_pas_4",
+      "name": "Thorns Passive 4",
+      "branch": "Thorns",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.4
+        }
+      ],
+      "description": "Passive bonus themed to Thorns."
+    },
+    {
+      "id": "life_mage/thorns_exo_1",
+      "name": "Thorns Exotic 1",
+      "branch": "Thorns",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Thorns to other branches."
+    },
+    {
+      "id": "life_mage/thorns_exo_2",
+      "name": "Thorns Exotic 2",
+      "branch": "Thorns",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Thorns to other branches."
+    },
+    {
+      "id": "life_mage/renewal_act_1",
+      "name": "Renewal Act 1",
+      "branch": "Renewal",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 10.7
+      },
+      "cooldown_s": 6.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.29
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.51
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_2",
+      "name": "Renewal Act 2",
+      "branch": "Renewal",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 27.1
+      },
+      "cooldown_s": 9.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.1
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.99
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_3",
+      "name": "Renewal Act 3",
+      "branch": "Renewal",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 18.8
+      },
+      "cooldown_s": 15.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.82
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.37
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_4",
+      "name": "Renewal Act 4",
+      "branch": "Renewal",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 32.4
+      },
+      "cooldown_s": 18.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.21
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.2
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_5",
+      "name": "Renewal Act 5",
+      "branch": "Renewal",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 20.5
+      },
+      "cooldown_s": 8.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.02
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.27
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_6",
+      "name": "Renewal Act 6",
+      "branch": "Renewal",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 26.2
+      },
+      "cooldown_s": 15.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.95
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.3
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_7",
+      "name": "Renewal Act 7",
+      "branch": "Renewal",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 31.9
+      },
+      "cooldown_s": 17.9,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.27
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.95
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_8",
+      "name": "Renewal Act 8",
+      "branch": "Renewal",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 22.9
+      },
+      "cooldown_s": 18.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.73
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_9",
+      "name": "Renewal Act 9",
+      "branch": "Renewal",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 31.4
+      },
+      "cooldown_s": 18.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.95
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.18
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_act_10",
+      "name": "Renewal Act 10",
+      "branch": "Renewal",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Vitality",
+        "cost": 18.6
+      },
+      "cooldown_s": 13.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.15
+        }
+      ],
+      "description": "Active ability in Renewal branch."
+    },
+    {
+      "id": "life_mage/renewal_pas_1",
+      "name": "Renewal Passive 1",
+      "branch": "Renewal",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.4
+        }
+      ],
+      "description": "Passive bonus themed to Renewal."
+    },
+    {
+      "id": "life_mage/renewal_pas_2",
+      "name": "Renewal Passive 2",
+      "branch": "Renewal",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.6
+        }
+      ],
+      "description": "Passive bonus themed to Renewal."
+    },
+    {
+      "id": "life_mage/renewal_pas_3",
+      "name": "Renewal Passive 3",
+      "branch": "Renewal",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.6
+        }
+      ],
+      "description": "Passive bonus themed to Renewal."
+    },
+    {
+      "id": "life_mage/renewal_pas_4",
+      "name": "Renewal Passive 4",
+      "branch": "Renewal",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.8
+        }
+      ],
+      "description": "Passive bonus themed to Renewal."
+    },
+    {
+      "id": "life_mage/renewal_exo_1",
+      "name": "Renewal Exotic 1",
+      "branch": "Renewal",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Renewal to other branches."
+    },
+    {
+      "id": "life_mage/renewal_exo_2",
+      "name": "Renewal Exotic 2",
+      "branch": "Renewal",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Renewal to other branches."
+    },
+    {
+      "id": "life_mage/ultimate_1",
+      "name": "Life Mage Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Vitality",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Life Mage."
+    },
+    {
+      "id": "life_mage/ultimate_2",
+      "name": "Life Mage Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Vitality",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Life Mage."
+    }
+  ],
+  "perks": []
+}

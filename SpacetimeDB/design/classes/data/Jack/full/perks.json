@@ -1,0 +1,1957 @@
+{
+  "class": "Jack of All Trades",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "jack_of_all_trades/perk_1",
+      "name": "Jack of All Trades Perk 1",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_2",
+      "name": "Jack of All Trades Perk 2",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.7,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_3",
+      "name": "Jack of All Trades Perk 3",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_4",
+      "name": "Jack of All Trades Perk 4",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_5",
+      "name": "Jack of All Trades Perk 5",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.1,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_6",
+      "name": "Jack of All Trades Perk 6",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_7",
+      "name": "Jack of All Trades Perk 7",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_8",
+      "name": "Jack of All Trades Perk 8",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_9",
+      "name": "Jack of All Trades Perk 9",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_10",
+      "name": "Jack of All Trades Perk 10",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.4,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_11",
+      "name": "Jack of All Trades Perk 11",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.3,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_12",
+      "name": "Jack of All Trades Perk 12",
+      "tier": "Legendary",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_13",
+      "name": "Jack of All Trades Perk 13",
+      "tier": "Legendary",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.5,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_14",
+      "name": "Jack of All Trades Perk 14",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_15",
+      "name": "Jack of All Trades Perk 15",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_16",
+      "name": "Jack of All Trades Perk 16",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_17",
+      "name": "Jack of All Trades Perk 17",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.2,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_18",
+      "name": "Jack of All Trades Perk 18",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 3.0,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_19",
+      "name": "Jack of All Trades Perk 19",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_20",
+      "name": "Jack of All Trades Perk 20",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_21",
+      "name": "Jack of All Trades Perk 21",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.7,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_22",
+      "name": "Jack of All Trades Perk 22",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_23",
+      "name": "Jack of All Trades Perk 23",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_24",
+      "name": "Jack of All Trades Perk 24",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.6,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_25",
+      "name": "Jack of All Trades Perk 25",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_26",
+      "name": "Jack of All Trades Perk 26",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_27",
+      "name": "Jack of All Trades Perk 27",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.3,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_28",
+      "name": "Jack of All Trades Perk 28",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_29",
+      "name": "Jack of All Trades Perk 29",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_30",
+      "name": "Jack of All Trades Perk 30",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.6,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_31",
+      "name": "Jack of All Trades Perk 31",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.1,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_32",
+      "name": "Jack of All Trades Perk 32",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_33",
+      "name": "Jack of All Trades Perk 33",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 3.0,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_34",
+      "name": "Jack of All Trades Perk 34",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.7,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_35",
+      "name": "Jack of All Trades Perk 35",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.1,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_36",
+      "name": "Jack of All Trades Perk 36",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_37",
+      "name": "Jack of All Trades Perk 37",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_38",
+      "name": "Jack of All Trades Perk 38",
+      "tier": "Legendary",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_39",
+      "name": "Jack of All Trades Perk 39",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_40",
+      "name": "Jack of All Trades Perk 40",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.6,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_41",
+      "name": "Jack of All Trades Perk 41",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_42",
+      "name": "Jack of All Trades Perk 42",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_43",
+      "name": "Jack of All Trades Perk 43",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_44",
+      "name": "Jack of All Trades Perk 44",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_45",
+      "name": "Jack of All Trades Perk 45",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.4,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_46",
+      "name": "Jack of All Trades Perk 46",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_47",
+      "name": "Jack of All Trades Perk 47",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_48",
+      "name": "Jack of All Trades Perk 48",
+      "tier": "Legendary",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.7,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_49",
+      "name": "Jack of All Trades Perk 49",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_50",
+      "name": "Jack of All Trades Perk 50",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_51",
+      "name": "Jack of All Trades Perk 51",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_52",
+      "name": "Jack of All Trades Perk 52",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_53",
+      "name": "Jack of All Trades Perk 53",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_54",
+      "name": "Jack of All Trades Perk 54",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.5,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_55",
+      "name": "Jack of All Trades Perk 55",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_56",
+      "name": "Jack of All Trades Perk 56",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_57",
+      "name": "Jack of All Trades Perk 57",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_58",
+      "name": "Jack of All Trades Perk 58",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_59",
+      "name": "Jack of All Trades Perk 59",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.0,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_60",
+      "name": "Jack of All Trades Perk 60",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_61",
+      "name": "Jack of All Trades Perk 61",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_62",
+      "name": "Jack of All Trades Perk 62",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.4,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_63",
+      "name": "Jack of All Trades Perk 63",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_64",
+      "name": "Jack of All Trades Perk 64",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_65",
+      "name": "Jack of All Trades Perk 65",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.9,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_66",
+      "name": "Jack of All Trades Perk 66",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_67",
+      "name": "Jack of All Trades Perk 67",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_68",
+      "name": "Jack of All Trades Perk 68",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_69",
+      "name": "Jack of All Trades Perk 69",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.4,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_70",
+      "name": "Jack of All Trades Perk 70",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_71",
+      "name": "Jack of All Trades Perk 71",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_72",
+      "name": "Jack of All Trades Perk 72",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_73",
+      "name": "Jack of All Trades Perk 73",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_74",
+      "name": "Jack of All Trades Perk 74",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_75",
+      "name": "Jack of All Trades Perk 75",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.5,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_76",
+      "name": "Jack of All Trades Perk 76",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_77",
+      "name": "Jack of All Trades Perk 77",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_78",
+      "name": "Jack of All Trades Perk 78",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.2,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_79",
+      "name": "Jack of All Trades Perk 79",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_80",
+      "name": "Jack of All Trades Perk 80",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_81",
+      "name": "Jack of All Trades Perk 81",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_82",
+      "name": "Jack of All Trades Perk 82",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_83",
+      "name": "Jack of All Trades Perk 83",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_84",
+      "name": "Jack of All Trades Perk 84",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_85",
+      "name": "Jack of All Trades Perk 85",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_86",
+      "name": "Jack of All Trades Perk 86",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_87",
+      "name": "Jack of All Trades Perk 87",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_88",
+      "name": "Jack of All Trades Perk 88",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_89",
+      "name": "Jack of All Trades Perk 89",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_90",
+      "name": "Jack of All Trades Perk 90",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_91",
+      "name": "Jack of All Trades Perk 91",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_92",
+      "name": "Jack of All Trades Perk 92",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_93",
+      "name": "Jack of All Trades Perk 93",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_94",
+      "name": "Jack of All Trades Perk 94",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.1,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_95",
+      "name": "Jack of All Trades Perk 95",
+      "tier": "Legendary",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.6,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_96",
+      "name": "Jack of All Trades Perk 96",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.2,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_97",
+      "name": "Jack of All Trades Perk 97",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_98",
+      "name": "Jack of All Trades Perk 98",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.5,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_99",
+      "name": "Jack of All Trades Perk 99",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.6,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/perk_100",
+      "name": "Jack of All Trades Perk 100",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.2,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing control for Jack of All Trades."
+    }
+  ]
+}

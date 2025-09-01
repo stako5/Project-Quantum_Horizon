@@ -1,0 +1,1112 @@
+{
+  "class": "Jack of All Trades",
+  "abilities": [
+    {
+      "id": "jack_of_all_trades/toolkit_act_1",
+      "name": "Toolkit Act 1",
+      "branch": "Toolkit",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 10.7
+      },
+      "cooldown_s": 13.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.87
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.29
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_2",
+      "name": "Toolkit Act 2",
+      "branch": "Toolkit",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 13.6
+      },
+      "cooldown_s": 11.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.86
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.06
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_3",
+      "name": "Toolkit Act 3",
+      "branch": "Toolkit",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 28.5
+      },
+      "cooldown_s": 12.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.04
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.42
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_4",
+      "name": "Toolkit Act 4",
+      "branch": "Toolkit",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 20.1
+      },
+      "cooldown_s": 12.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.01
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.04
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_5",
+      "name": "Toolkit Act 5",
+      "branch": "Toolkit",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 29.5
+      },
+      "cooldown_s": 11.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.03
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.02
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_6",
+      "name": "Toolkit Act 6",
+      "branch": "Toolkit",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 16.0
+      },
+      "cooldown_s": 12.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.9
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.59
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_7",
+      "name": "Toolkit Act 7",
+      "branch": "Toolkit",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 14.3
+      },
+      "cooldown_s": 11.9,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.1
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.27
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_8",
+      "name": "Toolkit Act 8",
+      "branch": "Toolkit",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 19.0
+      },
+      "cooldown_s": 8.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.9
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.64
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_9",
+      "name": "Toolkit Act 9",
+      "branch": "Toolkit",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 28.9
+      },
+      "cooldown_s": 17.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.9
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.34
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_act_10",
+      "name": "Toolkit Act 10",
+      "branch": "Toolkit",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 13.3
+      },
+      "cooldown_s": 15.6,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.28
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.18
+        }
+      ],
+      "description": "Active ability in Toolkit branch."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_pas_1",
+      "name": "Toolkit Passive 1",
+      "branch": "Toolkit",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.6
+        }
+      ],
+      "description": "Passive bonus themed to Toolkit."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_pas_2",
+      "name": "Toolkit Passive 2",
+      "branch": "Toolkit",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.5
+        }
+      ],
+      "description": "Passive bonus themed to Toolkit."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_pas_3",
+      "name": "Toolkit Passive 3",
+      "branch": "Toolkit",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 4.0
+        }
+      ],
+      "description": "Passive bonus themed to Toolkit."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_pas_4",
+      "name": "Toolkit Passive 4",
+      "branch": "Toolkit",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.7
+        }
+      ],
+      "description": "Passive bonus themed to Toolkit."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_exo_1",
+      "name": "Toolkit Exotic 1",
+      "branch": "Toolkit",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Toolkit to other branches."
+    },
+    {
+      "id": "jack_of_all_trades/toolkit_exo_2",
+      "name": "Toolkit Exotic 2",
+      "branch": "Toolkit",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Toolkit to other branches."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_1",
+      "name": "Improvisation Act 1",
+      "branch": "Improvisation",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 29.0
+      },
+      "cooldown_s": 18.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.89
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.04
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_2",
+      "name": "Improvisation Act 2",
+      "branch": "Improvisation",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 17.9
+      },
+      "cooldown_s": 15.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.92
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.84
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_3",
+      "name": "Improvisation Act 3",
+      "branch": "Improvisation",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 32.4
+      },
+      "cooldown_s": 15.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.95
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.02
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_4",
+      "name": "Improvisation Act 4",
+      "branch": "Improvisation",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 24.0
+      },
+      "cooldown_s": 14.6,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.12
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_5",
+      "name": "Improvisation Act 5",
+      "branch": "Improvisation",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 16.3
+      },
+      "cooldown_s": 9.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.91
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.45
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_6",
+      "name": "Improvisation Act 6",
+      "branch": "Improvisation",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 29.6
+      },
+      "cooldown_s": 19.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.24
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.77
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_7",
+      "name": "Improvisation Act 7",
+      "branch": "Improvisation",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 22.6
+      },
+      "cooldown_s": 7.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.18
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_8",
+      "name": "Improvisation Act 8",
+      "branch": "Improvisation",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 19.2
+      },
+      "cooldown_s": 15.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.81
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.35
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_9",
+      "name": "Improvisation Act 9",
+      "branch": "Improvisation",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 20.1
+      },
+      "cooldown_s": 10.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.84
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.13
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_act_10",
+      "name": "Improvisation Act 10",
+      "branch": "Improvisation",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 34.1
+      },
+      "cooldown_s": 8.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.84
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.27
+        }
+      ],
+      "description": "Active ability in Improvisation branch."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_pas_1",
+      "name": "Improvisation Passive 1",
+      "branch": "Improvisation",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.5
+        }
+      ],
+      "description": "Passive bonus themed to Improvisation."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_pas_2",
+      "name": "Improvisation Passive 2",
+      "branch": "Improvisation",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.1
+        }
+      ],
+      "description": "Passive bonus themed to Improvisation."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_pas_3",
+      "name": "Improvisation Passive 3",
+      "branch": "Improvisation",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.3
+        }
+      ],
+      "description": "Passive bonus themed to Improvisation."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_pas_4",
+      "name": "Improvisation Passive 4",
+      "branch": "Improvisation",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.3
+        }
+      ],
+      "description": "Passive bonus themed to Improvisation."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_exo_1",
+      "name": "Improvisation Exotic 1",
+      "branch": "Improvisation",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Improvisation to other branches."
+    },
+    {
+      "id": "jack_of_all_trades/improvisation_exo_2",
+      "name": "Improvisation Exotic 2",
+      "branch": "Improvisation",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Improvisation to other branches."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_1",
+      "name": "Specialist Act 1",
+      "branch": "Specialist",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 12.5
+      },
+      "cooldown_s": 9.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.85
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.58
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_2",
+      "name": "Specialist Act 2",
+      "branch": "Specialist",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 14.2
+      },
+      "cooldown_s": 18.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.86
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.08
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_3",
+      "name": "Specialist Act 3",
+      "branch": "Specialist",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 28.6
+      },
+      "cooldown_s": 8.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.88
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.6
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_4",
+      "name": "Specialist Act 4",
+      "branch": "Specialist",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 12.7
+      },
+      "cooldown_s": 13.9,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.83
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.64
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_5",
+      "name": "Specialist Act 5",
+      "branch": "Specialist",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 30.7
+      },
+      "cooldown_s": 18.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.84
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.12
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_6",
+      "name": "Specialist Act 6",
+      "branch": "Specialist",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 19.3
+      },
+      "cooldown_s": 10.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.94
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.09
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_7",
+      "name": "Specialist Act 7",
+      "branch": "Specialist",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 33.8
+      },
+      "cooldown_s": 13.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.22
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.17
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_8",
+      "name": "Specialist Act 8",
+      "branch": "Specialist",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 14.2
+      },
+      "cooldown_s": 9.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.1
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.82
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_9",
+      "name": "Specialist Act 9",
+      "branch": "Specialist",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 30.1
+      },
+      "cooldown_s": 6.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.98
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.29
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_act_10",
+      "name": "Specialist Act 10",
+      "branch": "Specialist",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Versatility",
+        "cost": 13.0
+      },
+      "cooldown_s": 11.9,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.13
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.45
+        }
+      ],
+      "description": "Active ability in Specialist branch."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_pas_1",
+      "name": "Specialist Passive 1",
+      "branch": "Specialist",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.4
+        }
+      ],
+      "description": "Passive bonus themed to Specialist."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_pas_2",
+      "name": "Specialist Passive 2",
+      "branch": "Specialist",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.6
+        }
+      ],
+      "description": "Passive bonus themed to Specialist."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_pas_3",
+      "name": "Specialist Passive 3",
+      "branch": "Specialist",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.2
+        }
+      ],
+      "description": "Passive bonus themed to Specialist."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_pas_4",
+      "name": "Specialist Passive 4",
+      "branch": "Specialist",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 4.0
+        }
+      ],
+      "description": "Passive bonus themed to Specialist."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_exo_1",
+      "name": "Specialist Exotic 1",
+      "branch": "Specialist",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Specialist to other branches."
+    },
+    {
+      "id": "jack_of_all_trades/specialist_exo_2",
+      "name": "Specialist Exotic 2",
+      "branch": "Specialist",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Specialist to other branches."
+    },
+    {
+      "id": "jack_of_all_trades/ultimate_1",
+      "name": "Jack of All Trades Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Versatility",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Jack of All Trades."
+    },
+    {
+      "id": "jack_of_all_trades/ultimate_2",
+      "name": "Jack of All Trades Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Versatility",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Jack of All Trades."
+    }
+  ],
+  "perks": []
+}

@@ -1,0 +1,14 @@
+{
+  "class": "Warrior",
+  "abilities": [
+    {"id":"warrior/vanguard_act_1","name":"Shield Line","branch":"Vanguard","tier":1,"type":"active","resource":{"type":"Rage","cost":20},"cooldown_s":10,"tags":["guard"],"effects":[{"kind":"guard","dr_pct":30,"duration_s":4}],"description":"Raise shield, reducing damage by 30% for 4s."},
+    {"id":"warrior/vanguard_act_2","name":"Taunting Roar","branch":"Vanguard","tier":2,"type":"active","resource":{"type":"Rage","cost":15},"cooldown_s":18,"tags":["taunt","control"],"effects":[{"kind":"taunt","duration_s":6}],"description":"Taunt nearby enemies for 6s."},
+    {"id":"warrior/berserk_act_1","name":"Rending Swing","branch":"Berserk","tier":1,"type":"active","resource":{"type":"Rage","cost":25},"cooldown_s":8,"tags":["damage","dot"],"effects":[{"kind":"damage","mult":1.4},{"kind":"dot","mult":0.6,"duration_s":6}],"description":"Heavy swing with a bleed over 6s."},
+    {"id":"warrior/berserk_pas_1","name":"Violent Rhythm","branch":"Berserk","tier":1,"type":"passive","tags":["passive","haste"],"effects":[{"kind":"stat","stat":"haste","pct":2}],"description":"+2% attack speed."},
+    {"id":"warrior/tactician_act_1","name":"Countermark","branch":"Tactician","tier":1,"type":"active","resource":{"type":"Rage","cost":10},"cooldown_s":14,"tags":["counter","debuff"],"effects":[{"kind":"mark","value_pct":10,"duration_s":8}],"description":"Mark a target; your next block counters for bonus damage."},
+    {"id":"warrior/tactician_exo_1","name":"Bulwark Dash","branch":"Tactician","tier":6,"type":"exotic","tags":["mobility","guard"],"effects":[{"kind":"dash","meters":10},{"kind":"guard","dr_pct":20,"duration_s":2}],"description":"Dash forward with your shield up, reducing damage taken."},
+    {"id":"warrior/ultimate_1","name":"War Banner","branch":"All","tier":6,"type":"ultimate","cooldown_s":150,"resource":{"type":"Rage","cost":0},"tags":["ultimate","aura"],"effects":[{"kind":"aura","ally_power_pct":10,"ally_dr_pct":10,"duration_s":15}],"description":"Plant a banner granting +10% damage and +10% DR to allies for 15s."}
+  ],
+  "perks": []
+}
+

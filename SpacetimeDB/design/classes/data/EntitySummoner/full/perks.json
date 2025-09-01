@@ -1,0 +1,1961 @@
+{
+  "class": "Entity Summoner",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "entity_summoner/perk_1",
+      "name": "Entity Summoner Perk 1",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.4,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_2",
+      "name": "Entity Summoner Perk 2",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_3",
+      "name": "Entity Summoner Perk 3",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.5,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_4",
+      "name": "Entity Summoner Perk 4",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_5",
+      "name": "Entity Summoner Perk 5",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_6",
+      "name": "Entity Summoner Perk 6",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_7",
+      "name": "Entity Summoner Perk 7",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_8",
+      "name": "Entity Summoner Perk 8",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.9,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_9",
+      "name": "Entity Summoner Perk 9",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_10",
+      "name": "Entity Summoner Perk 10",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_11",
+      "name": "Entity Summoner Perk 11",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_12",
+      "name": "Entity Summoner Perk 12",
+      "tier": "Legendary",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 3.0,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_13",
+      "name": "Entity Summoner Perk 13",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.2,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_14",
+      "name": "Entity Summoner Perk 14",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_15",
+      "name": "Entity Summoner Perk 15",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_16",
+      "name": "Entity Summoner Perk 16",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.1,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_17",
+      "name": "Entity Summoner Perk 17",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.5,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_18",
+      "name": "Entity Summoner Perk 18",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_19",
+      "name": "Entity Summoner Perk 19",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.0,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_20",
+      "name": "Entity Summoner Perk 20",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.7,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_21",
+      "name": "Entity Summoner Perk 21",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_22",
+      "name": "Entity Summoner Perk 22",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_23",
+      "name": "Entity Summoner Perk 23",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_24",
+      "name": "Entity Summoner Perk 24",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_25",
+      "name": "Entity Summoner Perk 25",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_26",
+      "name": "Entity Summoner Perk 26",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_27",
+      "name": "Entity Summoner Perk 27",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_28",
+      "name": "Entity Summoner Perk 28",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.4,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_29",
+      "name": "Entity Summoner Perk 29",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.7,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_30",
+      "name": "Entity Summoner Perk 30",
+      "tier": "Legendary",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_31",
+      "name": "Entity Summoner Perk 31",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_32",
+      "name": "Entity Summoner Perk 32",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_33",
+      "name": "Entity Summoner Perk 33",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.5,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_34",
+      "name": "Entity Summoner Perk 34",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_35",
+      "name": "Entity Summoner Perk 35",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_36",
+      "name": "Entity Summoner Perk 36",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_37",
+      "name": "Entity Summoner Perk 37",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_38",
+      "name": "Entity Summoner Perk 38",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_39",
+      "name": "Entity Summoner Perk 39",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_40",
+      "name": "Entity Summoner Perk 40",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_41",
+      "name": "Entity Summoner Perk 41",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_42",
+      "name": "Entity Summoner Perk 42",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_43",
+      "name": "Entity Summoner Perk 43",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_44",
+      "name": "Entity Summoner Perk 44",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 3.0,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_45",
+      "name": "Entity Summoner Perk 45",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.7,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_46",
+      "name": "Entity Summoner Perk 46",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_47",
+      "name": "Entity Summoner Perk 47",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_48",
+      "name": "Entity Summoner Perk 48",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.5,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_49",
+      "name": "Entity Summoner Perk 49",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_50",
+      "name": "Entity Summoner Perk 50",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.9,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_51",
+      "name": "Entity Summoner Perk 51",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_52",
+      "name": "Entity Summoner Perk 52",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.4,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_53",
+      "name": "Entity Summoner Perk 53",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_54",
+      "name": "Entity Summoner Perk 54",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_55",
+      "name": "Entity Summoner Perk 55",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 3.0,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_56",
+      "name": "Entity Summoner Perk 56",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_57",
+      "name": "Entity Summoner Perk 57",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.4,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_58",
+      "name": "Entity Summoner Perk 58",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_59",
+      "name": "Entity Summoner Perk 59",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_60",
+      "name": "Entity Summoner Perk 60",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_61",
+      "name": "Entity Summoner Perk 61",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_62",
+      "name": "Entity Summoner Perk 62",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.2,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_63",
+      "name": "Entity Summoner Perk 63",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_64",
+      "name": "Entity Summoner Perk 64",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_65",
+      "name": "Entity Summoner Perk 65",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_66",
+      "name": "Entity Summoner Perk 66",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_67",
+      "name": "Entity Summoner Perk 67",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_68",
+      "name": "Entity Summoner Perk 68",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_69",
+      "name": "Entity Summoner Perk 69",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_70",
+      "name": "Entity Summoner Perk 70",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.4,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_71",
+      "name": "Entity Summoner Perk 71",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_72",
+      "name": "Entity Summoner Perk 72",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_73",
+      "name": "Entity Summoner Perk 73",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_74",
+      "name": "Entity Summoner Perk 74",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_75",
+      "name": "Entity Summoner Perk 75",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_76",
+      "name": "Entity Summoner Perk 76",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.7,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_77",
+      "name": "Entity Summoner Perk 77",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_78",
+      "name": "Entity Summoner Perk 78",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_79",
+      "name": "Entity Summoner Perk 79",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_80",
+      "name": "Entity Summoner Perk 80",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.7,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_81",
+      "name": "Entity Summoner Perk 81",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_82",
+      "name": "Entity Summoner Perk 82",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_83",
+      "name": "Entity Summoner Perk 83",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_84",
+      "name": "Entity Summoner Perk 84",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_85",
+      "name": "Entity Summoner Perk 85",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.5,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_86",
+      "name": "Entity Summoner Perk 86",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_87",
+      "name": "Entity Summoner Perk 87",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_88",
+      "name": "Entity Summoner Perk 88",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.9,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_89",
+      "name": "Entity Summoner Perk 89",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_90",
+      "name": "Entity Summoner Perk 90",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.5,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_91",
+      "name": "Entity Summoner Perk 91",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_92",
+      "name": "Entity Summoner Perk 92",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.7,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_93",
+      "name": "Entity Summoner Perk 93",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_94",
+      "name": "Entity Summoner Perk 94",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_95",
+      "name": "Entity Summoner Perk 95",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_96",
+      "name": "Entity Summoner Perk 96",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_97",
+      "name": "Entity Summoner Perk 97",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_98",
+      "name": "Entity Summoner Perk 98",
+      "tier": "Legendary",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.6,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_99",
+      "name": "Entity Summoner Perk 99",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing control for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/perk_100",
+      "name": "Entity Summoner Perk 100",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Entity Summoner."
+    }
+  ]
+}

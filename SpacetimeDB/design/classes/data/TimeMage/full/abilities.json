@@ -1,0 +1,1112 @@
+{
+  "class": "Time Mage",
+  "abilities": [
+    {
+      "id": "time_mage/acceleration_act_1",
+      "name": "Acceleration Act 1",
+      "branch": "Acceleration",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 10.1
+      },
+      "cooldown_s": 19.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.96
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.2
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_2",
+      "name": "Acceleration Act 2",
+      "branch": "Acceleration",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 29.2
+      },
+      "cooldown_s": 19.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.09
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_3",
+      "name": "Acceleration Act 3",
+      "branch": "Acceleration",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 24.5
+      },
+      "cooldown_s": 16.8,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.99
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.74
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_4",
+      "name": "Acceleration Act 4",
+      "branch": "Acceleration",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 29.2
+      },
+      "cooldown_s": 18.5,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.21
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.26
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_5",
+      "name": "Acceleration Act 5",
+      "branch": "Acceleration",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 10.9
+      },
+      "cooldown_s": 14.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.84
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_6",
+      "name": "Acceleration Act 6",
+      "branch": "Acceleration",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 27.9
+      },
+      "cooldown_s": 17.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.91
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.9
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_7",
+      "name": "Acceleration Act 7",
+      "branch": "Acceleration",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 18.7
+      },
+      "cooldown_s": 14.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.83
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_8",
+      "name": "Acceleration Act 8",
+      "branch": "Acceleration",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 16.0
+      },
+      "cooldown_s": 15.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.59
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_9",
+      "name": "Acceleration Act 9",
+      "branch": "Acceleration",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 22.7
+      },
+      "cooldown_s": 8.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.02
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.04
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_act_10",
+      "name": "Acceleration Act 10",
+      "branch": "Acceleration",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 15.5
+      },
+      "cooldown_s": 17.6,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.18
+        }
+      ],
+      "description": "Active ability in Acceleration branch."
+    },
+    {
+      "id": "time_mage/acceleration_pas_1",
+      "name": "Acceleration Passive 1",
+      "branch": "Acceleration",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.8
+        }
+      ],
+      "description": "Passive bonus themed to Acceleration."
+    },
+    {
+      "id": "time_mage/acceleration_pas_2",
+      "name": "Acceleration Passive 2",
+      "branch": "Acceleration",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.9
+        }
+      ],
+      "description": "Passive bonus themed to Acceleration."
+    },
+    {
+      "id": "time_mage/acceleration_pas_3",
+      "name": "Acceleration Passive 3",
+      "branch": "Acceleration",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.5
+        }
+      ],
+      "description": "Passive bonus themed to Acceleration."
+    },
+    {
+      "id": "time_mage/acceleration_pas_4",
+      "name": "Acceleration Passive 4",
+      "branch": "Acceleration",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.7
+        }
+      ],
+      "description": "Passive bonus themed to Acceleration."
+    },
+    {
+      "id": "time_mage/acceleration_exo_1",
+      "name": "Acceleration Exotic 1",
+      "branch": "Acceleration",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Acceleration to other branches."
+    },
+    {
+      "id": "time_mage/acceleration_exo_2",
+      "name": "Acceleration Exotic 2",
+      "branch": "Acceleration",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Acceleration to other branches."
+    },
+    {
+      "id": "time_mage/reversion_act_1",
+      "name": "Reversion Act 1",
+      "branch": "Reversion",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 17.2
+      },
+      "cooldown_s": 11.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.22
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_2",
+      "name": "Reversion Act 2",
+      "branch": "Reversion",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 10.2
+      },
+      "cooldown_s": 9.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.06
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_3",
+      "name": "Reversion Act 3",
+      "branch": "Reversion",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 29.4
+      },
+      "cooldown_s": 11.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.16
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_4",
+      "name": "Reversion Act 4",
+      "branch": "Reversion",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 10.5
+      },
+      "cooldown_s": 9.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.48
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_5",
+      "name": "Reversion Act 5",
+      "branch": "Reversion",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 16.6
+      },
+      "cooldown_s": 9.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.01
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.01
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_6",
+      "name": "Reversion Act 6",
+      "branch": "Reversion",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 16.1
+      },
+      "cooldown_s": 9.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.16
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.28
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_7",
+      "name": "Reversion Act 7",
+      "branch": "Reversion",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 29.3
+      },
+      "cooldown_s": 10.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.19
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.12
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_8",
+      "name": "Reversion Act 8",
+      "branch": "Reversion",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 33.2
+      },
+      "cooldown_s": 15.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.12
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_9",
+      "name": "Reversion Act 9",
+      "branch": "Reversion",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 23.6
+      },
+      "cooldown_s": 10.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.12
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.37
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_act_10",
+      "name": "Reversion Act 10",
+      "branch": "Reversion",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 24.0
+      },
+      "cooldown_s": 16.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.82
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.81
+        }
+      ],
+      "description": "Active ability in Reversion branch."
+    },
+    {
+      "id": "time_mage/reversion_pas_1",
+      "name": "Reversion Passive 1",
+      "branch": "Reversion",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.5
+        }
+      ],
+      "description": "Passive bonus themed to Reversion."
+    },
+    {
+      "id": "time_mage/reversion_pas_2",
+      "name": "Reversion Passive 2",
+      "branch": "Reversion",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 4.0
+        }
+      ],
+      "description": "Passive bonus themed to Reversion."
+    },
+    {
+      "id": "time_mage/reversion_pas_3",
+      "name": "Reversion Passive 3",
+      "branch": "Reversion",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.8
+        }
+      ],
+      "description": "Passive bonus themed to Reversion."
+    },
+    {
+      "id": "time_mage/reversion_pas_4",
+      "name": "Reversion Passive 4",
+      "branch": "Reversion",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.9
+        }
+      ],
+      "description": "Passive bonus themed to Reversion."
+    },
+    {
+      "id": "time_mage/reversion_exo_1",
+      "name": "Reversion Exotic 1",
+      "branch": "Reversion",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Reversion to other branches."
+    },
+    {
+      "id": "time_mage/reversion_exo_2",
+      "name": "Reversion Exotic 2",
+      "branch": "Reversion",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Reversion to other branches."
+    },
+    {
+      "id": "time_mage/fracture_act_1",
+      "name": "Fracture Act 1",
+      "branch": "Fracture",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 25.4
+      },
+      "cooldown_s": 16.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.6
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_2",
+      "name": "Fracture Act 2",
+      "branch": "Fracture",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 27.7
+      },
+      "cooldown_s": 8.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.99
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.53
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_3",
+      "name": "Fracture Act 3",
+      "branch": "Fracture",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 24.0
+      },
+      "cooldown_s": 11.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.14
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_4",
+      "name": "Fracture Act 4",
+      "branch": "Fracture",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 21.7
+      },
+      "cooldown_s": 19.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.07
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_5",
+      "name": "Fracture Act 5",
+      "branch": "Fracture",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 12.2
+      },
+      "cooldown_s": 14.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.06
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.0
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_6",
+      "name": "Fracture Act 6",
+      "branch": "Fracture",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 23.8
+      },
+      "cooldown_s": 14.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.81
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.91
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_7",
+      "name": "Fracture Act 7",
+      "branch": "Fracture",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 29.2
+      },
+      "cooldown_s": 14.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.45
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_8",
+      "name": "Fracture Act 8",
+      "branch": "Fracture",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 14.4
+      },
+      "cooldown_s": 6.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.2
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.2
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_9",
+      "name": "Fracture Act 9",
+      "branch": "Fracture",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 19.5
+      },
+      "cooldown_s": 19.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.91
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.12
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_act_10",
+      "name": "Fracture Act 10",
+      "branch": "Fracture",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 19.4
+      },
+      "cooldown_s": 18.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.23
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.0
+        }
+      ],
+      "description": "Active ability in Fracture branch."
+    },
+    {
+      "id": "time_mage/fracture_pas_1",
+      "name": "Fracture Passive 1",
+      "branch": "Fracture",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.9
+        }
+      ],
+      "description": "Passive bonus themed to Fracture."
+    },
+    {
+      "id": "time_mage/fracture_pas_2",
+      "name": "Fracture Passive 2",
+      "branch": "Fracture",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.4
+        }
+      ],
+      "description": "Passive bonus themed to Fracture."
+    },
+    {
+      "id": "time_mage/fracture_pas_3",
+      "name": "Fracture Passive 3",
+      "branch": "Fracture",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.3
+        }
+      ],
+      "description": "Passive bonus themed to Fracture."
+    },
+    {
+      "id": "time_mage/fracture_pas_4",
+      "name": "Fracture Passive 4",
+      "branch": "Fracture",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.5
+        }
+      ],
+      "description": "Passive bonus themed to Fracture."
+    },
+    {
+      "id": "time_mage/fracture_exo_1",
+      "name": "Fracture Exotic 1",
+      "branch": "Fracture",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Fracture to other branches."
+    },
+    {
+      "id": "time_mage/fracture_exo_2",
+      "name": "Fracture Exotic 2",
+      "branch": "Fracture",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Fracture to other branches."
+    },
+    {
+      "id": "time_mage/ultimate_1",
+      "name": "Time Mage Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Time Mage."
+    },
+    {
+      "id": "time_mage/ultimate_2",
+      "name": "Time Mage Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Chrono Charge",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Time Mage."
+    }
+  ],
+  "perks": []
+}

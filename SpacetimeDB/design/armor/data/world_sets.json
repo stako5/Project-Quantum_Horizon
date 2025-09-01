@@ -1,0 +1,3104 @@
+{
+  "sets": [
+    {
+      "id": "world_set_001",
+      "name": "Frontier Weave 001",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 001 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 001 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 001 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 001 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 001 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_002",
+      "name": "Frontier Weave 002",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 002 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 002 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 002 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 002 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 002 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_003",
+      "name": "Frontier Weave 003",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 003 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 003 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 003 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 003 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 003 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_004",
+      "name": "Frontier Weave 004",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 004 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 004 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 004 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 004 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 004 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_005",
+      "name": "Frontier Weave 005",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 005 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 005 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 005 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 005 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 005 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_006",
+      "name": "Frontier Weave 006",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 006 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 006 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 006 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 006 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 006 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_007",
+      "name": "Frontier Weave 007",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 007 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 007 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 007 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 007 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 007 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_008",
+      "name": "Frontier Weave 008",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 008 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 008 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 008 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 008 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 008 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_009",
+      "name": "Frontier Weave 009",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 009 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 009 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 009 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 009 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 009 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_010",
+      "name": "Frontier Weave 010",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 010 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 010 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 010 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 010 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 010 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_011",
+      "name": "Frontier Weave 011",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 011 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 011 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 011 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 011 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 011 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_012",
+      "name": "Frontier Weave 012",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 012 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 012 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 012 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 012 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 012 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_013",
+      "name": "Frontier Weave 013",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 013 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 013 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 013 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 013 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 013 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_014",
+      "name": "Frontier Weave 014",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 014 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 014 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 014 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 014 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 014 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_015",
+      "name": "Frontier Weave 015",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 015 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 015 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 015 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 015 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 015 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_016",
+      "name": "Frontier Weave 016",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 016 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 016 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 016 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 016 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 016 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_017",
+      "name": "Frontier Weave 017",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 017 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 017 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 017 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 017 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 017 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_018",
+      "name": "Frontier Weave 018",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 018 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 018 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 018 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 018 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 018 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_019",
+      "name": "Frontier Weave 019",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 019 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 019 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 019 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 019 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 019 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_020",
+      "name": "Frontier Weave 020",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 020 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 020 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 020 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 020 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 020 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_021",
+      "name": "Frontier Weave 021",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 021 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 021 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 021 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 021 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 021 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_022",
+      "name": "Frontier Weave 022",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 022 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 022 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 022 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 022 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 022 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_023",
+      "name": "Frontier Weave 023",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 023 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 023 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 023 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 023 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 023 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_024",
+      "name": "Frontier Weave 024",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 024 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 024 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 024 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 024 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 024 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_025",
+      "name": "Frontier Weave 025",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 025 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 025 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 025 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 025 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 025 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_026",
+      "name": "Frontier Weave 026",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 026 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 026 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 026 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 026 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 026 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_027",
+      "name": "Frontier Weave 027",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 027 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 027 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 027 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 027 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 027 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_028",
+      "name": "Frontier Weave 028",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 028 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 028 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 028 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 028 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 028 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_029",
+      "name": "Frontier Weave 029",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 029 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 029 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 029 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 029 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 029 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_030",
+      "name": "Frontier Weave 030",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 030 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 030 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 030 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 030 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 030 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_031",
+      "name": "Frontier Weave 031",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 031 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 031 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 031 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 031 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 031 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_032",
+      "name": "Frontier Weave 032",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 032 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 032 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 032 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 032 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 032 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_033",
+      "name": "Frontier Weave 033",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 033 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 033 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 033 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 033 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 033 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_034",
+      "name": "Frontier Weave 034",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 034 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 034 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 034 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 034 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 034 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_035",
+      "name": "Frontier Weave 035",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 035 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 035 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 035 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 035 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 035 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_036",
+      "name": "Frontier Weave 036",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 036 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 036 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 036 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 036 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 036 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_037",
+      "name": "Frontier Weave 037",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 037 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 037 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 037 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 037 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 037 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_038",
+      "name": "Frontier Weave 038",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 038 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 038 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 038 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 038 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 038 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_039",
+      "name": "Frontier Weave 039",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 039 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 039 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 039 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 039 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 039 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_040",
+      "name": "Frontier Weave 040",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 040 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 040 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 040 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 040 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 040 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_041",
+      "name": "Frontier Weave 041",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 041 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 041 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 041 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 041 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 041 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_042",
+      "name": "Frontier Weave 042",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 042 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 042 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 042 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 042 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 042 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_043",
+      "name": "Frontier Weave 043",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 043 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 043 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 043 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 043 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 043 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_044",
+      "name": "Frontier Weave 044",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 044 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 044 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 044 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 044 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 044 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_045",
+      "name": "Frontier Weave 045",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 045 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 045 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 045 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 045 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 045 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_046",
+      "name": "Frontier Weave 046",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 046 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 046 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 046 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 046 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 046 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_047",
+      "name": "Frontier Weave 047",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 047 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 047 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 047 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 047 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 047 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_048",
+      "name": "Frontier Weave 048",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 048 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 048 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 048 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 048 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 048 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_049",
+      "name": "Frontier Weave 049",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 049 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 049 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 049 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 049 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 049 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_050",
+      "name": "Frontier Weave 050",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 050 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 050 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 050 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 050 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 050 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_051",
+      "name": "Frontier Weave 051",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 051 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 051 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 051 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 051 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 051 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_052",
+      "name": "Frontier Weave 052",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 052 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 052 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 052 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 052 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 052 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_053",
+      "name": "Frontier Weave 053",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 053 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 053 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 053 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 053 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 053 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_054",
+      "name": "Frontier Weave 054",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 054 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 054 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 054 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 054 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 054 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_055",
+      "name": "Frontier Weave 055",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 055 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 055 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 055 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 055 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 055 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_056",
+      "name": "Frontier Weave 056",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 056 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 056 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 056 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 056 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 056 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_057",
+      "name": "Frontier Weave 057",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 057 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 057 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 057 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 057 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 057 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_058",
+      "name": "Frontier Weave 058",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 058 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 058 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 058 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 058 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 058 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_059",
+      "name": "Frontier Weave 059",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 059 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 059 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 059 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 059 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 059 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_060",
+      "name": "Frontier Weave 060",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 060 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 060 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 060 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 060 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 060 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_061",
+      "name": "Frontier Weave 061",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 061 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 061 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 061 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 061 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 061 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_062",
+      "name": "Frontier Weave 062",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 062 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 062 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 062 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 062 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 062 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_063",
+      "name": "Frontier Weave 063",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 063 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 063 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 063 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 063 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 063 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_064",
+      "name": "Frontier Weave 064",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 064 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 064 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 064 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 064 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 064 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_065",
+      "name": "Frontier Weave 065",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 065 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 065 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 065 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 065 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 065 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_066",
+      "name": "Frontier Weave 066",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 066 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 066 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 066 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 066 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 066 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_067",
+      "name": "Frontier Weave 067",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 067 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 067 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 067 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 067 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 067 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_068",
+      "name": "Frontier Weave 068",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 068 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 068 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 068 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 068 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 068 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_069",
+      "name": "Frontier Weave 069",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 069 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 069 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 069 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 069 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 069 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_070",
+      "name": "Frontier Weave 070",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 070 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 070 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 070 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 070 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 070 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_071",
+      "name": "Frontier Weave 071",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 071 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 071 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 071 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 071 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 071 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_072",
+      "name": "Frontier Weave 072",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 072 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 072 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 072 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 072 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 072 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_073",
+      "name": "Frontier Weave 073",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 073 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 073 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 073 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 073 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 073 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_074",
+      "name": "Frontier Weave 074",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 074 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 074 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 074 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 074 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 074 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_075",
+      "name": "Frontier Weave 075",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 075 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 075 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 075 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 075 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 075 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_076",
+      "name": "Frontier Weave 076",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 076 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 076 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 076 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 076 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 076 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_077",
+      "name": "Frontier Weave 077",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 077 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 077 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 077 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 077 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 077 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_078",
+      "name": "Frontier Weave 078",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 078 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 078 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 078 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 078 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 078 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_079",
+      "name": "Frontier Weave 079",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 079 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 079 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 079 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 079 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 079 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_080",
+      "name": "Frontier Weave 080",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 080 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 080 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 080 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 080 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 080 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_081",
+      "name": "Frontier Weave 081",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 081 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 081 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 081 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 081 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 081 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_082",
+      "name": "Frontier Weave 082",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 082 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 082 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 082 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 082 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 082 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_083",
+      "name": "Frontier Weave 083",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 083 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 083 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 083 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 083 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 083 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_084",
+      "name": "Frontier Weave 084",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 084 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 084 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 084 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 084 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 084 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_085",
+      "name": "Frontier Weave 085",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 085 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 085 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 085 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 085 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 085 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_086",
+      "name": "Frontier Weave 086",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 086 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 086 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 086 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 086 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 086 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_087",
+      "name": "Frontier Weave 087",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 087 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 087 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 087 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 087 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 087 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_088",
+      "name": "Frontier Weave 088",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 088 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 088 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 088 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 088 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 088 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_089",
+      "name": "Frontier Weave 089",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 089 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 089 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 089 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 089 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 089 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_090",
+      "name": "Frontier Weave 090",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 090 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 090 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 090 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 090 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 090 Boots",
+          "rarity": "Common"
+        }
+      ]
+    },
+    {
+      "id": "world_set_091",
+      "name": "Frontier Weave 091",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 091 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 091 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 091 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 091 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 091 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_092",
+      "name": "Frontier Weave 092",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 092 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 092 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 092 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 092 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 092 Boots",
+          "rarity": "Mythic"
+        }
+      ]
+    },
+    {
+      "id": "world_set_093",
+      "name": "Frontier Weave 093",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 093 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 093 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 093 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 093 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 093 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_094",
+      "name": "Frontier Weave 094",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 094 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 094 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 094 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 094 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 094 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_095",
+      "name": "Frontier Weave 095",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 095 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 095 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 095 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 095 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 095 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_096",
+      "name": "Frontier Weave 096",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 096 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 096 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 096 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 096 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 096 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_097",
+      "name": "Frontier Weave 097",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 097 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 097 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 097 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 097 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 097 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_098",
+      "name": "Frontier Weave 098",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 098 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 098 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 098 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 098 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 098 Boots",
+          "rarity": "Rare"
+        }
+      ]
+    },
+    {
+      "id": "world_set_099",
+      "name": "Frontier Weave 099",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 099 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 099 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 099 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 099 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 099 Boots",
+          "rarity": "Uncommon"
+        }
+      ]
+    },
+    {
+      "id": "world_set_100",
+      "name": "Frontier Weave 100",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Frontier Weave 100 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Frontier Weave 100 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Frontier Weave 100 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Frontier Weave 100 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Frontier Weave 100 Boots",
+          "rarity": "Epic"
+        }
+      ]
+    }
+  ]
+}

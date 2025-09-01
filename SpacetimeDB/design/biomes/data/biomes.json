@@ -1,0 +1,457 @@
+{
+  "count": 10,
+  "biomes": [
+    {
+      "id": 1,
+      "name": "Neon Metropolis",
+      "seed": 2896046486483495971,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#0b0016",
+        "glow": "#10e0ff",
+        "accent": "#ff2bdc"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.1,
+        "fog_color": "#0b0016"
+      },
+      "vfx": [
+        "mist",
+        "drizzle",
+        "embers"
+      ],
+      "props": [
+        "NeonSign",
+        "HoloBillboard",
+        "TrafficDrone",
+        "SkyscraperChunk",
+        "Monorail"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Neon Raider",
+          "multiplier": 1.6
+        },
+        {
+          "family": "Drone",
+          "multiplier": 1.4
+        },
+        {
+          "family": "Corp Enforcer",
+          "multiplier": 1.2
+        },
+        {
+          "family": "Street Samurai",
+          "multiplier": 1.4
+        },
+        {
+          "family": "Synth Cultist",
+          "multiplier": 1.1
+        }
+      ],
+      "description": "A dense Neon Metropolis region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 2,
+      "name": "Industrial Wastes",
+      "seed": 9884162770289144157,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#101010",
+        "glow": "#39ff14",
+        "accent": "#ffa000"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.2,
+        "fog_color": "#101010"
+      },
+      "vfx": [
+        "sparks",
+        "steam",
+        "haze"
+      ],
+      "props": [
+        "PipeCluster",
+        "ToxicBarrel",
+        "Crane",
+        "Smokestack",
+        "ScrapPile"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Scrap Beast",
+          "multiplier": 1.6
+        },
+        {
+          "family": "Junkbot",
+          "multiplier": 1.7
+        },
+        {
+          "family": "Gutter Pirate",
+          "multiplier": 1.2
+        },
+        {
+          "family": "Drone",
+          "multiplier": 1.1
+        }
+      ],
+      "description": "A dense Industrial Wastes region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 3,
+      "name": "Void Marsh",
+      "seed": 11160401781435341800,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#070b12",
+        "glow": "#8a2be2",
+        "accent": "#00eaff"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.0,
+        "fog_color": "#070b12"
+      },
+      "vfx": [
+        "mist",
+        "drizzle",
+        "embers"
+      ],
+      "props": [
+        "DarkReed",
+        "VoidFumarole",
+        "RiftCrystal",
+        "MistEmitter",
+        "ShallowPool"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Voidspawn",
+          "multiplier": 1.8
+        },
+        {
+          "family": "Synth Cultist",
+          "multiplier": 1.3
+        },
+        {
+          "family": "Drone",
+          "multiplier": 1.0
+        }
+      ],
+      "description": "A dense Void Marsh region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 4,
+      "name": "Plasma Lagoons",
+      "seed": 5138264279397241884,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#00121e",
+        "glow": "#00bfff",
+        "accent": "#ff9d00"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.1,
+        "fog_color": "#00121e"
+      },
+      "vfx": [
+        "sparks",
+        "steam",
+        "haze"
+      ],
+      "props": [
+        "PlasmaPool",
+        "CoolingTower",
+        "ArcLight",
+        "Conduit",
+        "BridgeSpan"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Drone",
+          "multiplier": 1.2
+        },
+        {
+          "family": "Voidspawn",
+          "multiplier": 1.2
+        },
+        {
+          "family": "Bio-Construct",
+          "multiplier": 1.5
+        }
+      ],
+      "description": "A dense Plasma Lagoons region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 5,
+      "name": "Nanite Forest",
+      "seed": 15540815479750214060,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#06140a",
+        "glow": "#39ff14",
+        "accent": "#00eaff"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.2,
+        "fog_color": "#06140a"
+      },
+      "vfx": [
+        "mist",
+        "drizzle",
+        "embers"
+      ],
+      "props": [
+        "NanoTree",
+        "BloomingCircuit",
+        "HiveNode",
+        "GleamMoss",
+        "FlowingBots"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Nanite Swarm",
+          "multiplier": 1.8
+        },
+        {
+          "family": "Bio-Construct",
+          "multiplier": 1.4
+        },
+        {
+          "family": "Junkbot",
+          "multiplier": 1.1
+        }
+      ],
+      "description": "A dense Nanite Forest region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 6,
+      "name": "Orbital Graveyard",
+      "seed": 15916963836076806981,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#030b18",
+        "glow": "#b0c4de",
+        "accent": "#a0ffea"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.0,
+        "fog_color": "#030b18"
+      },
+      "vfx": [
+        "sparks",
+        "steam",
+        "haze"
+      ],
+      "props": [
+        "DerelictHull",
+        "SatelliteHeap",
+        "SolarSail",
+        "TrussField",
+        "Capsule"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Drone",
+          "multiplier": 1.8
+        },
+        {
+          "family": "Scrap Beast",
+          "multiplier": 1.3
+        },
+        {
+          "family": "Voidspawn",
+          "multiplier": 1.2
+        }
+      ],
+      "description": "A dense Orbital Graveyard region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 7,
+      "name": "Cryo Tundra Colony",
+      "seed": 17868406987786479696,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#0b1d33",
+        "glow": "#a0ffea",
+        "accent": "#89cff0"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.1,
+        "fog_color": "#0b1d33"
+      },
+      "vfx": [
+        "mist",
+        "drizzle",
+        "embers"
+      ],
+      "props": [
+        "HabDome",
+        "IceSpire",
+        "WindTurbine",
+        "SupplyCrate",
+        "ThermalVent"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Corp Enforcer",
+          "multiplier": 1.4
+        },
+        {
+          "family": "Drone",
+          "multiplier": 1.2
+        },
+        {
+          "family": "Bio-Construct",
+          "multiplier": 1.2
+        }
+      ],
+      "description": "A dense Cryo Tundra Colony region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 8,
+      "name": "Sunken Arcology",
+      "seed": 3260874755555919365,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#000d14",
+        "glow": "#00eaff",
+        "accent": "#39ff14"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.2,
+        "fog_color": "#000d14"
+      },
+      "vfx": [
+        "sparks",
+        "steam",
+        "haze"
+      ],
+      "props": [
+        "DrownedAtrium",
+        "GlassTube",
+        "OvergrownPlaza",
+        "Pump",
+        "AlgaeStack"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Bio-Construct",
+          "multiplier": 1.6
+        },
+        {
+          "family": "Voidspawn",
+          "multiplier": 1.3
+        },
+        {
+          "family": "Drone",
+          "multiplier": 1.1
+        }
+      ],
+      "description": "A dense Sunken Arcology region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 9,
+      "name": "Reactor Badlands",
+      "seed": 4102684353640161186,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#1a0e00",
+        "glow": "#ff9d00",
+        "accent": "#39ff14"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.0,
+        "fog_color": "#1a0e00"
+      },
+      "vfx": [
+        "mist",
+        "drizzle",
+        "embers"
+      ],
+      "props": [
+        "CoolingFin",
+        "CrackVent",
+        "SpentRodCrate",
+        "GeigerArch",
+        "HeatSink"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Scrap Beast",
+          "multiplier": 1.5
+        },
+        {
+          "family": "Gutter Pirate",
+          "multiplier": 1.4
+        },
+        {
+          "family": "Junkbot",
+          "multiplier": 1.3
+        }
+      ],
+      "description": "A dense Reactor Badlands region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    },
+    {
+      "id": 10,
+      "name": "Sentient Sands Expanse",
+      "seed": 8173925055785584325,
+      "size_meters": 5000,
+      "chunk_size_m": 100,
+      "palette": {
+        "sky": "#120a18",
+        "glow": "#ff2bdc",
+        "accent": "#00eaff"
+      },
+      "lighting": {
+        "bloom": true,
+        "exposure": 1.1,
+        "fog_color": "#120a18"
+      },
+      "vfx": [
+        "sparks",
+        "steam",
+        "haze"
+      ],
+      "props": [
+        "HoloCactus",
+        "MirageEmitter",
+        "SignalObelisk",
+        "Scanner",
+        "Shard"
+      ],
+      "spawn_weights": [
+        {
+          "family": "Neon Raider",
+          "multiplier": 1.5
+        },
+        {
+          "family": "Street Samurai",
+          "multiplier": 1.3
+        },
+        {
+          "family": "Drone",
+          "multiplier": 1.2
+        }
+      ],
+      "description": "A dense Sentient Sands Expanse region, 5km across, with space\u2011punk aesthetic, unique props, and tuned spawns."
+    }
+  ]
+}

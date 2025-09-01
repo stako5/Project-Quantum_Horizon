@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Space-Punk Enemy Type",
+  "type": "object",
+  "properties": {
+    "id": {"type": "string"},
+    "name": {"type": "string"},
+    "family": {"type": "string"},
+    "tier": {"type": "integer", "minimum": 1, "maximum": 5},
+    "role": {"type": "string"},
+    "element": {"type": "string"},
+    "size": {"type": "string"},
+    "movement": {"type": "string"},
+    "armor": {"type": "string"},
+    "hp": {"type": "integer"},
+    "damage": {"type": "integer"},
+    "speed": {"type": "number"},
+    "abilities": {"type": "array", "items": {"type": "string"}},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "description": {"type": "string"}
+  },
+  "required": ["id","name","family","tier","role","element","size","movement","armor","hp","damage","speed","abilities","tags","description"],
+  "additionalProperties": false
+}
+

@@ -1,0 +1,1952 @@
+{
+  "class": "Death Mage",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "death_mage/perk_1",
+      "name": "Death Mage Perk 1",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_2",
+      "name": "Death Mage Perk 2",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.5,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_3",
+      "name": "Death Mage Perk 3",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_4",
+      "name": "Death Mage Perk 4",
+      "tier": "Legendary",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_5",
+      "name": "Death Mage Perk 5",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_6",
+      "name": "Death Mage Perk 6",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 3.0,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_7",
+      "name": "Death Mage Perk 7",
+      "tier": "Legendary",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.6,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_8",
+      "name": "Death Mage Perk 8",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_9",
+      "name": "Death Mage Perk 9",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_10",
+      "name": "Death Mage Perk 10",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_11",
+      "name": "Death Mage Perk 11",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_12",
+      "name": "Death Mage Perk 12",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_13",
+      "name": "Death Mage Perk 13",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_14",
+      "name": "Death Mage Perk 14",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_15",
+      "name": "Death Mage Perk 15",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_16",
+      "name": "Death Mage Perk 16",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_17",
+      "name": "Death Mage Perk 17",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.0,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_18",
+      "name": "Death Mage Perk 18",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.6,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_19",
+      "name": "Death Mage Perk 19",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_20",
+      "name": "Death Mage Perk 20",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.7,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_21",
+      "name": "Death Mage Perk 21",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_22",
+      "name": "Death Mage Perk 22",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.0,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_23",
+      "name": "Death Mage Perk 23",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_24",
+      "name": "Death Mage Perk 24",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.6,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_25",
+      "name": "Death Mage Perk 25",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_26",
+      "name": "Death Mage Perk 26",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_27",
+      "name": "Death Mage Perk 27",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_28",
+      "name": "Death Mage Perk 28",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_29",
+      "name": "Death Mage Perk 29",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_30",
+      "name": "Death Mage Perk 30",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_31",
+      "name": "Death Mage Perk 31",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.7,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_32",
+      "name": "Death Mage Perk 32",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_33",
+      "name": "Death Mage Perk 33",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_34",
+      "name": "Death Mage Perk 34",
+      "tier": "Legendary",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_35",
+      "name": "Death Mage Perk 35",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_36",
+      "name": "Death Mage Perk 36",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_37",
+      "name": "Death Mage Perk 37",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_38",
+      "name": "Death Mage Perk 38",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_39",
+      "name": "Death Mage Perk 39",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_40",
+      "name": "Death Mage Perk 40",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.0,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_41",
+      "name": "Death Mage Perk 41",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_42",
+      "name": "Death Mage Perk 42",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.1,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_43",
+      "name": "Death Mage Perk 43",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.2,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_44",
+      "name": "Death Mage Perk 44",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.1,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_45",
+      "name": "Death Mage Perk 45",
+      "tier": "Legendary",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.9,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_46",
+      "name": "Death Mage Perk 46",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.1,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_47",
+      "name": "Death Mage Perk 47",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_48",
+      "name": "Death Mage Perk 48",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_49",
+      "name": "Death Mage Perk 49",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_50",
+      "name": "Death Mage Perk 50",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.3,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_51",
+      "name": "Death Mage Perk 51",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_52",
+      "name": "Death Mage Perk 52",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_53",
+      "name": "Death Mage Perk 53",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.4,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_54",
+      "name": "Death Mage Perk 54",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_55",
+      "name": "Death Mage Perk 55",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_56",
+      "name": "Death Mage Perk 56",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_57",
+      "name": "Death Mage Perk 57",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_58",
+      "name": "Death Mage Perk 58",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.2,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_59",
+      "name": "Death Mage Perk 59",
+      "tier": "Legendary",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_60",
+      "name": "Death Mage Perk 60",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_61",
+      "name": "Death Mage Perk 61",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_62",
+      "name": "Death Mage Perk 62",
+      "tier": "Legendary",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_63",
+      "name": "Death Mage Perk 63",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_64",
+      "name": "Death Mage Perk 64",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_65",
+      "name": "Death Mage Perk 65",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_66",
+      "name": "Death Mage Perk 66",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_67",
+      "name": "Death Mage Perk 67",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_68",
+      "name": "Death Mage Perk 68",
+      "tier": "Legendary",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.3,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_69",
+      "name": "Death Mage Perk 69",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.1,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_70",
+      "name": "Death Mage Perk 70",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_71",
+      "name": "Death Mage Perk 71",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.4,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_72",
+      "name": "Death Mage Perk 72",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_73",
+      "name": "Death Mage Perk 73",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_74",
+      "name": "Death Mage Perk 74",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.4,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_75",
+      "name": "Death Mage Perk 75",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.7,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_76",
+      "name": "Death Mage Perk 76",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.6,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_77",
+      "name": "Death Mage Perk 77",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_78",
+      "name": "Death Mage Perk 78",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.1,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_79",
+      "name": "Death Mage Perk 79",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_80",
+      "name": "Death Mage Perk 80",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.1,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_81",
+      "name": "Death Mage Perk 81",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_82",
+      "name": "Death Mage Perk 82",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_83",
+      "name": "Death Mage Perk 83",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 3.0,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_84",
+      "name": "Death Mage Perk 84",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_85",
+      "name": "Death Mage Perk 85",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_86",
+      "name": "Death Mage Perk 86",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_87",
+      "name": "Death Mage Perk 87",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_88",
+      "name": "Death Mage Perk 88",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_89",
+      "name": "Death Mage Perk 89",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.1,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_90",
+      "name": "Death Mage Perk 90",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_91",
+      "name": "Death Mage Perk 91",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_92",
+      "name": "Death Mage Perk 92",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_93",
+      "name": "Death Mage Perk 93",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.6,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_94",
+      "name": "Death Mage Perk 94",
+      "tier": "Epic",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_95",
+      "name": "Death Mage Perk 95",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.4,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_96",
+      "name": "Death Mage Perk 96",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing resource for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_97",
+      "name": "Death Mage Perk 97",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_98",
+      "name": "Death Mage Perk 98",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_99",
+      "name": "Death Mage Perk 99",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.0,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing defense for Death Mage."
+    },
+    {
+      "id": "death_mage/perk_100",
+      "name": "Death Mage Perk 100",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing mobility for Death Mage."
+    }
+  ]
+}

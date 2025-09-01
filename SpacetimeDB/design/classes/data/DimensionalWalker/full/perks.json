@@ -1,0 +1,1958 @@
+{
+  "class": "Dimensional Walker",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "dimensional_walker/perk_1",
+      "name": "Dimensional Walker Perk 1",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.6,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_2",
+      "name": "Dimensional Walker Perk 2",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_3",
+      "name": "Dimensional Walker Perk 3",
+      "tier": "Legendary",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.2,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_4",
+      "name": "Dimensional Walker Perk 4",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.3,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_5",
+      "name": "Dimensional Walker Perk 5",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.7,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_6",
+      "name": "Dimensional Walker Perk 6",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_7",
+      "name": "Dimensional Walker Perk 7",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_8",
+      "name": "Dimensional Walker Perk 8",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_9",
+      "name": "Dimensional Walker Perk 9",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_10",
+      "name": "Dimensional Walker Perk 10",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_11",
+      "name": "Dimensional Walker Perk 11",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_12",
+      "name": "Dimensional Walker Perk 12",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_13",
+      "name": "Dimensional Walker Perk 13",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_14",
+      "name": "Dimensional Walker Perk 14",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_15",
+      "name": "Dimensional Walker Perk 15",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_16",
+      "name": "Dimensional Walker Perk 16",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.6,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_17",
+      "name": "Dimensional Walker Perk 17",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_18",
+      "name": "Dimensional Walker Perk 18",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_19",
+      "name": "Dimensional Walker Perk 19",
+      "tier": "Legendary",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_20",
+      "name": "Dimensional Walker Perk 20",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_21",
+      "name": "Dimensional Walker Perk 21",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.7,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_22",
+      "name": "Dimensional Walker Perk 22",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_23",
+      "name": "Dimensional Walker Perk 23",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.4,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_24",
+      "name": "Dimensional Walker Perk 24",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_25",
+      "name": "Dimensional Walker Perk 25",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_26",
+      "name": "Dimensional Walker Perk 26",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_27",
+      "name": "Dimensional Walker Perk 27",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_28",
+      "name": "Dimensional Walker Perk 28",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_29",
+      "name": "Dimensional Walker Perk 29",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_30",
+      "name": "Dimensional Walker Perk 30",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.4,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_31",
+      "name": "Dimensional Walker Perk 31",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_32",
+      "name": "Dimensional Walker Perk 32",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_33",
+      "name": "Dimensional Walker Perk 33",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.7,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_34",
+      "name": "Dimensional Walker Perk 34",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_35",
+      "name": "Dimensional Walker Perk 35",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.7,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_36",
+      "name": "Dimensional Walker Perk 36",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_37",
+      "name": "Dimensional Walker Perk 37",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_38",
+      "name": "Dimensional Walker Perk 38",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.7,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_39",
+      "name": "Dimensional Walker Perk 39",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_40",
+      "name": "Dimensional Walker Perk 40",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_41",
+      "name": "Dimensional Walker Perk 41",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_42",
+      "name": "Dimensional Walker Perk 42",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.5,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_43",
+      "name": "Dimensional Walker Perk 43",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 3.0,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_44",
+      "name": "Dimensional Walker Perk 44",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_45",
+      "name": "Dimensional Walker Perk 45",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_46",
+      "name": "Dimensional Walker Perk 46",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_47",
+      "name": "Dimensional Walker Perk 47",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_48",
+      "name": "Dimensional Walker Perk 48",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_49",
+      "name": "Dimensional Walker Perk 49",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.9,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_50",
+      "name": "Dimensional Walker Perk 50",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_51",
+      "name": "Dimensional Walker Perk 51",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_52",
+      "name": "Dimensional Walker Perk 52",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.4,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_53",
+      "name": "Dimensional Walker Perk 53",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.1,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_54",
+      "name": "Dimensional Walker Perk 54",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_55",
+      "name": "Dimensional Walker Perk 55",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_56",
+      "name": "Dimensional Walker Perk 56",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_57",
+      "name": "Dimensional Walker Perk 57",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_58",
+      "name": "Dimensional Walker Perk 58",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_59",
+      "name": "Dimensional Walker Perk 59",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_60",
+      "name": "Dimensional Walker Perk 60",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_61",
+      "name": "Dimensional Walker Perk 61",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_62",
+      "name": "Dimensional Walker Perk 62",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_63",
+      "name": "Dimensional Walker Perk 63",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.0,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_64",
+      "name": "Dimensional Walker Perk 64",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.3,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_65",
+      "name": "Dimensional Walker Perk 65",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_66",
+      "name": "Dimensional Walker Perk 66",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.4,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_67",
+      "name": "Dimensional Walker Perk 67",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.5,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_68",
+      "name": "Dimensional Walker Perk 68",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.6,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_69",
+      "name": "Dimensional Walker Perk 69",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.0,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_70",
+      "name": "Dimensional Walker Perk 70",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_71",
+      "name": "Dimensional Walker Perk 71",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_72",
+      "name": "Dimensional Walker Perk 72",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.3,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_73",
+      "name": "Dimensional Walker Perk 73",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_74",
+      "name": "Dimensional Walker Perk 74",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_75",
+      "name": "Dimensional Walker Perk 75",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_76",
+      "name": "Dimensional Walker Perk 76",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.7,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_77",
+      "name": "Dimensional Walker Perk 77",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.1,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_78",
+      "name": "Dimensional Walker Perk 78",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_79",
+      "name": "Dimensional Walker Perk 79",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_80",
+      "name": "Dimensional Walker Perk 80",
+      "tier": "Legendary",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_81",
+      "name": "Dimensional Walker Perk 81",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_82",
+      "name": "Dimensional Walker Perk 82",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.2,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_83",
+      "name": "Dimensional Walker Perk 83",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_84",
+      "name": "Dimensional Walker Perk 84",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_85",
+      "name": "Dimensional Walker Perk 85",
+      "tier": "Legendary",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_86",
+      "name": "Dimensional Walker Perk 86",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_87",
+      "name": "Dimensional Walker Perk 87",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_88",
+      "name": "Dimensional Walker Perk 88",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_89",
+      "name": "Dimensional Walker Perk 89",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_90",
+      "name": "Dimensional Walker Perk 90",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.1,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_91",
+      "name": "Dimensional Walker Perk 91",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_92",
+      "name": "Dimensional Walker Perk 92",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_93",
+      "name": "Dimensional Walker Perk 93",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.7,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_94",
+      "name": "Dimensional Walker Perk 94",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_95",
+      "name": "Dimensional Walker Perk 95",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.4,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_96",
+      "name": "Dimensional Walker Perk 96",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.7,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_97",
+      "name": "Dimensional Walker Perk 97",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing utility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_98",
+      "name": "Dimensional Walker Perk 98",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_99",
+      "name": "Dimensional Walker Perk 99",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Dimensional Walker."
+    },
+    {
+      "id": "dimensional_walker/perk_100",
+      "name": "Dimensional Walker Perk 100",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Dimensional Walker."
+    }
+  ]
+}

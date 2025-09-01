@@ -1,0 +1,17 @@
+{
+  "class": "Time Mage",
+  "abilities": [
+    {"id":"time_mage/acceleration_act_1","name":"Quickstep","branch":"Acceleration","tier":1,"type":"active","resource":{"type":"Chrono Charge","cost":20},"cooldown_s":8,"tags":["haste","mobility"],"effects":[{"kind":"haste","value_pct":20,"duration_s":5}],"description":"Grant yourself +20% haste and brief move speed for 5s."},
+    {"id":"time_mage/acceleration_act_2","name":"Time Dilation","branch":"Acceleration","tier":2,"type":"active","resource":{"type":"Chrono Charge","cost":25},"cooldown_s":16,"tags":["aoe","slow"],"effects":[{"kind":"slow","value_pct":35,"duration_s":6}],"description":"Slows enemies in a small radius by 35% for 6s."},
+    {"id":"time_mage/acceleration_pas_1","name":"Tempo","branch":"Acceleration","tier":1,"type":"passive","tags":["passive","haste"],"effects":[{"kind":"stat","stat":"haste","pct":3}],"description":"+3% haste."},
+    {"id":"time_mage/reversion_act_1","name":"Rewind Step","branch":"Reversion","tier":1,"type":"active","resource":{"type":"Chrono Charge","cost":30},"cooldown_s":18,"tags":["undo","mobility"],"effects":[{"kind":"rewind","seconds":2}],"description":"Return to your position from 2s ago and cleanse a recent debuff."},
+    {"id":"time_mage/reversion_act_2","name":"Restore State","branch":"Reversion","tier":2,"type":"active","resource":{"type":"Chrono Charge","cost":35},"cooldown_s":24,"tags":["heal","shield"],"effects":[{"kind":"heal","mult":1.2},{"kind":"shield","value_pct_hp":10,"duration_s":6}],"description":"Heal moderately and gain a brief temporal shield."},
+    {"id":"time_mage/reversion_pas_1","name":"Afterimage","branch":"Reversion","tier":1,"type":"passive","tags":["passive","defense"],"effects":[{"kind":"stat","stat":"dodge","pct":2}],"description":"+2% dodge (temporal flicker)."},
+    {"id":"time_mage/fracture_act_1","name":"Chrono Slash","branch":"Fracture","tier":1,"type":"active","resource":{"type":"Chrono Charge","cost":22},"cooldown_s":10,"tags":["damage"],"effects":[{"kind":"damage","mult":1.5}],"description":"Deal 150% spell damage; leaves a rift for minor DoT."},
+    {"id":"time_mage/fracture_act_2","name":"Rift Spike","branch":"Fracture","tier":2,"type":"active","resource":{"type":"Chrono Charge","cost":28},"cooldown_s":14,"tags":["burst","aoe"],"effects":[{"kind":"damage","mult":1.1},{"kind":"explosion","mult":0.8}],"description":"Impale target with a time spike that detonates."},
+    {"id":"time_mage/fracture_exo_1","name":"Paradox Engine","branch":"Fracture","tier":6,"type":"exotic","tags":["exotic"],"effects":[{"kind":"special","note":"Resets one non-ultimate cooldown every 30s when spending 100 Chrono Charge."}],"description":"Spending 100 Chrono Charge resets a random cooldown (30s icd)."},
+    {"id":"time_mage/ultimate_1","name":"Stop Time","branch":"All","tier":6,"type":"ultimate","cooldown_s":120,"resource":{"type":"Chrono Charge","cost":0},"tags":["ultimate","stasis"],"effects":[{"kind":"stasis","duration_s":3,"note":"Enemies paused, allies slowed instead of frozen."}],"description":"Freeze enemies for 3s (bosses: heavy slow); allies slowed 30% instead."}
+  ],
+  "perks": []
+}
+

@@ -1,0 +1,4004 @@
+{
+  "perks": [
+    {
+      "id": "perk_001",
+      "name": "CRIT Surge 001",
+      "stat": "crit",
+      "min": 2.2,
+      "max": 3.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_002",
+      "name": "CDR Surge 002",
+      "stat": "cdr",
+      "min": 1.7,
+      "max": 4.7,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_003",
+      "name": "DR Surge 003",
+      "stat": "dr",
+      "min": 1.2,
+      "max": 9.7,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_004",
+      "name": "TENACITY Surge 004",
+      "stat": "tenacity",
+      "min": 2.3,
+      "max": 3.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_005",
+      "name": "CRIT Surge 005",
+      "stat": "crit",
+      "min": 1.7,
+      "max": 7.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_006",
+      "name": "HP Surge 006",
+      "stat": "hp",
+      "min": 1.5,
+      "max": 8.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_007",
+      "name": "DR Surge 007",
+      "stat": "dr",
+      "min": 1.6,
+      "max": 9.0,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_008",
+      "name": "FP Surge 008",
+      "stat": "fp",
+      "min": 1.8,
+      "max": 7.6,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_009",
+      "name": "FP Surge 009",
+      "stat": "fp",
+      "min": 3.0,
+      "max": 5.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_010",
+      "name": "POWER Surge 010",
+      "stat": "power",
+      "min": 2.6,
+      "max": 4.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_011",
+      "name": "HP Surge 011",
+      "stat": "hp",
+      "min": 2.3,
+      "max": 3.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_012",
+      "name": "DOT Surge 012",
+      "stat": "dot",
+      "min": 2.3,
+      "max": 9.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_013",
+      "name": "FP Surge 013",
+      "stat": "fp",
+      "min": 2.3,
+      "max": 5.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_014",
+      "name": "HASTE Surge 014",
+      "stat": "haste",
+      "min": 1.1,
+      "max": 6.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_015",
+      "name": "HP Surge 015",
+      "stat": "hp",
+      "min": 3.0,
+      "max": 3.5,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_016",
+      "name": "MOVE Surge 016",
+      "stat": "move",
+      "min": 1.5,
+      "max": 6.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_017",
+      "name": "HP Surge 017",
+      "stat": "hp",
+      "min": 2.0,
+      "max": 9.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_018",
+      "name": "DR Surge 018",
+      "stat": "dr",
+      "min": 1.3,
+      "max": 4.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_019",
+      "name": "POWER Surge 019",
+      "stat": "power",
+      "min": 1.6,
+      "max": 7.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_020",
+      "name": "DR Surge 020",
+      "stat": "dr",
+      "min": 1.5,
+      "max": 5.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_021",
+      "name": "HASTE Surge 021",
+      "stat": "haste",
+      "min": 1.9,
+      "max": 9.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_022",
+      "name": "POWER Surge 022",
+      "stat": "power",
+      "min": 1.1,
+      "max": 4.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_023",
+      "name": "CDR Surge 023",
+      "stat": "cdr",
+      "min": 2.1,
+      "max": 9.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_024",
+      "name": "CRIT Surge 024",
+      "stat": "crit",
+      "min": 1.6,
+      "max": 5.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_025",
+      "name": "DR Surge 025",
+      "stat": "dr",
+      "min": 1.2,
+      "max": 6.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_026",
+      "name": "DOT Surge 026",
+      "stat": "dot",
+      "min": 1.6,
+      "max": 6.6,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_027",
+      "name": "POWER Surge 027",
+      "stat": "power",
+      "min": 2.1,
+      "max": 6.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_028",
+      "name": "FP Surge 028",
+      "stat": "fp",
+      "min": 1.4,
+      "max": 6.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_029",
+      "name": "CDR Surge 029",
+      "stat": "cdr",
+      "min": 3.0,
+      "max": 7.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_030",
+      "name": "HP Surge 030",
+      "stat": "hp",
+      "min": 2.9,
+      "max": 9.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_031",
+      "name": "HASTE Surge 031",
+      "stat": "haste",
+      "min": 1.3,
+      "max": 8.4,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_032",
+      "name": "POWER Surge 032",
+      "stat": "power",
+      "min": 1.3,
+      "max": 9.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_033",
+      "name": "CDR Surge 033",
+      "stat": "cdr",
+      "min": 1.0,
+      "max": 7.2,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_034",
+      "name": "MOVE Surge 034",
+      "stat": "move",
+      "min": 1.4,
+      "max": 5.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_035",
+      "name": "DOT Surge 035",
+      "stat": "dot",
+      "min": 1.2,
+      "max": 5.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_036",
+      "name": "MOVE Surge 036",
+      "stat": "move",
+      "min": 2.2,
+      "max": 4.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_037",
+      "name": "HASTE Surge 037",
+      "stat": "haste",
+      "min": 2.7,
+      "max": 3.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_038",
+      "name": "CDR Surge 038",
+      "stat": "cdr",
+      "min": 3.0,
+      "max": 5.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_039",
+      "name": "DR Surge 039",
+      "stat": "dr",
+      "min": 2.3,
+      "max": 7.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_040",
+      "name": "FP Surge 040",
+      "stat": "fp",
+      "min": 2.8,
+      "max": 4.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_041",
+      "name": "MOVE Surge 041",
+      "stat": "move",
+      "min": 2.6,
+      "max": 4.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_042",
+      "name": "TENACITY Surge 042",
+      "stat": "tenacity",
+      "min": 2.2,
+      "max": 4.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_043",
+      "name": "POWER Surge 043",
+      "stat": "power",
+      "min": 2.8,
+      "max": 3.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_044",
+      "name": "CDR Surge 044",
+      "stat": "cdr",
+      "min": 1.7,
+      "max": 5.7,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_045",
+      "name": "CRIT Surge 045",
+      "stat": "crit",
+      "min": 1.6,
+      "max": 9.9,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "perk_046",
+      "name": "MOVE Surge 046",
+      "stat": "move",
+      "min": 1.2,
+      "max": 9.0,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_047",
+      "name": "MOVE Surge 047",
+      "stat": "move",
+      "min": 2.3,
+      "max": 7.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_048",
+      "name": "DOT Surge 048",
+      "stat": "dot",
+      "min": 2.0,
+      "max": 3.4,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_049",
+      "name": "POWER Surge 049",
+      "stat": "power",
+      "min": 2.3,
+      "max": 5.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_050",
+      "name": "DOT Surge 050",
+      "stat": "dot",
+      "min": 2.5,
+      "max": 4.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_051",
+      "name": "HASTE Surge 051",
+      "stat": "haste",
+      "min": 2.2,
+      "max": 3.3,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_052",
+      "name": "CDR Surge 052",
+      "stat": "cdr",
+      "min": 1.5,
+      "max": 6.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_053",
+      "name": "DR Surge 053",
+      "stat": "dr",
+      "min": 1.7,
+      "max": 7.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_054",
+      "name": "MOVE Surge 054",
+      "stat": "move",
+      "min": 1.1,
+      "max": 9.6,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_055",
+      "name": "HASTE Surge 055",
+      "stat": "haste",
+      "min": 1.1,
+      "max": 3.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_056",
+      "name": "MOVE Surge 056",
+      "stat": "move",
+      "min": 2.2,
+      "max": 5.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_057",
+      "name": "MOVE Surge 057",
+      "stat": "move",
+      "min": 2.4,
+      "max": 6.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_058",
+      "name": "MOVE Surge 058",
+      "stat": "move",
+      "min": 2.9,
+      "max": 7.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_059",
+      "name": "MOVE Surge 059",
+      "stat": "move",
+      "min": 2.1,
+      "max": 5.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_060",
+      "name": "DOT Surge 060",
+      "stat": "dot",
+      "min": 1.6,
+      "max": 8.2,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_061",
+      "name": "HP Surge 061",
+      "stat": "hp",
+      "min": 2.6,
+      "max": 5.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_062",
+      "name": "DR Surge 062",
+      "stat": "dr",
+      "min": 2.4,
+      "max": 3.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_063",
+      "name": "HP Surge 063",
+      "stat": "hp",
+      "min": 1.0,
+      "max": 5.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_064",
+      "name": "FP Surge 064",
+      "stat": "fp",
+      "min": 2.9,
+      "max": 9.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_065",
+      "name": "TENACITY Surge 065",
+      "stat": "tenacity",
+      "min": 1.1,
+      "max": 9.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_066",
+      "name": "MOVE Surge 066",
+      "stat": "move",
+      "min": 1.4,
+      "max": 3.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_067",
+      "name": "CRIT Surge 067",
+      "stat": "crit",
+      "min": 2.0,
+      "max": 9.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_068",
+      "name": "HP Surge 068",
+      "stat": "hp",
+      "min": 2.8,
+      "max": 6.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_069",
+      "name": "CRIT Surge 069",
+      "stat": "crit",
+      "min": 1.5,
+      "max": 7.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_070",
+      "name": "CRIT Surge 070",
+      "stat": "crit",
+      "min": 2.3,
+      "max": 8.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_071",
+      "name": "POWER Surge 071",
+      "stat": "power",
+      "min": 1.7,
+      "max": 9.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_072",
+      "name": "HASTE Surge 072",
+      "stat": "haste",
+      "min": 2.0,
+      "max": 6.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_073",
+      "name": "DR Surge 073",
+      "stat": "dr",
+      "min": 1.2,
+      "max": 8.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_074",
+      "name": "DOT Surge 074",
+      "stat": "dot",
+      "min": 1.8,
+      "max": 9.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_075",
+      "name": "FP Surge 075",
+      "stat": "fp",
+      "min": 2.7,
+      "max": 3.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_076",
+      "name": "HP Surge 076",
+      "stat": "hp",
+      "min": 2.0,
+      "max": 8.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_077",
+      "name": "HASTE Surge 077",
+      "stat": "haste",
+      "min": 1.4,
+      "max": 5.3,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_078",
+      "name": "HASTE Surge 078",
+      "stat": "haste",
+      "min": 2.4,
+      "max": 3.3,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_079",
+      "name": "HP Surge 079",
+      "stat": "hp",
+      "min": 2.9,
+      "max": 3.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_080",
+      "name": "CDR Surge 080",
+      "stat": "cdr",
+      "min": 2.4,
+      "max": 8.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_081",
+      "name": "HASTE Surge 081",
+      "stat": "haste",
+      "min": 1.8,
+      "max": 7.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_082",
+      "name": "FP Surge 082",
+      "stat": "fp",
+      "min": 1.3,
+      "max": 4.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_083",
+      "name": "HP Surge 083",
+      "stat": "hp",
+      "min": 2.2,
+      "max": 7.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_084",
+      "name": "FP Surge 084",
+      "stat": "fp",
+      "min": 1.5,
+      "max": 4.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_085",
+      "name": "CDR Surge 085",
+      "stat": "cdr",
+      "min": 2.4,
+      "max": 6.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_086",
+      "name": "TENACITY Surge 086",
+      "stat": "tenacity",
+      "min": 2.7,
+      "max": 5.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_087",
+      "name": "CDR Surge 087",
+      "stat": "cdr",
+      "min": 2.6,
+      "max": 9.5,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_088",
+      "name": "FP Surge 088",
+      "stat": "fp",
+      "min": 2.9,
+      "max": 9.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_089",
+      "name": "MOVE Surge 089",
+      "stat": "move",
+      "min": 1.9,
+      "max": 7.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_090",
+      "name": "CDR Surge 090",
+      "stat": "cdr",
+      "min": 1.2,
+      "max": 5.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_091",
+      "name": "DOT Surge 091",
+      "stat": "dot",
+      "min": 1.4,
+      "max": 8.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_092",
+      "name": "FP Surge 092",
+      "stat": "fp",
+      "min": 2.8,
+      "max": 6.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_093",
+      "name": "HASTE Surge 093",
+      "stat": "haste",
+      "min": 2.3,
+      "max": 4.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_094",
+      "name": "DOT Surge 094",
+      "stat": "dot",
+      "min": 2.3,
+      "max": 9.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_095",
+      "name": "MOVE Surge 095",
+      "stat": "move",
+      "min": 2.5,
+      "max": 6.0,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_096",
+      "name": "POWER Surge 096",
+      "stat": "power",
+      "min": 2.9,
+      "max": 6.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_097",
+      "name": "MOVE Surge 097",
+      "stat": "move",
+      "min": 2.7,
+      "max": 3.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_098",
+      "name": "DOT Surge 098",
+      "stat": "dot",
+      "min": 2.5,
+      "max": 7.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_099",
+      "name": "FP Surge 099",
+      "stat": "fp",
+      "min": 2.5,
+      "max": 4.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_100",
+      "name": "HP Surge 100",
+      "stat": "hp",
+      "min": 2.1,
+      "max": 8.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_101",
+      "name": "CDR Surge 101",
+      "stat": "cdr",
+      "min": 2.0,
+      "max": 5.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_102",
+      "name": "TENACITY Surge 102",
+      "stat": "tenacity",
+      "min": 1.6,
+      "max": 4.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_103",
+      "name": "FP Surge 103",
+      "stat": "fp",
+      "min": 2.8,
+      "max": 3.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_104",
+      "name": "CRIT Surge 104",
+      "stat": "crit",
+      "min": 2.9,
+      "max": 6.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_105",
+      "name": "DR Surge 105",
+      "stat": "dr",
+      "min": 2.6,
+      "max": 7.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_106",
+      "name": "DOT Surge 106",
+      "stat": "dot",
+      "min": 2.9,
+      "max": 4.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_107",
+      "name": "HP Surge 107",
+      "stat": "hp",
+      "min": 1.0,
+      "max": 9.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_108",
+      "name": "FP Surge 108",
+      "stat": "fp",
+      "min": 2.4,
+      "max": 5.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_109",
+      "name": "POWER Surge 109",
+      "stat": "power",
+      "min": 1.8,
+      "max": 7.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_110",
+      "name": "MOVE Surge 110",
+      "stat": "move",
+      "min": 2.8,
+      "max": 3.7,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_111",
+      "name": "MOVE Surge 111",
+      "stat": "move",
+      "min": 1.1,
+      "max": 4.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_112",
+      "name": "CDR Surge 112",
+      "stat": "cdr",
+      "min": 2.9,
+      "max": 6.1,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_113",
+      "name": "FP Surge 113",
+      "stat": "fp",
+      "min": 2.4,
+      "max": 8.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_114",
+      "name": "HP Surge 114",
+      "stat": "hp",
+      "min": 2.4,
+      "max": 5.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_115",
+      "name": "TENACITY Surge 115",
+      "stat": "tenacity",
+      "min": 1.5,
+      "max": 8.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_116",
+      "name": "CDR Surge 116",
+      "stat": "cdr",
+      "min": 1.7,
+      "max": 9.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_117",
+      "name": "CDR Surge 117",
+      "stat": "cdr",
+      "min": 1.0,
+      "max": 5.0,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_118",
+      "name": "FP Surge 118",
+      "stat": "fp",
+      "min": 2.4,
+      "max": 3.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_119",
+      "name": "HASTE Surge 119",
+      "stat": "haste",
+      "min": 1.3,
+      "max": 7.1,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_120",
+      "name": "DOT Surge 120",
+      "stat": "dot",
+      "min": 2.9,
+      "max": 8.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_121",
+      "name": "CDR Surge 121",
+      "stat": "cdr",
+      "min": 1.6,
+      "max": 3.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_122",
+      "name": "DR Surge 122",
+      "stat": "dr",
+      "min": 1.1,
+      "max": 7.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_123",
+      "name": "HP Surge 123",
+      "stat": "hp",
+      "min": 1.9,
+      "max": 8.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_124",
+      "name": "CRIT Surge 124",
+      "stat": "crit",
+      "min": 2.2,
+      "max": 9.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_125",
+      "name": "HP Surge 125",
+      "stat": "hp",
+      "min": 1.5,
+      "max": 5.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_126",
+      "name": "POWER Surge 126",
+      "stat": "power",
+      "min": 1.3,
+      "max": 6.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_127",
+      "name": "HASTE Surge 127",
+      "stat": "haste",
+      "min": 2.3,
+      "max": 4.4,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_128",
+      "name": "FP Surge 128",
+      "stat": "fp",
+      "min": 1.7,
+      "max": 7.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_129",
+      "name": "HASTE Surge 129",
+      "stat": "haste",
+      "min": 2.3,
+      "max": 6.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_130",
+      "name": "MOVE Surge 130",
+      "stat": "move",
+      "min": 1.7,
+      "max": 9.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_131",
+      "name": "MOVE Surge 131",
+      "stat": "move",
+      "min": 1.7,
+      "max": 9.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_132",
+      "name": "FP Surge 132",
+      "stat": "fp",
+      "min": 1.7,
+      "max": 4.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_133",
+      "name": "DR Surge 133",
+      "stat": "dr",
+      "min": 2.8,
+      "max": 7.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_134",
+      "name": "CRIT Surge 134",
+      "stat": "crit",
+      "min": 1.5,
+      "max": 4.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_135",
+      "name": "HASTE Surge 135",
+      "stat": "haste",
+      "min": 2.0,
+      "max": 4.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_136",
+      "name": "CDR Surge 136",
+      "stat": "cdr",
+      "min": 1.7,
+      "max": 3.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_137",
+      "name": "POWER Surge 137",
+      "stat": "power",
+      "min": 2.9,
+      "max": 4.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_138",
+      "name": "POWER Surge 138",
+      "stat": "power",
+      "min": 2.4,
+      "max": 4.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_139",
+      "name": "DR Surge 139",
+      "stat": "dr",
+      "min": 1.3,
+      "max": 6.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_140",
+      "name": "CRIT Surge 140",
+      "stat": "crit",
+      "min": 1.5,
+      "max": 8.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_141",
+      "name": "MOVE Surge 141",
+      "stat": "move",
+      "min": 1.5,
+      "max": 7.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_142",
+      "name": "CDR Surge 142",
+      "stat": "cdr",
+      "min": 2.0,
+      "max": 7.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_143",
+      "name": "FP Surge 143",
+      "stat": "fp",
+      "min": 1.5,
+      "max": 7.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_144",
+      "name": "CDR Surge 144",
+      "stat": "cdr",
+      "min": 1.6,
+      "max": 8.5,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_145",
+      "name": "FP Surge 145",
+      "stat": "fp",
+      "min": 2.9,
+      "max": 7.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_146",
+      "name": "CRIT Surge 146",
+      "stat": "crit",
+      "min": 1.9,
+      "max": 3.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_147",
+      "name": "FP Surge 147",
+      "stat": "fp",
+      "min": 2.1,
+      "max": 7.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_148",
+      "name": "POWER Surge 148",
+      "stat": "power",
+      "min": 2.8,
+      "max": 6.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_149",
+      "name": "DOT Surge 149",
+      "stat": "dot",
+      "min": 2.2,
+      "max": 4.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_150",
+      "name": "POWER Surge 150",
+      "stat": "power",
+      "min": 2.0,
+      "max": 4.7,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_151",
+      "name": "CRIT Surge 151",
+      "stat": "crit",
+      "min": 2.0,
+      "max": 7.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_152",
+      "name": "FP Surge 152",
+      "stat": "fp",
+      "min": 2.2,
+      "max": 9.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_153",
+      "name": "FP Surge 153",
+      "stat": "fp",
+      "min": 2.8,
+      "max": 9.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_154",
+      "name": "DOT Surge 154",
+      "stat": "dot",
+      "min": 1.4,
+      "max": 4.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_155",
+      "name": "CRIT Surge 155",
+      "stat": "crit",
+      "min": 1.7,
+      "max": 7.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_156",
+      "name": "DR Surge 156",
+      "stat": "dr",
+      "min": 1.9,
+      "max": 4.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_157",
+      "name": "DR Surge 157",
+      "stat": "dr",
+      "min": 1.6,
+      "max": 8.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_158",
+      "name": "MOVE Surge 158",
+      "stat": "move",
+      "min": 2.2,
+      "max": 5.5,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "perk_159",
+      "name": "MOVE Surge 159",
+      "stat": "move",
+      "min": 1.2,
+      "max": 3.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_160",
+      "name": "CRIT Surge 160",
+      "stat": "crit",
+      "min": 1.0,
+      "max": 6.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_161",
+      "name": "CDR Surge 161",
+      "stat": "cdr",
+      "min": 1.0,
+      "max": 4.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_162",
+      "name": "DOT Surge 162",
+      "stat": "dot",
+      "min": 2.6,
+      "max": 3.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_163",
+      "name": "DR Surge 163",
+      "stat": "dr",
+      "min": 2.6,
+      "max": 9.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_164",
+      "name": "HASTE Surge 164",
+      "stat": "haste",
+      "min": 2.1,
+      "max": 3.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_165",
+      "name": "POWER Surge 165",
+      "stat": "power",
+      "min": 1.5,
+      "max": 7.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_166",
+      "name": "MOVE Surge 166",
+      "stat": "move",
+      "min": 3.0,
+      "max": 7.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_167",
+      "name": "DOT Surge 167",
+      "stat": "dot",
+      "min": 2.7,
+      "max": 3.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_168",
+      "name": "DR Surge 168",
+      "stat": "dr",
+      "min": 2.0,
+      "max": 5.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_169",
+      "name": "DOT Surge 169",
+      "stat": "dot",
+      "min": 2.7,
+      "max": 4.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_170",
+      "name": "DR Surge 170",
+      "stat": "dr",
+      "min": 1.3,
+      "max": 7.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_171",
+      "name": "MOVE Surge 171",
+      "stat": "move",
+      "min": 2.7,
+      "max": 9.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_172",
+      "name": "DR Surge 172",
+      "stat": "dr",
+      "min": 1.8,
+      "max": 8.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_173",
+      "name": "HASTE Surge 173",
+      "stat": "haste",
+      "min": 2.5,
+      "max": 9.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_174",
+      "name": "FP Surge 174",
+      "stat": "fp",
+      "min": 2.8,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_175",
+      "name": "DOT Surge 175",
+      "stat": "dot",
+      "min": 1.3,
+      "max": 4.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_176",
+      "name": "CRIT Surge 176",
+      "stat": "crit",
+      "min": 2.3,
+      "max": 4.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_177",
+      "name": "MOVE Surge 177",
+      "stat": "move",
+      "min": 2.1,
+      "max": 5.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_178",
+      "name": "POWER Surge 178",
+      "stat": "power",
+      "min": 1.5,
+      "max": 7.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_179",
+      "name": "FP Surge 179",
+      "stat": "fp",
+      "min": 1.0,
+      "max": 4.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_180",
+      "name": "DOT Surge 180",
+      "stat": "dot",
+      "min": 1.9,
+      "max": 9.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_181",
+      "name": "HP Surge 181",
+      "stat": "hp",
+      "min": 1.3,
+      "max": 7.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_182",
+      "name": "DR Surge 182",
+      "stat": "dr",
+      "min": 1.0,
+      "max": 3.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_183",
+      "name": "CDR Surge 183",
+      "stat": "cdr",
+      "min": 2.5,
+      "max": 8.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_184",
+      "name": "POWER Surge 184",
+      "stat": "power",
+      "min": 2.6,
+      "max": 7.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_185",
+      "name": "DOT Surge 185",
+      "stat": "dot",
+      "min": 2.3,
+      "max": 5.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_186",
+      "name": "HASTE Surge 186",
+      "stat": "haste",
+      "min": 2.3,
+      "max": 3.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_187",
+      "name": "DR Surge 187",
+      "stat": "dr",
+      "min": 2.3,
+      "max": 8.6,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_188",
+      "name": "POWER Surge 188",
+      "stat": "power",
+      "min": 1.6,
+      "max": 6.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_189",
+      "name": "DOT Surge 189",
+      "stat": "dot",
+      "min": 1.7,
+      "max": 9.3,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_190",
+      "name": "HP Surge 190",
+      "stat": "hp",
+      "min": 2.3,
+      "max": 3.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_191",
+      "name": "HP Surge 191",
+      "stat": "hp",
+      "min": 1.9,
+      "max": 8.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_192",
+      "name": "TENACITY Surge 192",
+      "stat": "tenacity",
+      "min": 2.9,
+      "max": 8.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_193",
+      "name": "DOT Surge 193",
+      "stat": "dot",
+      "min": 2.0,
+      "max": 9.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_194",
+      "name": "FP Surge 194",
+      "stat": "fp",
+      "min": 1.0,
+      "max": 9.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_195",
+      "name": "CRIT Surge 195",
+      "stat": "crit",
+      "min": 2.4,
+      "max": 4.2,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_196",
+      "name": "POWER Surge 196",
+      "stat": "power",
+      "min": 2.6,
+      "max": 3.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_197",
+      "name": "CRIT Surge 197",
+      "stat": "crit",
+      "min": 2.6,
+      "max": 4.5,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_198",
+      "name": "FP Surge 198",
+      "stat": "fp",
+      "min": 1.4,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_199",
+      "name": "FP Surge 199",
+      "stat": "fp",
+      "min": 2.9,
+      "max": 7.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_200",
+      "name": "DOT Surge 200",
+      "stat": "dot",
+      "min": 1.7,
+      "max": 4.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_201",
+      "name": "FP Surge 201",
+      "stat": "fp",
+      "min": 2.3,
+      "max": 5.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_202",
+      "name": "MOVE Surge 202",
+      "stat": "move",
+      "min": 1.6,
+      "max": 9.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_203",
+      "name": "MOVE Surge 203",
+      "stat": "move",
+      "min": 1.0,
+      "max": 8.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_204",
+      "name": "CDR Surge 204",
+      "stat": "cdr",
+      "min": 1.1,
+      "max": 6.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_205",
+      "name": "HASTE Surge 205",
+      "stat": "haste",
+      "min": 2.7,
+      "max": 6.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_206",
+      "name": "CRIT Surge 206",
+      "stat": "crit",
+      "min": 2.0,
+      "max": 9.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_207",
+      "name": "MOVE Surge 207",
+      "stat": "move",
+      "min": 1.3,
+      "max": 7.8,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_208",
+      "name": "DOT Surge 208",
+      "stat": "dot",
+      "min": 2.8,
+      "max": 6.5,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_209",
+      "name": "DR Surge 209",
+      "stat": "dr",
+      "min": 1.5,
+      "max": 6.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_210",
+      "name": "MOVE Surge 210",
+      "stat": "move",
+      "min": 2.1,
+      "max": 4.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_211",
+      "name": "MOVE Surge 211",
+      "stat": "move",
+      "min": 1.3,
+      "max": 6.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_212",
+      "name": "HP Surge 212",
+      "stat": "hp",
+      "min": 1.4,
+      "max": 4.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_213",
+      "name": "CDR Surge 213",
+      "stat": "cdr",
+      "min": 2.8,
+      "max": 4.7,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_214",
+      "name": "DR Surge 214",
+      "stat": "dr",
+      "min": 1.1,
+      "max": 4.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_215",
+      "name": "CDR Surge 215",
+      "stat": "cdr",
+      "min": 1.3,
+      "max": 4.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_216",
+      "name": "CDR Surge 216",
+      "stat": "cdr",
+      "min": 2.2,
+      "max": 4.9,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_217",
+      "name": "DR Surge 217",
+      "stat": "dr",
+      "min": 1.2,
+      "max": 7.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_218",
+      "name": "FP Surge 218",
+      "stat": "fp",
+      "min": 1.6,
+      "max": 4.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_219",
+      "name": "FP Surge 219",
+      "stat": "fp",
+      "min": 2.7,
+      "max": 8.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_220",
+      "name": "MOVE Surge 220",
+      "stat": "move",
+      "min": 1.4,
+      "max": 8.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_221",
+      "name": "MOVE Surge 221",
+      "stat": "move",
+      "min": 2.8,
+      "max": 3.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_222",
+      "name": "POWER Surge 222",
+      "stat": "power",
+      "min": 1.1,
+      "max": 9.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_223",
+      "name": "DOT Surge 223",
+      "stat": "dot",
+      "min": 1.7,
+      "max": 4.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_224",
+      "name": "HASTE Surge 224",
+      "stat": "haste",
+      "min": 1.0,
+      "max": 3.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_225",
+      "name": "MOVE Surge 225",
+      "stat": "move",
+      "min": 2.8,
+      "max": 8.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_226",
+      "name": "DR Surge 226",
+      "stat": "dr",
+      "min": 1.9,
+      "max": 9.0,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_227",
+      "name": "HP Surge 227",
+      "stat": "hp",
+      "min": 1.4,
+      "max": 7.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_228",
+      "name": "CDR Surge 228",
+      "stat": "cdr",
+      "min": 2.9,
+      "max": 7.3,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_229",
+      "name": "DOT Surge 229",
+      "stat": "dot",
+      "min": 1.4,
+      "max": 7.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_230",
+      "name": "POWER Surge 230",
+      "stat": "power",
+      "min": 2.3,
+      "max": 5.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_231",
+      "name": "HP Surge 231",
+      "stat": "hp",
+      "min": 2.9,
+      "max": 8.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_232",
+      "name": "HASTE Surge 232",
+      "stat": "haste",
+      "min": 2.5,
+      "max": 7.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_233",
+      "name": "HP Surge 233",
+      "stat": "hp",
+      "min": 1.2,
+      "max": 5.0,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_234",
+      "name": "POWER Surge 234",
+      "stat": "power",
+      "min": 1.2,
+      "max": 3.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_235",
+      "name": "CRIT Surge 235",
+      "stat": "crit",
+      "min": 3.0,
+      "max": 7.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_236",
+      "name": "CRIT Surge 236",
+      "stat": "crit",
+      "min": 2.3,
+      "max": 8.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_237",
+      "name": "MOVE Surge 237",
+      "stat": "move",
+      "min": 1.9,
+      "max": 3.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_238",
+      "name": "POWER Surge 238",
+      "stat": "power",
+      "min": 2.7,
+      "max": 10.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_239",
+      "name": "MOVE Surge 239",
+      "stat": "move",
+      "min": 1.9,
+      "max": 5.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_240",
+      "name": "CRIT Surge 240",
+      "stat": "crit",
+      "min": 2.9,
+      "max": 9.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_241",
+      "name": "HP Surge 241",
+      "stat": "hp",
+      "min": 2.9,
+      "max": 6.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_242",
+      "name": "CDR Surge 242",
+      "stat": "cdr",
+      "min": 2.1,
+      "max": 3.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_243",
+      "name": "DOT Surge 243",
+      "stat": "dot",
+      "min": 1.2,
+      "max": 7.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_244",
+      "name": "MOVE Surge 244",
+      "stat": "move",
+      "min": 2.9,
+      "max": 5.7,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_245",
+      "name": "DR Surge 245",
+      "stat": "dr",
+      "min": 2.1,
+      "max": 3.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_246",
+      "name": "HASTE Surge 246",
+      "stat": "haste",
+      "min": 2.6,
+      "max": 8.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_247",
+      "name": "CRIT Surge 247",
+      "stat": "crit",
+      "min": 1.5,
+      "max": 9.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_248",
+      "name": "CDR Surge 248",
+      "stat": "cdr",
+      "min": 1.5,
+      "max": 9.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_249",
+      "name": "CRIT Surge 249",
+      "stat": "crit",
+      "min": 2.3,
+      "max": 3.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_250",
+      "name": "FP Surge 250",
+      "stat": "fp",
+      "min": 2.2,
+      "max": 6.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_251",
+      "name": "FP Surge 251",
+      "stat": "fp",
+      "min": 2.8,
+      "max": 5.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_252",
+      "name": "HP Surge 252",
+      "stat": "hp",
+      "min": 2.5,
+      "max": 5.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_253",
+      "name": "FP Surge 253",
+      "stat": "fp",
+      "min": 2.0,
+      "max": 7.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_254",
+      "name": "DOT Surge 254",
+      "stat": "dot",
+      "min": 2.6,
+      "max": 4.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_255",
+      "name": "CDR Surge 255",
+      "stat": "cdr",
+      "min": 2.0,
+      "max": 6.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_256",
+      "name": "FP Surge 256",
+      "stat": "fp",
+      "min": 2.2,
+      "max": 4.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_257",
+      "name": "DOT Surge 257",
+      "stat": "dot",
+      "min": 1.6,
+      "max": 4.5,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_258",
+      "name": "DOT Surge 258",
+      "stat": "dot",
+      "min": 2.2,
+      "max": 5.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_259",
+      "name": "CRIT Surge 259",
+      "stat": "crit",
+      "min": 1.7,
+      "max": 4.5,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_260",
+      "name": "HP Surge 260",
+      "stat": "hp",
+      "min": 2.4,
+      "max": 7.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_261",
+      "name": "HP Surge 261",
+      "stat": "hp",
+      "min": 1.7,
+      "max": 3.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_262",
+      "name": "DOT Surge 262",
+      "stat": "dot",
+      "min": 1.7,
+      "max": 5.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_263",
+      "name": "CRIT Surge 263",
+      "stat": "crit",
+      "min": 2.5,
+      "max": 4.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_264",
+      "name": "DR Surge 264",
+      "stat": "dr",
+      "min": 2.6,
+      "max": 7.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_265",
+      "name": "FP Surge 265",
+      "stat": "fp",
+      "min": 1.3,
+      "max": 3.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_266",
+      "name": "DR Surge 266",
+      "stat": "dr",
+      "min": 2.7,
+      "max": 6.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_267",
+      "name": "HASTE Surge 267",
+      "stat": "haste",
+      "min": 2.7,
+      "max": 9.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_268",
+      "name": "HASTE Surge 268",
+      "stat": "haste",
+      "min": 1.7,
+      "max": 4.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_269",
+      "name": "MOVE Surge 269",
+      "stat": "move",
+      "min": 1.8,
+      "max": 4.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_270",
+      "name": "MOVE Surge 270",
+      "stat": "move",
+      "min": 2.9,
+      "max": 7.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_271",
+      "name": "HP Surge 271",
+      "stat": "hp",
+      "min": 1.5,
+      "max": 8.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_272",
+      "name": "HP Surge 272",
+      "stat": "hp",
+      "min": 2.4,
+      "max": 5.1,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_273",
+      "name": "FP Surge 273",
+      "stat": "fp",
+      "min": 2.1,
+      "max": 5.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_274",
+      "name": "HP Surge 274",
+      "stat": "hp",
+      "min": 2.1,
+      "max": 9.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_275",
+      "name": "HP Surge 275",
+      "stat": "hp",
+      "min": 2.0,
+      "max": 9.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_276",
+      "name": "HP Surge 276",
+      "stat": "hp",
+      "min": 2.4,
+      "max": 5.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_277",
+      "name": "POWER Surge 277",
+      "stat": "power",
+      "min": 2.6,
+      "max": 8.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_278",
+      "name": "MOVE Surge 278",
+      "stat": "move",
+      "min": 1.7,
+      "max": 3.1,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_279",
+      "name": "POWER Surge 279",
+      "stat": "power",
+      "min": 1.0,
+      "max": 4.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_280",
+      "name": "HP Surge 280",
+      "stat": "hp",
+      "min": 1.9,
+      "max": 9.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_281",
+      "name": "HP Surge 281",
+      "stat": "hp",
+      "min": 2.4,
+      "max": 4.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_282",
+      "name": "HASTE Surge 282",
+      "stat": "haste",
+      "min": 1.7,
+      "max": 7.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_283",
+      "name": "FP Surge 283",
+      "stat": "fp",
+      "min": 2.0,
+      "max": 8.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_284",
+      "name": "CRIT Surge 284",
+      "stat": "crit",
+      "min": 1.2,
+      "max": 5.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_285",
+      "name": "HP Surge 285",
+      "stat": "hp",
+      "min": 2.1,
+      "max": 3.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_286",
+      "name": "FP Surge 286",
+      "stat": "fp",
+      "min": 2.2,
+      "max": 3.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_287",
+      "name": "CRIT Surge 287",
+      "stat": "crit",
+      "min": 1.2,
+      "max": 8.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_288",
+      "name": "DR Surge 288",
+      "stat": "dr",
+      "min": 2.5,
+      "max": 4.1,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_289",
+      "name": "CRIT Surge 289",
+      "stat": "crit",
+      "min": 2.4,
+      "max": 9.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_290",
+      "name": "DR Surge 290",
+      "stat": "dr",
+      "min": 2.7,
+      "max": 3.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_291",
+      "name": "DR Surge 291",
+      "stat": "dr",
+      "min": 1.3,
+      "max": 9.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_292",
+      "name": "DR Surge 292",
+      "stat": "dr",
+      "min": 1.2,
+      "max": 8.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_293",
+      "name": "HP Surge 293",
+      "stat": "hp",
+      "min": 2.2,
+      "max": 5.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_294",
+      "name": "POWER Surge 294",
+      "stat": "power",
+      "min": 1.4,
+      "max": 3.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_295",
+      "name": "CDR Surge 295",
+      "stat": "cdr",
+      "min": 2.7,
+      "max": 6.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_296",
+      "name": "FP Surge 296",
+      "stat": "fp",
+      "min": 1.3,
+      "max": 8.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_297",
+      "name": "HASTE Surge 297",
+      "stat": "haste",
+      "min": 1.7,
+      "max": 5.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_298",
+      "name": "FP Surge 298",
+      "stat": "fp",
+      "min": 1.5,
+      "max": 4.1,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_299",
+      "name": "DR Surge 299",
+      "stat": "dr",
+      "min": 1.3,
+      "max": 5.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_300",
+      "name": "CRIT Surge 300",
+      "stat": "crit",
+      "min": 2.4,
+      "max": 8.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_301",
+      "name": "TENACITY Surge 301",
+      "stat": "tenacity",
+      "min": 2.7,
+      "max": 5.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_302",
+      "name": "HP Surge 302",
+      "stat": "hp",
+      "min": 2.0,
+      "max": 4.5,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_303",
+      "name": "POWER Surge 303",
+      "stat": "power",
+      "min": 2.4,
+      "max": 5.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_304",
+      "name": "CRIT Surge 304",
+      "stat": "crit",
+      "min": 2.7,
+      "max": 4.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_305",
+      "name": "DOT Surge 305",
+      "stat": "dot",
+      "min": 1.5,
+      "max": 6.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_306",
+      "name": "CRIT Surge 306",
+      "stat": "crit",
+      "min": 2.3,
+      "max": 6.7,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_307",
+      "name": "FP Surge 307",
+      "stat": "fp",
+      "min": 1.4,
+      "max": 7.0,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "perk_308",
+      "name": "CRIT Surge 308",
+      "stat": "crit",
+      "min": 2.1,
+      "max": 9.2,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_309",
+      "name": "CDR Surge 309",
+      "stat": "cdr",
+      "min": 2.2,
+      "max": 9.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_310",
+      "name": "FP Surge 310",
+      "stat": "fp",
+      "min": 2.0,
+      "max": 3.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_311",
+      "name": "HASTE Surge 311",
+      "stat": "haste",
+      "min": 1.7,
+      "max": 6.6,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_312",
+      "name": "CRIT Surge 312",
+      "stat": "crit",
+      "min": 2.4,
+      "max": 6.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_313",
+      "name": "DOT Surge 313",
+      "stat": "dot",
+      "min": 1.6,
+      "max": 3.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_314",
+      "name": "CDR Surge 314",
+      "stat": "cdr",
+      "min": 2.8,
+      "max": 5.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_315",
+      "name": "MOVE Surge 315",
+      "stat": "move",
+      "min": 2.1,
+      "max": 8.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_316",
+      "name": "POWER Surge 316",
+      "stat": "power",
+      "min": 1.4,
+      "max": 9.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_317",
+      "name": "MOVE Surge 317",
+      "stat": "move",
+      "min": 1.4,
+      "max": 8.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_318",
+      "name": "FP Surge 318",
+      "stat": "fp",
+      "min": 1.4,
+      "max": 3.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_319",
+      "name": "DR Surge 319",
+      "stat": "dr",
+      "min": 1.4,
+      "max": 7.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_320",
+      "name": "DR Surge 320",
+      "stat": "dr",
+      "min": 1.1,
+      "max": 6.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_321",
+      "name": "MOVE Surge 321",
+      "stat": "move",
+      "min": 2.0,
+      "max": 3.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_322",
+      "name": "CRIT Surge 322",
+      "stat": "crit",
+      "min": 2.8,
+      "max": 8.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_323",
+      "name": "CDR Surge 323",
+      "stat": "cdr",
+      "min": 1.4,
+      "max": 5.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_324",
+      "name": "CRIT Surge 324",
+      "stat": "crit",
+      "min": 2.6,
+      "max": 6.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_325",
+      "name": "MOVE Surge 325",
+      "stat": "move",
+      "min": 2.3,
+      "max": 4.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_326",
+      "name": "MOVE Surge 326",
+      "stat": "move",
+      "min": 2.1,
+      "max": 7.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_327",
+      "name": "POWER Surge 327",
+      "stat": "power",
+      "min": 1.8,
+      "max": 6.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_328",
+      "name": "DOT Surge 328",
+      "stat": "dot",
+      "min": 3.0,
+      "max": 7.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_329",
+      "name": "DOT Surge 329",
+      "stat": "dot",
+      "min": 1.9,
+      "max": 8.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_330",
+      "name": "CDR Surge 330",
+      "stat": "cdr",
+      "min": 1.8,
+      "max": 3.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_331",
+      "name": "HP Surge 331",
+      "stat": "hp",
+      "min": 2.6,
+      "max": 8.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_332",
+      "name": "POWER Surge 332",
+      "stat": "power",
+      "min": 2.8,
+      "max": 3.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_333",
+      "name": "HASTE Surge 333",
+      "stat": "haste",
+      "min": 2.7,
+      "max": 5.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_334",
+      "name": "HP Surge 334",
+      "stat": "hp",
+      "min": 2.4,
+      "max": 5.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_335",
+      "name": "HASTE Surge 335",
+      "stat": "haste",
+      "min": 2.4,
+      "max": 8.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_336",
+      "name": "DR Surge 336",
+      "stat": "dr",
+      "min": 1.1,
+      "max": 7.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_337",
+      "name": "TENACITY Surge 337",
+      "stat": "tenacity",
+      "min": 1.7,
+      "max": 6.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_338",
+      "name": "DR Surge 338",
+      "stat": "dr",
+      "min": 1.5,
+      "max": 7.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_339",
+      "name": "DR Surge 339",
+      "stat": "dr",
+      "min": 1.4,
+      "max": 6.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_340",
+      "name": "FP Surge 340",
+      "stat": "fp",
+      "min": 1.6,
+      "max": 5.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_341",
+      "name": "HASTE Surge 341",
+      "stat": "haste",
+      "min": 2.7,
+      "max": 7.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_342",
+      "name": "HASTE Surge 342",
+      "stat": "haste",
+      "min": 1.5,
+      "max": 9.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_343",
+      "name": "POWER Surge 343",
+      "stat": "power",
+      "min": 2.5,
+      "max": 6.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_344",
+      "name": "TENACITY Surge 344",
+      "stat": "tenacity",
+      "min": 1.8,
+      "max": 6.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_345",
+      "name": "DR Surge 345",
+      "stat": "dr",
+      "min": 2.8,
+      "max": 7.0,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_346",
+      "name": "HP Surge 346",
+      "stat": "hp",
+      "min": 2.5,
+      "max": 8.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_347",
+      "name": "CRIT Surge 347",
+      "stat": "crit",
+      "min": 1.3,
+      "max": 9.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_348",
+      "name": "TENACITY Surge 348",
+      "stat": "tenacity",
+      "min": 1.8,
+      "max": 6.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_349",
+      "name": "CDR Surge 349",
+      "stat": "cdr",
+      "min": 2.0,
+      "max": 5.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_350",
+      "name": "CRIT Surge 350",
+      "stat": "crit",
+      "min": 2.9,
+      "max": 9.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_351",
+      "name": "FP Surge 351",
+      "stat": "fp",
+      "min": 1.2,
+      "max": 4.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_352",
+      "name": "FP Surge 352",
+      "stat": "fp",
+      "min": 1.4,
+      "max": 9.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_353",
+      "name": "POWER Surge 353",
+      "stat": "power",
+      "min": 1.1,
+      "max": 5.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_354",
+      "name": "MOVE Surge 354",
+      "stat": "move",
+      "min": 2.7,
+      "max": 7.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_355",
+      "name": "FP Surge 355",
+      "stat": "fp",
+      "min": 1.8,
+      "max": 7.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_356",
+      "name": "DOT Surge 356",
+      "stat": "dot",
+      "min": 2.9,
+      "max": 8.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_357",
+      "name": "TENACITY Surge 357",
+      "stat": "tenacity",
+      "min": 1.5,
+      "max": 6.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_358",
+      "name": "HP Surge 358",
+      "stat": "hp",
+      "min": 1.3,
+      "max": 9.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_359",
+      "name": "DR Surge 359",
+      "stat": "dr",
+      "min": 1.8,
+      "max": 3.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_360",
+      "name": "DOT Surge 360",
+      "stat": "dot",
+      "min": 2.8,
+      "max": 6.5,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_361",
+      "name": "HASTE Surge 361",
+      "stat": "haste",
+      "min": 1.0,
+      "max": 8.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_362",
+      "name": "MOVE Surge 362",
+      "stat": "move",
+      "min": 1.9,
+      "max": 3.2,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_363",
+      "name": "FP Surge 363",
+      "stat": "fp",
+      "min": 1.2,
+      "max": 8.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_364",
+      "name": "POWER Surge 364",
+      "stat": "power",
+      "min": 1.2,
+      "max": 4.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_365",
+      "name": "HASTE Surge 365",
+      "stat": "haste",
+      "min": 2.7,
+      "max": 8.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_366",
+      "name": "MOVE Surge 366",
+      "stat": "move",
+      "min": 2.7,
+      "max": 6.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_367",
+      "name": "FP Surge 367",
+      "stat": "fp",
+      "min": 2.8,
+      "max": 3.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_368",
+      "name": "HASTE Surge 368",
+      "stat": "haste",
+      "min": 2.7,
+      "max": 3.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_369",
+      "name": "CDR Surge 369",
+      "stat": "cdr",
+      "min": 1.8,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_370",
+      "name": "HP Surge 370",
+      "stat": "hp",
+      "min": 2.4,
+      "max": 9.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_371",
+      "name": "TENACITY Surge 371",
+      "stat": "tenacity",
+      "min": 2.8,
+      "max": 9.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_372",
+      "name": "FP Surge 372",
+      "stat": "fp",
+      "min": 1.9,
+      "max": 3.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_373",
+      "name": "CDR Surge 373",
+      "stat": "cdr",
+      "min": 1.6,
+      "max": 7.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_374",
+      "name": "HP Surge 374",
+      "stat": "hp",
+      "min": 1.8,
+      "max": 3.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_375",
+      "name": "DOT Surge 375",
+      "stat": "dot",
+      "min": 2.4,
+      "max": 3.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_376",
+      "name": "TENACITY Surge 376",
+      "stat": "tenacity",
+      "min": 2.3,
+      "max": 9.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_377",
+      "name": "MOVE Surge 377",
+      "stat": "move",
+      "min": 1.3,
+      "max": 7.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_378",
+      "name": "CRIT Surge 378",
+      "stat": "crit",
+      "min": 2.9,
+      "max": 7.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_379",
+      "name": "FP Surge 379",
+      "stat": "fp",
+      "min": 1.5,
+      "max": 6.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_380",
+      "name": "DOT Surge 380",
+      "stat": "dot",
+      "min": 1.3,
+      "max": 7.3,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_381",
+      "name": "MOVE Surge 381",
+      "stat": "move",
+      "min": 2.1,
+      "max": 8.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_382",
+      "name": "MOVE Surge 382",
+      "stat": "move",
+      "min": 1.2,
+      "max": 8.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_383",
+      "name": "MOVE Surge 383",
+      "stat": "move",
+      "min": 1.8,
+      "max": 3.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_384",
+      "name": "TENACITY Surge 384",
+      "stat": "tenacity",
+      "min": 1.6,
+      "max": 7.8,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_385",
+      "name": "POWER Surge 385",
+      "stat": "power",
+      "min": 1.8,
+      "max": 5.7,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_386",
+      "name": "POWER Surge 386",
+      "stat": "power",
+      "min": 2.0,
+      "max": 7.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_387",
+      "name": "POWER Surge 387",
+      "stat": "power",
+      "min": 2.3,
+      "max": 8.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_388",
+      "name": "CDR Surge 388",
+      "stat": "cdr",
+      "min": 1.6,
+      "max": 4.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_389",
+      "name": "CDR Surge 389",
+      "stat": "cdr",
+      "min": 1.1,
+      "max": 5.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_390",
+      "name": "DOT Surge 390",
+      "stat": "dot",
+      "min": 2.7,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_391",
+      "name": "FP Surge 391",
+      "stat": "fp",
+      "min": 1.9,
+      "max": 4.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_392",
+      "name": "DOT Surge 392",
+      "stat": "dot",
+      "min": 2.6,
+      "max": 5.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_393",
+      "name": "MOVE Surge 393",
+      "stat": "move",
+      "min": 1.2,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_394",
+      "name": "POWER Surge 394",
+      "stat": "power",
+      "min": 1.7,
+      "max": 3.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_395",
+      "name": "CRIT Surge 395",
+      "stat": "crit",
+      "min": 2.3,
+      "max": 6.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_396",
+      "name": "DR Surge 396",
+      "stat": "dr",
+      "min": 2.8,
+      "max": 9.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_397",
+      "name": "MOVE Surge 397",
+      "stat": "move",
+      "min": 1.6,
+      "max": 4.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_398",
+      "name": "CRIT Surge 398",
+      "stat": "crit",
+      "min": 1.9,
+      "max": 9.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_399",
+      "name": "FP Surge 399",
+      "stat": "fp",
+      "min": 1.7,
+      "max": 3.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_400",
+      "name": "FP Surge 400",
+      "stat": "fp",
+      "min": 2.0,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_401",
+      "name": "DR Surge 401",
+      "stat": "dr",
+      "min": 1.9,
+      "max": 3.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_402",
+      "name": "CDR Surge 402",
+      "stat": "cdr",
+      "min": 1.8,
+      "max": 9.4,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_403",
+      "name": "CDR Surge 403",
+      "stat": "cdr",
+      "min": 2.4,
+      "max": 9.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_404",
+      "name": "MOVE Surge 404",
+      "stat": "move",
+      "min": 1.5,
+      "max": 8.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_405",
+      "name": "FP Surge 405",
+      "stat": "fp",
+      "min": 1.5,
+      "max": 3.7,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_406",
+      "name": "HASTE Surge 406",
+      "stat": "haste",
+      "min": 3.0,
+      "max": 6.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_407",
+      "name": "DR Surge 407",
+      "stat": "dr",
+      "min": 1.9,
+      "max": 5.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_408",
+      "name": "DR Surge 408",
+      "stat": "dr",
+      "min": 2.2,
+      "max": 9.9,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_409",
+      "name": "HASTE Surge 409",
+      "stat": "haste",
+      "min": 2.6,
+      "max": 6.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_410",
+      "name": "CDR Surge 410",
+      "stat": "cdr",
+      "min": 2.0,
+      "max": 4.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_411",
+      "name": "MOVE Surge 411",
+      "stat": "move",
+      "min": 2.1,
+      "max": 9.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_412",
+      "name": "TENACITY Surge 412",
+      "stat": "tenacity",
+      "min": 1.9,
+      "max": 9.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_413",
+      "name": "FP Surge 413",
+      "stat": "fp",
+      "min": 1.9,
+      "max": 3.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_414",
+      "name": "HASTE Surge 414",
+      "stat": "haste",
+      "min": 1.1,
+      "max": 6.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_415",
+      "name": "MOVE Surge 415",
+      "stat": "move",
+      "min": 2.9,
+      "max": 6.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_416",
+      "name": "DR Surge 416",
+      "stat": "dr",
+      "min": 1.8,
+      "max": 6.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_417",
+      "name": "FP Surge 417",
+      "stat": "fp",
+      "min": 1.1,
+      "max": 9.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_418",
+      "name": "TENACITY Surge 418",
+      "stat": "tenacity",
+      "min": 2.1,
+      "max": 3.9,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_419",
+      "name": "DOT Surge 419",
+      "stat": "dot",
+      "min": 1.4,
+      "max": 4.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_420",
+      "name": "POWER Surge 420",
+      "stat": "power",
+      "min": 1.9,
+      "max": 9.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_421",
+      "name": "HASTE Surge 421",
+      "stat": "haste",
+      "min": 1.2,
+      "max": 9.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_422",
+      "name": "DR Surge 422",
+      "stat": "dr",
+      "min": 2.5,
+      "max": 9.8,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_423",
+      "name": "HASTE Surge 423",
+      "stat": "haste",
+      "min": 1.1,
+      "max": 8.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_424",
+      "name": "POWER Surge 424",
+      "stat": "power",
+      "min": 1.2,
+      "max": 7.2,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_425",
+      "name": "HP Surge 425",
+      "stat": "hp",
+      "min": 1.0,
+      "max": 8.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_426",
+      "name": "CRIT Surge 426",
+      "stat": "crit",
+      "min": 2.7,
+      "max": 6.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_427",
+      "name": "FP Surge 427",
+      "stat": "fp",
+      "min": 2.2,
+      "max": 8.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_428",
+      "name": "CDR Surge 428",
+      "stat": "cdr",
+      "min": 2.4,
+      "max": 7.2,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_429",
+      "name": "HP Surge 429",
+      "stat": "hp",
+      "min": 2.0,
+      "max": 4.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_430",
+      "name": "MOVE Surge 430",
+      "stat": "move",
+      "min": 1.8,
+      "max": 9.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_431",
+      "name": "HASTE Surge 431",
+      "stat": "haste",
+      "min": 1.9,
+      "max": 7.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_432",
+      "name": "DR Surge 432",
+      "stat": "dr",
+      "min": 1.3,
+      "max": 5.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_433",
+      "name": "FP Surge 433",
+      "stat": "fp",
+      "min": 2.4,
+      "max": 7.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_434",
+      "name": "CDR Surge 434",
+      "stat": "cdr",
+      "min": 1.3,
+      "max": 3.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_435",
+      "name": "CRIT Surge 435",
+      "stat": "crit",
+      "min": 2.1,
+      "max": 6.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_436",
+      "name": "HASTE Surge 436",
+      "stat": "haste",
+      "min": 3.0,
+      "max": 5.0,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_437",
+      "name": "DOT Surge 437",
+      "stat": "dot",
+      "min": 2.8,
+      "max": 3.0,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_438",
+      "name": "CDR Surge 438",
+      "stat": "cdr",
+      "min": 2.7,
+      "max": 7.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_439",
+      "name": "POWER Surge 439",
+      "stat": "power",
+      "min": 1.9,
+      "max": 4.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_440",
+      "name": "TENACITY Surge 440",
+      "stat": "tenacity",
+      "min": 1.2,
+      "max": 8.6,
+      "rarity": "Mythic"
+    },
+    {
+      "id": "perk_441",
+      "name": "HASTE Surge 441",
+      "stat": "haste",
+      "min": 1.6,
+      "max": 8.1,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_442",
+      "name": "MOVE Surge 442",
+      "stat": "move",
+      "min": 1.3,
+      "max": 3.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_443",
+      "name": "TENACITY Surge 443",
+      "stat": "tenacity",
+      "min": 2.0,
+      "max": 3.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_444",
+      "name": "HASTE Surge 444",
+      "stat": "haste",
+      "min": 1.8,
+      "max": 6.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_445",
+      "name": "MOVE Surge 445",
+      "stat": "move",
+      "min": 1.9,
+      "max": 6.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_446",
+      "name": "HASTE Surge 446",
+      "stat": "haste",
+      "min": 2.4,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_447",
+      "name": "CDR Surge 447",
+      "stat": "cdr",
+      "min": 1.5,
+      "max": 4.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_448",
+      "name": "CRIT Surge 448",
+      "stat": "crit",
+      "min": 2.0,
+      "max": 3.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_449",
+      "name": "TENACITY Surge 449",
+      "stat": "tenacity",
+      "min": 2.4,
+      "max": 4.9,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_450",
+      "name": "DOT Surge 450",
+      "stat": "dot",
+      "min": 2.6,
+      "max": 4.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_451",
+      "name": "DR Surge 451",
+      "stat": "dr",
+      "min": 3.0,
+      "max": 7.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_452",
+      "name": "POWER Surge 452",
+      "stat": "power",
+      "min": 2.4,
+      "max": 8.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_453",
+      "name": "CRIT Surge 453",
+      "stat": "crit",
+      "min": 2.7,
+      "max": 7.9,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_454",
+      "name": "CDR Surge 454",
+      "stat": "cdr",
+      "min": 2.5,
+      "max": 7.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_455",
+      "name": "POWER Surge 455",
+      "stat": "power",
+      "min": 1.1,
+      "max": 10.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_456",
+      "name": "TENACITY Surge 456",
+      "stat": "tenacity",
+      "min": 3.0,
+      "max": 3.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_457",
+      "name": "HP Surge 457",
+      "stat": "hp",
+      "min": 1.6,
+      "max": 10.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_458",
+      "name": "DOT Surge 458",
+      "stat": "dot",
+      "min": 2.9,
+      "max": 5.9,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_459",
+      "name": "HP Surge 459",
+      "stat": "hp",
+      "min": 1.5,
+      "max": 9.2,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_460",
+      "name": "HP Surge 460",
+      "stat": "hp",
+      "min": 1.5,
+      "max": 10.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_461",
+      "name": "FP Surge 461",
+      "stat": "fp",
+      "min": 3.0,
+      "max": 7.2,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_462",
+      "name": "CRIT Surge 462",
+      "stat": "crit",
+      "min": 1.3,
+      "max": 5.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_463",
+      "name": "HP Surge 463",
+      "stat": "hp",
+      "min": 2.0,
+      "max": 4.2,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_464",
+      "name": "MOVE Surge 464",
+      "stat": "move",
+      "min": 2.1,
+      "max": 6.8,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_465",
+      "name": "FP Surge 465",
+      "stat": "fp",
+      "min": 1.3,
+      "max": 4.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_466",
+      "name": "TENACITY Surge 466",
+      "stat": "tenacity",
+      "min": 1.8,
+      "max": 4.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_467",
+      "name": "DOT Surge 467",
+      "stat": "dot",
+      "min": 1.7,
+      "max": 7.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_468",
+      "name": "POWER Surge 468",
+      "stat": "power",
+      "min": 1.5,
+      "max": 3.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_469",
+      "name": "HP Surge 469",
+      "stat": "hp",
+      "min": 1.7,
+      "max": 5.5,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_470",
+      "name": "TENACITY Surge 470",
+      "stat": "tenacity",
+      "min": 2.9,
+      "max": 9.7,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_471",
+      "name": "CDR Surge 471",
+      "stat": "cdr",
+      "min": 2.0,
+      "max": 7.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_472",
+      "name": "CDR Surge 472",
+      "stat": "cdr",
+      "min": 2.0,
+      "max": 8.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_473",
+      "name": "HP Surge 473",
+      "stat": "hp",
+      "min": 1.8,
+      "max": 9.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_474",
+      "name": "DOT Surge 474",
+      "stat": "dot",
+      "min": 1.3,
+      "max": 4.5,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_475",
+      "name": "HASTE Surge 475",
+      "stat": "haste",
+      "min": 2.2,
+      "max": 5.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_476",
+      "name": "DR Surge 476",
+      "stat": "dr",
+      "min": 2.5,
+      "max": 6.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_477",
+      "name": "MOVE Surge 477",
+      "stat": "move",
+      "min": 1.3,
+      "max": 6.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_478",
+      "name": "MOVE Surge 478",
+      "stat": "move",
+      "min": 2.4,
+      "max": 8.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_479",
+      "name": "HASTE Surge 479",
+      "stat": "haste",
+      "min": 2.4,
+      "max": 7.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_480",
+      "name": "HASTE Surge 480",
+      "stat": "haste",
+      "min": 1.2,
+      "max": 4.3,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_481",
+      "name": "FP Surge 481",
+      "stat": "fp",
+      "min": 1.6,
+      "max": 5.2,
+      "rarity": "Rare"
+    },
+    {
+      "id": "perk_482",
+      "name": "MOVE Surge 482",
+      "stat": "move",
+      "min": 2.6,
+      "max": 4.4,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_483",
+      "name": "CDR Surge 483",
+      "stat": "cdr",
+      "min": 1.8,
+      "max": 5.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_484",
+      "name": "CDR Surge 484",
+      "stat": "cdr",
+      "min": 1.9,
+      "max": 3.5,
+      "rarity": "Epic"
+    },
+    {
+      "id": "perk_485",
+      "name": "HASTE Surge 485",
+      "stat": "haste",
+      "min": 2.1,
+      "max": 5.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_486",
+      "name": "CRIT Surge 486",
+      "stat": "crit",
+      "min": 1.2,
+      "max": 7.0,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_487",
+      "name": "CRIT Surge 487",
+      "stat": "crit",
+      "min": 1.5,
+      "max": 7.2,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_488",
+      "name": "POWER Surge 488",
+      "stat": "power",
+      "min": 2.1,
+      "max": 8.7,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_489",
+      "name": "CRIT Surge 489",
+      "stat": "crit",
+      "min": 2.3,
+      "max": 7.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_490",
+      "name": "HASTE Surge 490",
+      "stat": "haste",
+      "min": 1.1,
+      "max": 6.1,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_491",
+      "name": "CDR Surge 491",
+      "stat": "cdr",
+      "min": 2.2,
+      "max": 4.9,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_492",
+      "name": "CDR Surge 492",
+      "stat": "cdr",
+      "min": 2.2,
+      "max": 7.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_493",
+      "name": "FP Surge 493",
+      "stat": "fp",
+      "min": 1.7,
+      "max": 7.4,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_494",
+      "name": "HP Surge 494",
+      "stat": "hp",
+      "min": 1.6,
+      "max": 7.6,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_495",
+      "name": "FP Surge 495",
+      "stat": "fp",
+      "min": 2.0,
+      "max": 10.0,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_496",
+      "name": "MOVE Surge 496",
+      "stat": "move",
+      "min": 1.2,
+      "max": 8.8,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_497",
+      "name": "POWER Surge 497",
+      "stat": "power",
+      "min": 1.5,
+      "max": 5.3,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_498",
+      "name": "DOT Surge 498",
+      "stat": "dot",
+      "min": 1.3,
+      "max": 3.3,
+      "rarity": "Common"
+    },
+    {
+      "id": "perk_499",
+      "name": "FP Surge 499",
+      "stat": "fp",
+      "min": 2.2,
+      "max": 5.6,
+      "rarity": "Uncommon"
+    },
+    {
+      "id": "perk_500",
+      "name": "DR Surge 500",
+      "stat": "dr",
+      "min": 1.6,
+      "max": 5.1,
+      "rarity": "Common"
+    }
+  ]
+}

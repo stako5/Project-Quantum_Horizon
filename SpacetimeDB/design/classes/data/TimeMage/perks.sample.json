@@ -1,0 +1,11 @@
+{
+  "class": "Time Mage",
+  "perks": [
+    {"id":"time_mage/perk_1","name":"Clockwork Haste","tier":"Common","tags":["utility","haste"],"effect":{"haste_pct":2},"rolls":[{"stat":"haste_pct","min":1.5,"max":3.5}],"description":"+1.5–3.5% Haste."},
+    {"id":"time_mage/perk_2","name":"Shortened Moments","tier":"Rare","tags":["cdr"],"effect":{"cooldown_reduction_pct":3},"rolls":[{"stat":"cdr","min":2,"max":5}],"description":"+2–5% Cooldown Reduction."},
+    {"id":"time_mage/perk_3","name":"Temporal Padding","tier":"Rare","tags":["defense"],"effect":{"shield_from_rewind_pct":5},"rolls":[{"stat":"shield_pct","min":3,"max":8}],"description":"Rewind grants a 3–8% max HP shield."},
+    {"id":"time_mage/perk_4","name":"Rift Conductor","tier":"Epic","tags":["damage"],"effect":{"rift_damage_pct":8},"rolls":[{"stat":"power","min":3,"max":7}],"description":"+8% damage from rifts and fractures."},
+    {"id":"time_mage/perk_5","name":"Chrono Reservoir","tier":"Legendary","tags":["resource"],"effect":{"max_chrono_charge":50},"rolls":[{"stat":"resource","min":30,"max":60}],"description":"+30–60 Max Chrono Charge."}
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Space-Punk Biome",
+  "type": "object",
+  "properties": {
+    "id": {"type": "integer"},
+    "name": {"type": "string"},
+    "seed": {"type": "integer"},
+    "size_meters": {"type": "integer"},
+    "chunk_size_m": {"type": "integer"},
+    "palette": {"type": "object", "additionalProperties": {"type":"string"}},
+    "lighting": {"type": "object", "additionalProperties": true},
+    "vfx": {"type": "array", "items": {"type":"string"}},
+    "props": {"type": "array", "items": {"type":"string"}},
+    "spawn_weights": {"type": "array", "items": {"type": "object", "properties": {"family":{"type":"string"}, "multiplier":{"type":"number"}}, "required":["family","multiplier"]}},
+    "description": {"type": "string"}
+  },
+  "required": ["id","name","seed","size_meters","chunk_size_m","palette","spawn_weights","description"],
+  "additionalProperties": false
+}
+

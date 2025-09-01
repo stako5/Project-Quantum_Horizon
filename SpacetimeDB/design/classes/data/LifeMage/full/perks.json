@@ -1,0 +1,1954 @@
+{
+  "class": "Life Mage",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "life_mage/perk_1",
+      "name": "Life Mage Perk 1",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_2",
+      "name": "Life Mage Perk 2",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.9,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_3",
+      "name": "Life Mage Perk 3",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_4",
+      "name": "Life Mage Perk 4",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_5",
+      "name": "Life Mage Perk 5",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_6",
+      "name": "Life Mage Perk 6",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_7",
+      "name": "Life Mage Perk 7",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_8",
+      "name": "Life Mage Perk 8",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_9",
+      "name": "Life Mage Perk 9",
+      "tier": "Legendary",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.5,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_10",
+      "name": "Life Mage Perk 10",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_11",
+      "name": "Life Mage Perk 11",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_12",
+      "name": "Life Mage Perk 12",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.5,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_13",
+      "name": "Life Mage Perk 13",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.7,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_14",
+      "name": "Life Mage Perk 14",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.7,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_15",
+      "name": "Life Mage Perk 15",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_16",
+      "name": "Life Mage Perk 16",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 3.0,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_17",
+      "name": "Life Mage Perk 17",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_18",
+      "name": "Life Mage Perk 18",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_19",
+      "name": "Life Mage Perk 19",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_20",
+      "name": "Life Mage Perk 20",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.4,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_21",
+      "name": "Life Mage Perk 21",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 3.0,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_22",
+      "name": "Life Mage Perk 22",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_23",
+      "name": "Life Mage Perk 23",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_24",
+      "name": "Life Mage Perk 24",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.3,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_25",
+      "name": "Life Mage Perk 25",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.3,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_26",
+      "name": "Life Mage Perk 26",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_27",
+      "name": "Life Mage Perk 27",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.1,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_28",
+      "name": "Life Mage Perk 28",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_29",
+      "name": "Life Mage Perk 29",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_30",
+      "name": "Life Mage Perk 30",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_31",
+      "name": "Life Mage Perk 31",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_32",
+      "name": "Life Mage Perk 32",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.5,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_33",
+      "name": "Life Mage Perk 33",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_34",
+      "name": "Life Mage Perk 34",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_35",
+      "name": "Life Mage Perk 35",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.2,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_36",
+      "name": "Life Mage Perk 36",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_37",
+      "name": "Life Mage Perk 37",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.4,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_38",
+      "name": "Life Mage Perk 38",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_39",
+      "name": "Life Mage Perk 39",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_40",
+      "name": "Life Mage Perk 40",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.7,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_41",
+      "name": "Life Mage Perk 41",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_42",
+      "name": "Life Mage Perk 42",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_43",
+      "name": "Life Mage Perk 43",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_44",
+      "name": "Life Mage Perk 44",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.3,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_45",
+      "name": "Life Mage Perk 45",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_46",
+      "name": "Life Mage Perk 46",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_47",
+      "name": "Life Mage Perk 47",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_48",
+      "name": "Life Mage Perk 48",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_49",
+      "name": "Life Mage Perk 49",
+      "tier": "Legendary",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.7,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_50",
+      "name": "Life Mage Perk 50",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_51",
+      "name": "Life Mage Perk 51",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.7,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_52",
+      "name": "Life Mage Perk 52",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_53",
+      "name": "Life Mage Perk 53",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_54",
+      "name": "Life Mage Perk 54",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_55",
+      "name": "Life Mage Perk 55",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.1,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_56",
+      "name": "Life Mage Perk 56",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.7,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_57",
+      "name": "Life Mage Perk 57",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_58",
+      "name": "Life Mage Perk 58",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_59",
+      "name": "Life Mage Perk 59",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_60",
+      "name": "Life Mage Perk 60",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_61",
+      "name": "Life Mage Perk 61",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.4,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_62",
+      "name": "Life Mage Perk 62",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_63",
+      "name": "Life Mage Perk 63",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_64",
+      "name": "Life Mage Perk 64",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_65",
+      "name": "Life Mage Perk 65",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.2,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_66",
+      "name": "Life Mage Perk 66",
+      "tier": "Legendary",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_67",
+      "name": "Life Mage Perk 67",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_68",
+      "name": "Life Mage Perk 68",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_69",
+      "name": "Life Mage Perk 69",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 3.0,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_70",
+      "name": "Life Mage Perk 70",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_71",
+      "name": "Life Mage Perk 71",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_72",
+      "name": "Life Mage Perk 72",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_73",
+      "name": "Life Mage Perk 73",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_74",
+      "name": "Life Mage Perk 74",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_75",
+      "name": "Life Mage Perk 75",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_76",
+      "name": "Life Mage Perk 76",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_77",
+      "name": "Life Mage Perk 77",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_78",
+      "name": "Life Mage Perk 78",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_79",
+      "name": "Life Mage Perk 79",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.1,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_80",
+      "name": "Life Mage Perk 80",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.4,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_81",
+      "name": "Life Mage Perk 81",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.8,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_82",
+      "name": "Life Mage Perk 82",
+      "tier": "Legendary",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_83",
+      "name": "Life Mage Perk 83",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_84",
+      "name": "Life Mage Perk 84",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_85",
+      "name": "Life Mage Perk 85",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.3,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_86",
+      "name": "Life Mage Perk 86",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.4,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_87",
+      "name": "Life Mage Perk 87",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.4,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_88",
+      "name": "Life Mage Perk 88",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_89",
+      "name": "Life Mage Perk 89",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_90",
+      "name": "Life Mage Perk 90",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.7,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_91",
+      "name": "Life Mage Perk 91",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_92",
+      "name": "Life Mage Perk 92",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_93",
+      "name": "Life Mage Perk 93",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_94",
+      "name": "Life Mage Perk 94",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_95",
+      "name": "Life Mage Perk 95",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.1,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing mobility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_96",
+      "name": "Life Mage Perk 96",
+      "tier": "Legendary",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_97",
+      "name": "Life Mage Perk 97",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_98",
+      "name": "Life Mage Perk 98",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_99",
+      "name": "Life Mage Perk 99",
+      "tier": "Legendary",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing utility for Life Mage."
+    },
+    {
+      "id": "life_mage/perk_100",
+      "name": "Life Mage Perk 100",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.1,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Life Mage."
+    }
+  ]
+}

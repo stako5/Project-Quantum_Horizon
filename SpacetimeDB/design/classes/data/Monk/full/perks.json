@@ -1,0 +1,1958 @@
+{
+  "class": "Monk",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "monk/perk_1",
+      "name": "Monk Perk 1",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.8,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Monk."
+    },
+    {
+      "id": "monk/perk_2",
+      "name": "Monk Perk 2",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.5,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_3",
+      "name": "Monk Perk 3",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Monk."
+    },
+    {
+      "id": "monk/perk_4",
+      "name": "Monk Perk 4",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_5",
+      "name": "Monk Perk 5",
+      "tier": "Legendary",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_6",
+      "name": "Monk Perk 6",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.1,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_7",
+      "name": "Monk Perk 7",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_8",
+      "name": "Monk Perk 8",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_9",
+      "name": "Monk Perk 9",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_10",
+      "name": "Monk Perk 10",
+      "tier": "Legendary",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Monk."
+    },
+    {
+      "id": "monk/perk_11",
+      "name": "Monk Perk 11",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_12",
+      "name": "Monk Perk 12",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Monk."
+    },
+    {
+      "id": "monk/perk_13",
+      "name": "Monk Perk 13",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Monk."
+    },
+    {
+      "id": "monk/perk_14",
+      "name": "Monk Perk 14",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_15",
+      "name": "Monk Perk 15",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.8,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Monk."
+    },
+    {
+      "id": "monk/perk_16",
+      "name": "Monk Perk 16",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_17",
+      "name": "Monk Perk 17",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.4,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Monk."
+    },
+    {
+      "id": "monk/perk_18",
+      "name": "Monk Perk 18",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.1,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_19",
+      "name": "Monk Perk 19",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.3,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Monk."
+    },
+    {
+      "id": "monk/perk_20",
+      "name": "Monk Perk 20",
+      "tier": "Epic",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Monk."
+    },
+    {
+      "id": "monk/perk_21",
+      "name": "Monk Perk 21",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 3.0,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Monk."
+    },
+    {
+      "id": "monk/perk_22",
+      "name": "Monk Perk 22",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing mobility for Monk."
+    },
+    {
+      "id": "monk/perk_23",
+      "name": "Monk Perk 23",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_24",
+      "name": "Monk Perk 24",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.4,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Monk."
+    },
+    {
+      "id": "monk/perk_25",
+      "name": "Monk Perk 25",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_26",
+      "name": "Monk Perk 26",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Monk."
+    },
+    {
+      "id": "monk/perk_27",
+      "name": "Monk Perk 27",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_28",
+      "name": "Monk Perk 28",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_29",
+      "name": "Monk Perk 29",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing defense for Monk."
+    },
+    {
+      "id": "monk/perk_30",
+      "name": "Monk Perk 30",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.9,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Monk."
+    },
+    {
+      "id": "monk/perk_31",
+      "name": "Monk Perk 31",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_32",
+      "name": "Monk Perk 32",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Monk."
+    },
+    {
+      "id": "monk/perk_33",
+      "name": "Monk Perk 33",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.4,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Monk."
+    },
+    {
+      "id": "monk/perk_34",
+      "name": "Monk Perk 34",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing mobility for Monk."
+    },
+    {
+      "id": "monk/perk_35",
+      "name": "Monk Perk 35",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_36",
+      "name": "Monk Perk 36",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Monk."
+    },
+    {
+      "id": "monk/perk_37",
+      "name": "Monk Perk 37",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Monk."
+    },
+    {
+      "id": "monk/perk_38",
+      "name": "Monk Perk 38",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Monk."
+    },
+    {
+      "id": "monk/perk_39",
+      "name": "Monk Perk 39",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Monk."
+    },
+    {
+      "id": "monk/perk_40",
+      "name": "Monk Perk 40",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Monk."
+    },
+    {
+      "id": "monk/perk_41",
+      "name": "Monk Perk 41",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Monk."
+    },
+    {
+      "id": "monk/perk_42",
+      "name": "Monk Perk 42",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.7,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_43",
+      "name": "Monk Perk 43",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Monk."
+    },
+    {
+      "id": "monk/perk_44",
+      "name": "Monk Perk 44",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.5,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Monk."
+    },
+    {
+      "id": "monk/perk_45",
+      "name": "Monk Perk 45",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Monk."
+    },
+    {
+      "id": "monk/perk_46",
+      "name": "Monk Perk 46",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing mobility for Monk."
+    },
+    {
+      "id": "monk/perk_47",
+      "name": "Monk Perk 47",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Monk."
+    },
+    {
+      "id": "monk/perk_48",
+      "name": "Monk Perk 48",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing damage for Monk."
+    },
+    {
+      "id": "monk/perk_49",
+      "name": "Monk Perk 49",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Monk."
+    },
+    {
+      "id": "monk/perk_50",
+      "name": "Monk Perk 50",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing damage for Monk."
+    },
+    {
+      "id": "monk/perk_51",
+      "name": "Monk Perk 51",
+      "tier": "Legendary",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Monk."
+    },
+    {
+      "id": "monk/perk_52",
+      "name": "Monk Perk 52",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.2,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing defense for Monk."
+    },
+    {
+      "id": "monk/perk_53",
+      "name": "Monk Perk 53",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Monk."
+    },
+    {
+      "id": "monk/perk_54",
+      "name": "Monk Perk 54",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.6,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_55",
+      "name": "Monk Perk 55",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.4,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Monk."
+    },
+    {
+      "id": "monk/perk_56",
+      "name": "Monk Perk 56",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.6,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_57",
+      "name": "Monk Perk 57",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing damage for Monk."
+    },
+    {
+      "id": "monk/perk_58",
+      "name": "Monk Perk 58",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_59",
+      "name": "Monk Perk 59",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.5,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Monk."
+    },
+    {
+      "id": "monk/perk_60",
+      "name": "Monk Perk 60",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.1,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_61",
+      "name": "Monk Perk 61",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_62",
+      "name": "Monk Perk 62",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Monk."
+    },
+    {
+      "id": "monk/perk_63",
+      "name": "Monk Perk 63",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.1,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Monk."
+    },
+    {
+      "id": "monk/perk_64",
+      "name": "Monk Perk 64",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing mobility for Monk."
+    },
+    {
+      "id": "monk/perk_65",
+      "name": "Monk Perk 65",
+      "tier": "Legendary",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.6,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Monk."
+    },
+    {
+      "id": "monk/perk_66",
+      "name": "Monk Perk 66",
+      "tier": "Legendary",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.2,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_67",
+      "name": "Monk Perk 67",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing damage for Monk."
+    },
+    {
+      "id": "monk/perk_68",
+      "name": "Monk Perk 68",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.9,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Monk."
+    },
+    {
+      "id": "monk/perk_69",
+      "name": "Monk Perk 69",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.3,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Monk."
+    },
+    {
+      "id": "monk/perk_70",
+      "name": "Monk Perk 70",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Monk."
+    },
+    {
+      "id": "monk/perk_71",
+      "name": "Monk Perk 71",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.7,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Monk."
+    },
+    {
+      "id": "monk/perk_72",
+      "name": "Monk Perk 72",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing control for Monk."
+    },
+    {
+      "id": "monk/perk_73",
+      "name": "Monk Perk 73",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing mobility for Monk."
+    },
+    {
+      "id": "monk/perk_74",
+      "name": "Monk Perk 74",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.6,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Monk."
+    },
+    {
+      "id": "monk/perk_75",
+      "name": "Monk Perk 75",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.2,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing defense for Monk."
+    },
+    {
+      "id": "monk/perk_76",
+      "name": "Monk Perk 76",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Monk."
+    },
+    {
+      "id": "monk/perk_77",
+      "name": "Monk Perk 77",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Monk."
+    },
+    {
+      "id": "monk/perk_78",
+      "name": "Monk Perk 78",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.0,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_79",
+      "name": "Monk Perk 79",
+      "tier": "Legendary",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.1,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Monk."
+    },
+    {
+      "id": "monk/perk_80",
+      "name": "Monk Perk 80",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.1,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing damage for Monk."
+    },
+    {
+      "id": "monk/perk_81",
+      "name": "Monk Perk 81",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.3,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Monk."
+    },
+    {
+      "id": "monk/perk_82",
+      "name": "Monk Perk 82",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.2,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Monk."
+    },
+    {
+      "id": "monk/perk_83",
+      "name": "Monk Perk 83",
+      "tier": "Legendary",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.4,
+          "max": 3.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Monk."
+    },
+    {
+      "id": "monk/perk_84",
+      "name": "Monk Perk 84",
+      "tier": "Epic",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Monk."
+    },
+    {
+      "id": "monk/perk_85",
+      "name": "Monk Perk 85",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 3.0,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Monk."
+    },
+    {
+      "id": "monk/perk_86",
+      "name": "Monk Perk 86",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_87",
+      "name": "Monk Perk 87",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.5,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_88",
+      "name": "Monk Perk 88",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.2,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Monk."
+    },
+    {
+      "id": "monk/perk_89",
+      "name": "Monk Perk 89",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Monk."
+    },
+    {
+      "id": "monk/perk_90",
+      "name": "Monk Perk 90",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing resource for Monk."
+    },
+    {
+      "id": "monk/perk_91",
+      "name": "Monk Perk 91",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Monk."
+    },
+    {
+      "id": "monk/perk_92",
+      "name": "Monk Perk 92",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Monk."
+    },
+    {
+      "id": "monk/perk_93",
+      "name": "Monk Perk 93",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.1,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Monk."
+    },
+    {
+      "id": "monk/perk_94",
+      "name": "Monk Perk 94",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Monk."
+    },
+    {
+      "id": "monk/perk_95",
+      "name": "Monk Perk 95",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Monk."
+    },
+    {
+      "id": "monk/perk_96",
+      "name": "Monk Perk 96",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.1,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Monk."
+    },
+    {
+      "id": "monk/perk_97",
+      "name": "Monk Perk 97",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.7,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Monk."
+    },
+    {
+      "id": "monk/perk_98",
+      "name": "Monk Perk 98",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Monk."
+    },
+    {
+      "id": "monk/perk_99",
+      "name": "Monk Perk 99",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 4.2
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Monk."
+    },
+    {
+      "id": "monk/perk_100",
+      "name": "Monk Perk 100",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.4,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Monk."
+    }
+  ]
+}

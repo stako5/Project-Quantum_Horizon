@@ -1,0 +1,1962 @@
+{
+  "class": "Blade Master",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "blade_master/perk_1",
+      "name": "Blade Master Perk 1",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.0,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_2",
+      "name": "Blade Master Perk 2",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_3",
+      "name": "Blade Master Perk 3",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_4",
+      "name": "Blade Master Perk 4",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.1,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_5",
+      "name": "Blade Master Perk 5",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_6",
+      "name": "Blade Master Perk 6",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.3,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_7",
+      "name": "Blade Master Perk 7",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 3.0,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_8",
+      "name": "Blade Master Perk 8",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.6,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_9",
+      "name": "Blade Master Perk 9",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.7,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_10",
+      "name": "Blade Master Perk 10",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.3,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_11",
+      "name": "Blade Master Perk 11",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_12",
+      "name": "Blade Master Perk 12",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_13",
+      "name": "Blade Master Perk 13",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.4,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_14",
+      "name": "Blade Master Perk 14",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_15",
+      "name": "Blade Master Perk 15",
+      "tier": "Epic",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_16",
+      "name": "Blade Master Perk 16",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_17",
+      "name": "Blade Master Perk 17",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.2,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_18",
+      "name": "Blade Master Perk 18",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_19",
+      "name": "Blade Master Perk 19",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.2,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_20",
+      "name": "Blade Master Perk 20",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.7,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_21",
+      "name": "Blade Master Perk 21",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_22",
+      "name": "Blade Master Perk 22",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.2,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_23",
+      "name": "Blade Master Perk 23",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.0,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_24",
+      "name": "Blade Master Perk 24",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.9,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_25",
+      "name": "Blade Master Perk 25",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.3,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_26",
+      "name": "Blade Master Perk 26",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.5,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_27",
+      "name": "Blade Master Perk 27",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.3,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_28",
+      "name": "Blade Master Perk 28",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_29",
+      "name": "Blade Master Perk 29",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.5,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_30",
+      "name": "Blade Master Perk 30",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 3.0,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_31",
+      "name": "Blade Master Perk 31",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_32",
+      "name": "Blade Master Perk 32",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.4,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_33",
+      "name": "Blade Master Perk 33",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_34",
+      "name": "Blade Master Perk 34",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.4,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_35",
+      "name": "Blade Master Perk 35",
+      "tier": "Legendary",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_36",
+      "name": "Blade Master Perk 36",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_37",
+      "name": "Blade Master Perk 37",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_38",
+      "name": "Blade Master Perk 38",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_39",
+      "name": "Blade Master Perk 39",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_40",
+      "name": "Blade Master Perk 40",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_41",
+      "name": "Blade Master Perk 41",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.1,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_42",
+      "name": "Blade Master Perk 42",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_43",
+      "name": "Blade Master Perk 43",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.1,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_44",
+      "name": "Blade Master Perk 44",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_45",
+      "name": "Blade Master Perk 45",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_46",
+      "name": "Blade Master Perk 46",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_47",
+      "name": "Blade Master Perk 47",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_48",
+      "name": "Blade Master Perk 48",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.4,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_49",
+      "name": "Blade Master Perk 49",
+      "tier": "Epic",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.8,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_50",
+      "name": "Blade Master Perk 50",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_51",
+      "name": "Blade Master Perk 51",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.9,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_52",
+      "name": "Blade Master Perk 52",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.3,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_53",
+      "name": "Blade Master Perk 53",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 3.0,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_54",
+      "name": "Blade Master Perk 54",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing resource, control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_55",
+      "name": "Blade Master Perk 55",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.8,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_56",
+      "name": "Blade Master Perk 56",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_57",
+      "name": "Blade Master Perk 57",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.5,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_58",
+      "name": "Blade Master Perk 58",
+      "tier": "Legendary",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.6,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_59",
+      "name": "Blade Master Perk 59",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.7,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_60",
+      "name": "Blade Master Perk 60",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.9,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_61",
+      "name": "Blade Master Perk 61",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_62",
+      "name": "Blade Master Perk 62",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_63",
+      "name": "Blade Master Perk 63",
+      "tier": "Rare",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_64",
+      "name": "Blade Master Perk 64",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing control, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_65",
+      "name": "Blade Master Perk 65",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_66",
+      "name": "Blade Master Perk 66",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_67",
+      "name": "Blade Master Perk 67",
+      "tier": "Legendary",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_68",
+      "name": "Blade Master Perk 68",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_69",
+      "name": "Blade Master Perk 69",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_70",
+      "name": "Blade Master Perk 70",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.2,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_71",
+      "name": "Blade Master Perk 71",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.5,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_72",
+      "name": "Blade Master Perk 72",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_73",
+      "name": "Blade Master Perk 73",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.8,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_74",
+      "name": "Blade Master Perk 74",
+      "tier": "Legendary",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.1,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_75",
+      "name": "Blade Master Perk 75",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing utility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_76",
+      "name": "Blade Master Perk 76",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_77",
+      "name": "Blade Master Perk 77",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing damage, control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_78",
+      "name": "Blade Master Perk 78",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.4,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_79",
+      "name": "Blade Master Perk 79",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.6,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_80",
+      "name": "Blade Master Perk 80",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_81",
+      "name": "Blade Master Perk 81",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.6,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_82",
+      "name": "Blade Master Perk 82",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.0,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_83",
+      "name": "Blade Master Perk 83",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.5,
+          "max": 4.4
+        }
+      ],
+      "description": "Random perk enhancing control, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_84",
+      "name": "Blade Master Perk 84",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.4,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_85",
+      "name": "Blade Master Perk 85",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_86",
+      "name": "Blade Master Perk 86",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_87",
+      "name": "Blade Master Perk 87",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_88",
+      "name": "Blade Master Perk 88",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_89",
+      "name": "Blade Master Perk 89",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.7,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing mobility, control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_90",
+      "name": "Blade Master Perk 90",
+      "tier": "Legendary",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_91",
+      "name": "Blade Master Perk 91",
+      "tier": "Rare",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.6,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_92",
+      "name": "Blade Master Perk 92",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.0,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_93",
+      "name": "Blade Master Perk 93",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.3,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_94",
+      "name": "Blade Master Perk 94",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.2,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_95",
+      "name": "Blade Master Perk 95",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.9,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing mobility, resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_96",
+      "name": "Blade Master Perk 96",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 5.1
+        }
+      ],
+      "description": "Random perk enhancing control for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_97",
+      "name": "Blade Master Perk 97",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.7,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_98",
+      "name": "Blade Master Perk 98",
+      "tier": "Epic",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_99",
+      "name": "Blade Master Perk 99",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Blade Master."
+    },
+    {
+      "id": "blade_master/perk_100",
+      "name": "Blade Master Perk 100",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 5.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Blade Master."
+    }
+  ]
+}

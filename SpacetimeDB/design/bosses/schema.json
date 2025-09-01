@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dungeon Boss with Armor Set",
+  "type": "object",
+  "properties": {
+    "id": {"type": "string"},
+    "name": {"type": "string"},
+    "biome": {"type": "string"},
+    "tier": {"type": "integer"},
+    "mechanics": {"type": "array", "items": {"type": "string"}},
+    "puzzle_modules": {"type": "array", "items": {"type": "string"}},
+    "phases": {"type": "array", "items": {"type": "string"}},
+    "armor_set": {
+      "type": "object",
+      "properties": {
+        "id": {"type": "string"},
+        "name": {"type": "string"},
+        "pieces": {"type": "array", "items": {"type": "object", "properties": {"slot":{"type":"string"},"name":{"type":"string"},"bonus":{"type":"string"}}, "required":["slot","name","bonus"]}},
+        "set_bonuses": {"type": "array", "items": {"type": "string"}}
+      },
+      "required": ["id","name","pieces","set_bonuses"]
+    },
+    "description": {"type":"string"}
+  },
+  "required": ["id","name","biome","tier","mechanics","puzzle_modules","phases","armor_set","description"],
+  "additionalProperties": false
+}
+

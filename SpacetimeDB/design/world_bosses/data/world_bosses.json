@@ -1,0 +1,165 @@
+{
+  "count": 10,
+  "world_bosses": [
+    {
+      "id": "world_boss_neon_metropolis",
+      "name": "Skyline Sovereign of Neon Metropolis",
+      "biome": "Neon Metropolis",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#0b0016",
+        "fog_density": 0.03,
+        "hue": 200,
+        "exposure": 1.2,
+        "ambient_boost": 0.23,
+        "threat_radius_m": 296
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Neon Metropolis to its will. Its presence warps fog, light, and color within 296m."
+    },
+    {
+      "id": "world_boss_industrial_wastes",
+      "name": "Rust-Crown Warden of the Wastes",
+      "biome": "Industrial Wastes",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#202010",
+        "fog_density": 0.06,
+        "hue": 90,
+        "exposure": 0.9,
+        "ambient_boost": 0.37,
+        "threat_radius_m": 323
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Industrial Wastes to its will. Its presence warps fog, light, and color within 323m."
+    },
+    {
+      "id": "world_boss_void_marsh",
+      "name": "Null-Tide Leviathan of the Marsh",
+      "biome": "Void Marsh",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#0a0f18",
+        "fog_density": 0.08,
+        "hue": 260,
+        "exposure": 0.8,
+        "ambient_boost": 0.27,
+        "threat_radius_m": 256
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Void Marsh to its will. Its presence warps fog, light, and color within 256m."
+    },
+    {
+      "id": "world_boss_plasma_lagoons",
+      "name": "Azure Reactor Colossus",
+      "biome": "Plasma Lagoons",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#00121e",
+        "fog_density": 0.04,
+        "hue": 190,
+        "exposure": 1.1,
+        "ambient_boost": 0.18,
+        "threat_radius_m": 336
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Plasma Lagoons to its will. Its presence warps fog, light, and color within 336m."
+    },
+    {
+      "id": "world_boss_nanite_forest",
+      "name": "Swarm-Heart Paragon of the Nanite Wilds",
+      "biome": "Nanite Forest",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#06140a",
+        "fog_density": 0.05,
+        "hue": 130,
+        "exposure": 1.0,
+        "ambient_boost": 0.16,
+        "threat_radius_m": 393
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Nanite Forest to its will. Its presence warps fog, light, and color within 393m."
+    },
+    {
+      "id": "world_boss_orbital_graveyard",
+      "name": "Helios-Cemetery Archon",
+      "biome": "Orbital Graveyard",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#050d16",
+        "fog_density": 0.05,
+        "hue": 220,
+        "exposure": 0.95,
+        "ambient_boost": 0.3,
+        "threat_radius_m": 370
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Orbital Graveyard to its will. Its presence warps fog, light, and color within 370m."
+    },
+    {
+      "id": "world_boss_cryo_tundra_colony",
+      "name": "Glacier Seraph of the Colony",
+      "biome": "Cryo Tundra Colony",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#102030",
+        "fog_density": 0.03,
+        "hue": 200,
+        "exposure": 1.15,
+        "ambient_boost": 0.12,
+        "threat_radius_m": 388
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Cryo Tundra Colony to its will. Its presence warps fog, light, and color within 388m."
+    },
+    {
+      "id": "world_boss_sunken_arcology",
+      "name": "Drowned Oracle of the Arcology",
+      "biome": "Sunken Arcology",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#001018",
+        "fog_density": 0.07,
+        "hue": 185,
+        "exposure": 0.9,
+        "ambient_boost": 0.18,
+        "threat_radius_m": 202
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Sunken Arcology to its will. Its presence warps fog, light, and color within 202m."
+    },
+    {
+      "id": "world_boss_reactor_badlands",
+      "name": "Radstorm Behemoth of the Badlands",
+      "biome": "Reactor Badlands",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#1a0e00",
+        "fog_density": 0.05,
+        "hue": 35,
+        "exposure": 1.05,
+        "ambient_boost": 0.21,
+        "threat_radius_m": 228
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Reactor Badlands to its will. Its presence warps fog, light, and color within 228m."
+    },
+    {
+      "id": "world_boss_sentient_sands_expanse",
+      "name": "Sentient Dune Sovereign",
+      "biome": "Sentient Sands Expanse",
+      "tier": 5,
+      "env_effect": {
+        "fog_color": "#000000",
+        "fog_density": 0.04,
+        "hue": 180,
+        "exposure": 1.0,
+        "ambient_boost": 0.39,
+        "threat_radius_m": 317
+      },
+      "min_ng_plus": 3,
+      "description": "An endgame horror that bends Sentient Sands Expanse to its will. Its presence warps fog, light, and color within 317m."
+    }
+  ]
+}

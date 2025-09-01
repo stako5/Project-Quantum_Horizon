@@ -1,0 +1,1112 @@
+{
+  "class": "Blade Master",
+  "abilities": [
+    {
+      "id": "blade_master/iaido_act_1",
+      "name": "Iaido Act 1",
+      "branch": "Iaido",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 11.4
+      },
+      "cooldown_s": 15.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.24
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.65
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_2",
+      "name": "Iaido Act 2",
+      "branch": "Iaido",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 27.7
+      },
+      "cooldown_s": 8.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.14
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.55
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_3",
+      "name": "Iaido Act 3",
+      "branch": "Iaido",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 33.3
+      },
+      "cooldown_s": 9.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.18
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.18
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_4",
+      "name": "Iaido Act 4",
+      "branch": "Iaido",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 24.8
+      },
+      "cooldown_s": 8.6,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.24
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.48
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_5",
+      "name": "Iaido Act 5",
+      "branch": "Iaido",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 18.1
+      },
+      "cooldown_s": 12.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.96
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_6",
+      "name": "Iaido Act 6",
+      "branch": "Iaido",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 21.7
+      },
+      "cooldown_s": 10.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.82
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.76
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_7",
+      "name": "Iaido Act 7",
+      "branch": "Iaido",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 33.1
+      },
+      "cooldown_s": 16.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.99
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.11
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_8",
+      "name": "Iaido Act 8",
+      "branch": "Iaido",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 31.6
+      },
+      "cooldown_s": 12.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.3
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.68
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_9",
+      "name": "Iaido Act 9",
+      "branch": "Iaido",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 15.7
+      },
+      "cooldown_s": 19.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.04
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.56
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_act_10",
+      "name": "Iaido Act 10",
+      "branch": "Iaido",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 25.6
+      },
+      "cooldown_s": 6.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.01
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.79
+        }
+      ],
+      "description": "Active ability in Iaido branch."
+    },
+    {
+      "id": "blade_master/iaido_pas_1",
+      "name": "Iaido Passive 1",
+      "branch": "Iaido",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.6
+        }
+      ],
+      "description": "Passive bonus themed to Iaido."
+    },
+    {
+      "id": "blade_master/iaido_pas_2",
+      "name": "Iaido Passive 2",
+      "branch": "Iaido",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 4.0
+        }
+      ],
+      "description": "Passive bonus themed to Iaido."
+    },
+    {
+      "id": "blade_master/iaido_pas_3",
+      "name": "Iaido Passive 3",
+      "branch": "Iaido",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.5
+        }
+      ],
+      "description": "Passive bonus themed to Iaido."
+    },
+    {
+      "id": "blade_master/iaido_pas_4",
+      "name": "Iaido Passive 4",
+      "branch": "Iaido",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.7
+        }
+      ],
+      "description": "Passive bonus themed to Iaido."
+    },
+    {
+      "id": "blade_master/iaido_exo_1",
+      "name": "Iaido Exotic 1",
+      "branch": "Iaido",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Iaido to other branches."
+    },
+    {
+      "id": "blade_master/iaido_exo_2",
+      "name": "Iaido Exotic 2",
+      "branch": "Iaido",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Iaido to other branches."
+    },
+    {
+      "id": "blade_master/riposte_act_1",
+      "name": "Riposte Act 1",
+      "branch": "Riposte",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 27.1
+      },
+      "cooldown_s": 10.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.12
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.04
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_2",
+      "name": "Riposte Act 2",
+      "branch": "Riposte",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 17.1
+      },
+      "cooldown_s": 11.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.84
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.51
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_3",
+      "name": "Riposte Act 3",
+      "branch": "Riposte",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 31.5
+      },
+      "cooldown_s": 18.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.99
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.96
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_4",
+      "name": "Riposte Act 4",
+      "branch": "Riposte",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 21.4
+      },
+      "cooldown_s": 10.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.19
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.57
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_5",
+      "name": "Riposte Act 5",
+      "branch": "Riposte",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 16.8
+      },
+      "cooldown_s": 18.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.57
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_6",
+      "name": "Riposte Act 6",
+      "branch": "Riposte",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 11.6
+      },
+      "cooldown_s": 7.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.82
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_7",
+      "name": "Riposte Act 7",
+      "branch": "Riposte",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 22.0
+      },
+      "cooldown_s": 9.5,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.11
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_8",
+      "name": "Riposte Act 8",
+      "branch": "Riposte",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 25.1
+      },
+      "cooldown_s": 19.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.87
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.06
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_9",
+      "name": "Riposte Act 9",
+      "branch": "Riposte",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 33.1
+      },
+      "cooldown_s": 12.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.46
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_act_10",
+      "name": "Riposte Act 10",
+      "branch": "Riposte",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 13.2
+      },
+      "cooldown_s": 8.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.22
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.54
+        }
+      ],
+      "description": "Active ability in Riposte branch."
+    },
+    {
+      "id": "blade_master/riposte_pas_1",
+      "name": "Riposte Passive 1",
+      "branch": "Riposte",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.7
+        }
+      ],
+      "description": "Passive bonus themed to Riposte."
+    },
+    {
+      "id": "blade_master/riposte_pas_2",
+      "name": "Riposte Passive 2",
+      "branch": "Riposte",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.2
+        }
+      ],
+      "description": "Passive bonus themed to Riposte."
+    },
+    {
+      "id": "blade_master/riposte_pas_3",
+      "name": "Riposte Passive 3",
+      "branch": "Riposte",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.9
+        }
+      ],
+      "description": "Passive bonus themed to Riposte."
+    },
+    {
+      "id": "blade_master/riposte_pas_4",
+      "name": "Riposte Passive 4",
+      "branch": "Riposte",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.4
+        }
+      ],
+      "description": "Passive bonus themed to Riposte."
+    },
+    {
+      "id": "blade_master/riposte_exo_1",
+      "name": "Riposte Exotic 1",
+      "branch": "Riposte",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Riposte to other branches."
+    },
+    {
+      "id": "blade_master/riposte_exo_2",
+      "name": "Riposte Exotic 2",
+      "branch": "Riposte",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Riposte to other branches."
+    },
+    {
+      "id": "blade_master/tempest_act_1",
+      "name": "Tempest Act 1",
+      "branch": "Tempest",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 19.7
+      },
+      "cooldown_s": 7.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.44
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_2",
+      "name": "Tempest Act 2",
+      "branch": "Tempest",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 13.6
+      },
+      "cooldown_s": 7.8,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.1
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_3",
+      "name": "Tempest Act 3",
+      "branch": "Tempest",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 33.5
+      },
+      "cooldown_s": 12.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.05
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.67
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_4",
+      "name": "Tempest Act 4",
+      "branch": "Tempest",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 31.2
+      },
+      "cooldown_s": 10.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.82
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.95
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_5",
+      "name": "Tempest Act 5",
+      "branch": "Tempest",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 11.7
+      },
+      "cooldown_s": 6.8,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.99
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.1
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_6",
+      "name": "Tempest Act 6",
+      "branch": "Tempest",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 25.0
+      },
+      "cooldown_s": 9.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.81
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.44
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_7",
+      "name": "Tempest Act 7",
+      "branch": "Tempest",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 18.0
+      },
+      "cooldown_s": 18.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.09
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_8",
+      "name": "Tempest Act 8",
+      "branch": "Tempest",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 32.7
+      },
+      "cooldown_s": 19.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.28
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.54
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_9",
+      "name": "Tempest Act 9",
+      "branch": "Tempest",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 10.4
+      },
+      "cooldown_s": 8.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.29
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.26
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_act_10",
+      "name": "Tempest Act 10",
+      "branch": "Tempest",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Focus",
+        "cost": 27.4
+      },
+      "cooldown_s": 13.5,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.99
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.69
+        }
+      ],
+      "description": "Active ability in Tempest branch."
+    },
+    {
+      "id": "blade_master/tempest_pas_1",
+      "name": "Tempest Passive 1",
+      "branch": "Tempest",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.9
+        }
+      ],
+      "description": "Passive bonus themed to Tempest."
+    },
+    {
+      "id": "blade_master/tempest_pas_2",
+      "name": "Tempest Passive 2",
+      "branch": "Tempest",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.2
+        }
+      ],
+      "description": "Passive bonus themed to Tempest."
+    },
+    {
+      "id": "blade_master/tempest_pas_3",
+      "name": "Tempest Passive 3",
+      "branch": "Tempest",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.3
+        }
+      ],
+      "description": "Passive bonus themed to Tempest."
+    },
+    {
+      "id": "blade_master/tempest_pas_4",
+      "name": "Tempest Passive 4",
+      "branch": "Tempest",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.4
+        }
+      ],
+      "description": "Passive bonus themed to Tempest."
+    },
+    {
+      "id": "blade_master/tempest_exo_1",
+      "name": "Tempest Exotic 1",
+      "branch": "Tempest",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Tempest to other branches."
+    },
+    {
+      "id": "blade_master/tempest_exo_2",
+      "name": "Tempest Exotic 2",
+      "branch": "Tempest",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Tempest to other branches."
+    },
+    {
+      "id": "blade_master/ultimate_1",
+      "name": "Blade Master Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Focus",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Blade Master."
+    },
+    {
+      "id": "blade_master/ultimate_2",
+      "name": "Blade Master Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Focus",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Blade Master."
+    }
+  ],
+  "perks": []
+}

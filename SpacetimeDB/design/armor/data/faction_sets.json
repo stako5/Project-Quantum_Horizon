@@ -1,0 +1,1324 @@
+{
+  "sets": [
+    {
+      "id": "faction_parallax_concord_01",
+      "name": "Parallax Concord Regalia 01",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 01 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 01 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 01 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 01 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 01 Boots",
+          "rarity": "Common"
+        }
+      ],
+      "rep_required": 100
+    },
+    {
+      "id": "faction_parallax_concord_02",
+      "name": "Parallax Concord Regalia 02",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 02 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 02 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 02 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 02 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 02 Boots",
+          "rarity": "Common"
+        }
+      ],
+      "rep_required": 200
+    },
+    {
+      "id": "faction_parallax_concord_03",
+      "name": "Parallax Concord Regalia 03",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 03 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 03 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 03 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 03 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 03 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 300
+    },
+    {
+      "id": "faction_parallax_concord_04",
+      "name": "Parallax Concord Regalia 04",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 04 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 04 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 04 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 04 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 04 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 400
+    },
+    {
+      "id": "faction_parallax_concord_05",
+      "name": "Parallax Concord Regalia 05",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 05 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 05 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 05 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 05 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 05 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 500
+    },
+    {
+      "id": "faction_parallax_concord_06",
+      "name": "Parallax Concord Regalia 06",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 06 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 06 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 06 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 06 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 06 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 600
+    },
+    {
+      "id": "faction_parallax_concord_07",
+      "name": "Parallax Concord Regalia 07",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 07 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 07 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 07 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 07 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 07 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 700
+    },
+    {
+      "id": "faction_parallax_concord_08",
+      "name": "Parallax Concord Regalia 08",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 08 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 08 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 08 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 08 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 08 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 800
+    },
+    {
+      "id": "faction_parallax_concord_09",
+      "name": "Parallax Concord Regalia 09",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 09 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 09 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 09 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 09 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 09 Boots",
+          "rarity": "Common"
+        }
+      ],
+      "rep_required": 900
+    },
+    {
+      "id": "faction_parallax_concord_10",
+      "name": "Parallax Concord Regalia 10",
+      "faction": "Parallax Concord",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Parallax Concord Regalia 10 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Parallax Concord Regalia 10 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Parallax Concord Regalia 10 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Parallax Concord Regalia 10 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Parallax Concord Regalia 10 Boots",
+          "rarity": "Uncommon"
+        }
+      ],
+      "rep_required": 1000
+    },
+    {
+      "id": "faction_free_archipelagos_01",
+      "name": "Free Archipelagos Regalia 01",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 01 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 01 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 01 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 01 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 01 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 100
+    },
+    {
+      "id": "faction_free_archipelagos_02",
+      "name": "Free Archipelagos Regalia 02",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 02 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 02 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 02 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 02 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 02 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 200
+    },
+    {
+      "id": "faction_free_archipelagos_03",
+      "name": "Free Archipelagos Regalia 03",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 03 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 03 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 03 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 03 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 03 Boots",
+          "rarity": "Rare"
+        }
+      ],
+      "rep_required": 300
+    },
+    {
+      "id": "faction_free_archipelagos_04",
+      "name": "Free Archipelagos Regalia 04",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 04 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 04 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 04 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 04 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 04 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 400
+    },
+    {
+      "id": "faction_free_archipelagos_05",
+      "name": "Free Archipelagos Regalia 05",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 05 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 05 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 05 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 05 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 05 Boots",
+          "rarity": "Uncommon"
+        }
+      ],
+      "rep_required": 500
+    },
+    {
+      "id": "faction_free_archipelagos_06",
+      "name": "Free Archipelagos Regalia 06",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 06 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 06 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 06 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 06 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 06 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 600
+    },
+    {
+      "id": "faction_free_archipelagos_07",
+      "name": "Free Archipelagos Regalia 07",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 07 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 07 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 07 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 07 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 07 Boots",
+          "rarity": "Rare"
+        }
+      ],
+      "rep_required": 700
+    },
+    {
+      "id": "faction_free_archipelagos_08",
+      "name": "Free Archipelagos Regalia 08",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 08 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 08 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 08 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 08 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 08 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 800
+    },
+    {
+      "id": "faction_free_archipelagos_09",
+      "name": "Free Archipelagos Regalia 09",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 09 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 09 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 09 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 09 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 09 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 900
+    },
+    {
+      "id": "faction_free_archipelagos_10",
+      "name": "Free Archipelagos Regalia 10",
+      "faction": "Free Archipelagos",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Free Archipelagos Regalia 10 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Free Archipelagos Regalia 10 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Free Archipelagos Regalia 10 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Free Archipelagos Regalia 10 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Free Archipelagos Regalia 10 Boots",
+          "rarity": "Rare"
+        }
+      ],
+      "rep_required": 1000
+    },
+    {
+      "id": "faction_brass_arc_cartel_01",
+      "name": "Brass Arc Cartel Regalia 01",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 01 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 01 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 01 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 01 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 01 Boots",
+          "rarity": "Common"
+        }
+      ],
+      "rep_required": 100
+    },
+    {
+      "id": "faction_brass_arc_cartel_02",
+      "name": "Brass Arc Cartel Regalia 02",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 02 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 02 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 02 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 02 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 02 Boots",
+          "rarity": "Rare"
+        }
+      ],
+      "rep_required": 200
+    },
+    {
+      "id": "faction_brass_arc_cartel_03",
+      "name": "Brass Arc Cartel Regalia 03",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 03 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 03 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 03 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 03 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 03 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 300
+    },
+    {
+      "id": "faction_brass_arc_cartel_04",
+      "name": "Brass Arc Cartel Regalia 04",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 04 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 04 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 04 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 04 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 04 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 400
+    },
+    {
+      "id": "faction_brass_arc_cartel_05",
+      "name": "Brass Arc Cartel Regalia 05",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 05 Helm",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 05 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 05 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 05 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 05 Boots",
+          "rarity": "Uncommon"
+        }
+      ],
+      "rep_required": 500
+    },
+    {
+      "id": "faction_brass_arc_cartel_06",
+      "name": "Brass Arc Cartel Regalia 06",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 06 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 06 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 06 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 06 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 06 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 600
+    },
+    {
+      "id": "faction_brass_arc_cartel_07",
+      "name": "Brass Arc Cartel Regalia 07",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 07 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 07 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 07 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 07 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 07 Boots",
+          "rarity": "Uncommon"
+        }
+      ],
+      "rep_required": 700
+    },
+    {
+      "id": "faction_brass_arc_cartel_08",
+      "name": "Brass Arc Cartel Regalia 08",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 08 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 08 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 08 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 08 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 08 Boots",
+          "rarity": "Rare"
+        }
+      ],
+      "rep_required": 800
+    },
+    {
+      "id": "faction_brass_arc_cartel_09",
+      "name": "Brass Arc Cartel Regalia 09",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 09 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 09 Chest",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 09 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 09 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 09 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 900
+    },
+    {
+      "id": "faction_brass_arc_cartel_10",
+      "name": "Brass Arc Cartel Regalia 10",
+      "faction": "Brass Arc Cartel",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Brass Arc Cartel Regalia 10 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Brass Arc Cartel Regalia 10 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Brass Arc Cartel Regalia 10 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Brass Arc Cartel Regalia 10 Legs",
+          "rarity": "Common"
+        },
+        {
+          "slot": "boots",
+          "name": "Brass Arc Cartel Regalia 10 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 1000
+    },
+    {
+      "id": "faction_shard_tribunal_01",
+      "name": "Shard Tribunal Regalia 01",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 01 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 01 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 01 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 01 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 01 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 100
+    },
+    {
+      "id": "faction_shard_tribunal_02",
+      "name": "Shard Tribunal Regalia 02",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 02 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 02 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 02 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 02 Legs",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 02 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 200
+    },
+    {
+      "id": "faction_shard_tribunal_03",
+      "name": "Shard Tribunal Regalia 03",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 03 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 03 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 03 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 03 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 03 Boots",
+          "rarity": "Uncommon"
+        }
+      ],
+      "rep_required": 300
+    },
+    {
+      "id": "faction_shard_tribunal_04",
+      "name": "Shard Tribunal Regalia 04",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 04 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 04 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 04 Gloves",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 04 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 04 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 400
+    },
+    {
+      "id": "faction_shard_tribunal_05",
+      "name": "Shard Tribunal Regalia 05",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 05 Helm",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 05 Chest",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 05 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 05 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 05 Boots",
+          "rarity": "Common"
+        }
+      ],
+      "rep_required": 500
+    },
+    {
+      "id": "faction_shard_tribunal_06",
+      "name": "Shard Tribunal Regalia 06",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 06 Helm",
+          "rarity": "Common"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 06 Chest",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 06 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 06 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 06 Boots",
+          "rarity": "Rare"
+        }
+      ],
+      "rep_required": 600
+    },
+    {
+      "id": "faction_shard_tribunal_07",
+      "name": "Shard Tribunal Regalia 07",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 07 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 07 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 07 Gloves",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 07 Legs",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 07 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 700
+    },
+    {
+      "id": "faction_shard_tribunal_08",
+      "name": "Shard Tribunal Regalia 08",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 08 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 08 Chest",
+          "rarity": "Common"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 08 Gloves",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 08 Legs",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 08 Boots",
+          "rarity": "Epic"
+        }
+      ],
+      "rep_required": 800
+    },
+    {
+      "id": "faction_shard_tribunal_09",
+      "name": "Shard Tribunal Regalia 09",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 09 Helm",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 09 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 09 Gloves",
+          "rarity": "Mythic"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 09 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 09 Boots",
+          "rarity": "Mythic"
+        }
+      ],
+      "rep_required": 900
+    },
+    {
+      "id": "faction_shard_tribunal_10",
+      "name": "Shard Tribunal Regalia 10",
+      "faction": "Shard Tribunal",
+      "pieces": [
+        {
+          "slot": "helm",
+          "name": "Shard Tribunal Regalia 10 Helm",
+          "rarity": "Rare"
+        },
+        {
+          "slot": "chest",
+          "name": "Shard Tribunal Regalia 10 Chest",
+          "rarity": "Epic"
+        },
+        {
+          "slot": "gloves",
+          "name": "Shard Tribunal Regalia 10 Gloves",
+          "rarity": "Common"
+        },
+        {
+          "slot": "legs",
+          "name": "Shard Tribunal Regalia 10 Legs",
+          "rarity": "Uncommon"
+        },
+        {
+          "slot": "boots",
+          "name": "Shard Tribunal Regalia 10 Boots",
+          "rarity": "Rare"
+        }
+      ],
+      "rep_required": 1000
+    }
+  ]
+}

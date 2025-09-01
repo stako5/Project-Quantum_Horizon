@@ -1,0 +1,1954 @@
+{
+  "class": "Nanobots Mage",
+  "abilities": [],
+  "perks": [
+    {
+      "id": "nanobots_mage/perk_1",
+      "name": "Nanobots Mage Perk 1",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.6,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_2",
+      "name": "Nanobots Mage Perk 2",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.4,
+          "max": 3.9
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_3",
+      "name": "Nanobots Mage Perk 3",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.4,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_4",
+      "name": "Nanobots Mage Perk 4",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_5",
+      "name": "Nanobots Mage Perk 5",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 5.0
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_6",
+      "name": "Nanobots Mage Perk 6",
+      "tier": "Common",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_7",
+      "name": "Nanobots Mage Perk 7",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_8",
+      "name": "Nanobots Mage Perk 8",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_9",
+      "name": "Nanobots Mage Perk 9",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.7,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_10",
+      "name": "Nanobots Mage Perk 10",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.6,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing utility, control for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_11",
+      "name": "Nanobots Mage Perk 11",
+      "tier": "Legendary",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_12",
+      "name": "Nanobots Mage Perk 12",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.1,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_13",
+      "name": "Nanobots Mage Perk 13",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 7.0
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_14",
+      "name": "Nanobots Mage Perk 14",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.9,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_15",
+      "name": "Nanobots Mage Perk 15",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.3,
+          "max": 7.4
+        }
+      ],
+      "description": "Random perk enhancing resource, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_16",
+      "name": "Nanobots Mage Perk 16",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_17",
+      "name": "Nanobots Mage Perk 17",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_18",
+      "name": "Nanobots Mage Perk 18",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.3,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_19",
+      "name": "Nanobots Mage Perk 19",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.8,
+          "max": 5.5
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_20",
+      "name": "Nanobots Mage Perk 20",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.2,
+          "max": 6.4
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_21",
+      "name": "Nanobots Mage Perk 21",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.4,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_22",
+      "name": "Nanobots Mage Perk 22",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_23",
+      "name": "Nanobots Mage Perk 23",
+      "tier": "Epic",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.1,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_24",
+      "name": "Nanobots Mage Perk 24",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_25",
+      "name": "Nanobots Mage Perk 25",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing defense, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_26",
+      "name": "Nanobots Mage Perk 26",
+      "tier": "Legendary",
+      "tags": [
+        "control",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.6,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing control, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_27",
+      "name": "Nanobots Mage Perk 27",
+      "tier": "Common",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_28",
+      "name": "Nanobots Mage Perk 28",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.2,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_29",
+      "name": "Nanobots Mage Perk 29",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.3,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_30",
+      "name": "Nanobots Mage Perk 30",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.5,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_31",
+      "name": "Nanobots Mage Perk 31",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_32",
+      "name": "Nanobots Mage Perk 32",
+      "tier": "Epic",
+      "tags": [
+        "mobility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.0,
+          "max": 7.3
+        }
+      ],
+      "description": "Random perk enhancing mobility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_33",
+      "name": "Nanobots Mage Perk 33",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 3.6
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_34",
+      "name": "Nanobots Mage Perk 34",
+      "tier": "Rare",
+      "tags": [
+        "control",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.7,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing control, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_35",
+      "name": "Nanobots Mage Perk 35",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_36",
+      "name": "Nanobots Mage Perk 36",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.4,
+          "max": 7.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_37",
+      "name": "Nanobots Mage Perk 37",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.5,
+          "max": 3.2
+        }
+      ],
+      "description": "Random perk enhancing control for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_38",
+      "name": "Nanobots Mage Perk 38",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 3.0,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_39",
+      "name": "Nanobots Mage Perk 39",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_40",
+      "name": "Nanobots Mage Perk 40",
+      "tier": "Rare",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.1,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_41",
+      "name": "Nanobots Mage Perk 41",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 4.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_42",
+      "name": "Nanobots Mage Perk 42",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.7,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_43",
+      "name": "Nanobots Mage Perk 43",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.8,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_44",
+      "name": "Nanobots Mage Perk 44",
+      "tier": "Common",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.2,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_45",
+      "name": "Nanobots Mage Perk 45",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_46",
+      "name": "Nanobots Mage Perk 46",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 3.0
+        }
+      ],
+      "description": "Random perk enhancing mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_47",
+      "name": "Nanobots Mage Perk 47",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.9,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_48",
+      "name": "Nanobots Mage Perk 48",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_49",
+      "name": "Nanobots Mage Perk 49",
+      "tier": "Legendary",
+      "tags": [
+        "resource",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing resource, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_50",
+      "name": "Nanobots Mage Perk 50",
+      "tier": "Epic",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_51",
+      "name": "Nanobots Mage Perk 51",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.3,
+          "max": 3.1
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_52",
+      "name": "Nanobots Mage Perk 52",
+      "tier": "Epic",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 3.0,
+          "max": 3.5
+        }
+      ],
+      "description": "Random perk enhancing control for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_53",
+      "name": "Nanobots Mage Perk 53",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.0,
+          "max": 5.3
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_54",
+      "name": "Nanobots Mage Perk 54",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.8,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_55",
+      "name": "Nanobots Mage Perk 55",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.2,
+          "max": 7.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_56",
+      "name": "Nanobots Mage Perk 56",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.7,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_57",
+      "name": "Nanobots Mage Perk 57",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.9,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_58",
+      "name": "Nanobots Mage Perk 58",
+      "tier": "Rare",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 3.7
+        }
+      ],
+      "description": "Random perk enhancing mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_59",
+      "name": "Nanobots Mage Perk 59",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.2,
+          "max": 6.6
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_60",
+      "name": "Nanobots Mage Perk 60",
+      "tier": "Epic",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.7,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_61",
+      "name": "Nanobots Mage Perk 61",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.1,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_62",
+      "name": "Nanobots Mage Perk 62",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 7.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_63",
+      "name": "Nanobots Mage Perk 63",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.0,
+          "max": 7.9
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_64",
+      "name": "Nanobots Mage Perk 64",
+      "tier": "Legendary",
+      "tags": [
+        "damage",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.8,
+          "max": 7.8
+        }
+      ],
+      "description": "Random perk enhancing damage, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_65",
+      "name": "Nanobots Mage Perk 65",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.5,
+          "max": 5.4
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_66",
+      "name": "Nanobots Mage Perk 66",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 6.2
+        }
+      ],
+      "description": "Random perk enhancing control for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_67",
+      "name": "Nanobots Mage Perk 67",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing damage, resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_68",
+      "name": "Nanobots Mage Perk 68",
+      "tier": "Rare",
+      "tags": [
+        "mobility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.2,
+          "max": 3.8
+        }
+      ],
+      "description": "Random perk enhancing mobility, damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_69",
+      "name": "Nanobots Mage Perk 69",
+      "tier": "Common",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.3,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_70",
+      "name": "Nanobots Mage Perk 70",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.5,
+          "max": 4.3
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_71",
+      "name": "Nanobots Mage Perk 71",
+      "tier": "Legendary",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.4,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_72",
+      "name": "Nanobots Mage Perk 72",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 1.7,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_73",
+      "name": "Nanobots Mage Perk 73",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.5,
+          "max": 6.1
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_74",
+      "name": "Nanobots Mage Perk 74",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.4,
+          "max": 8.0
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_75",
+      "name": "Nanobots Mage Perk 75",
+      "tier": "Common",
+      "tags": [
+        "damage",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.9,
+          "max": 6.9
+        }
+      ],
+      "description": "Random perk enhancing damage, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_76",
+      "name": "Nanobots Mage Perk 76",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 5.9
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_77",
+      "name": "Nanobots Mage Perk 77",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.1,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_78",
+      "name": "Nanobots Mage Perk 78",
+      "tier": "Common",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 1.5,
+          "max": 7.2
+        }
+      ],
+      "description": "Random perk enhancing mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_79",
+      "name": "Nanobots Mage Perk 79",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.8,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_80",
+      "name": "Nanobots Mage Perk 80",
+      "tier": "Rare",
+      "tags": [
+        "resource",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.8,
+          "max": 4.7
+        }
+      ],
+      "description": "Random perk enhancing resource, damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_81",
+      "name": "Nanobots Mage Perk 81",
+      "tier": "Epic",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 2.4,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_82",
+      "name": "Nanobots Mage Perk 82",
+      "tier": "Rare",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 1.7,
+          "max": 3.4
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_83",
+      "name": "Nanobots Mage Perk 83",
+      "tier": "Rare",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.4,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_84",
+      "name": "Nanobots Mage Perk 84",
+      "tier": "Rare",
+      "tags": [
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 1.5,
+          "max": 6.8
+        }
+      ],
+      "description": "Random perk enhancing utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_85",
+      "name": "Nanobots Mage Perk 85",
+      "tier": "Legendary",
+      "tags": [
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.1,
+          "max": 6.5
+        }
+      ],
+      "description": "Random perk enhancing mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_86",
+      "name": "Nanobots Mage Perk 86",
+      "tier": "Legendary",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 4.1
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_87",
+      "name": "Nanobots Mage Perk 87",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.5,
+          "max": 6.0
+        }
+      ],
+      "description": "Random perk enhancing defense, control for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_88",
+      "name": "Nanobots Mage Perk 88",
+      "tier": "Epic",
+      "tags": [
+        "resource",
+        "mobility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.0,
+          "max": 6.3
+        }
+      ],
+      "description": "Random perk enhancing resource, mobility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_89",
+      "name": "Nanobots Mage Perk 89",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing defense, resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_90",
+      "name": "Nanobots Mage Perk 90",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.8,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing utility, damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_91",
+      "name": "Nanobots Mage Perk 91",
+      "tier": "Rare",
+      "tags": [
+        "utility",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "power",
+          "min": 2.6,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing utility, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_92",
+      "name": "Nanobots Mage Perk 92",
+      "tier": "Common",
+      "tags": [
+        "control",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.4,
+          "max": 5.2
+        }
+      ],
+      "description": "Random perk enhancing control, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_93",
+      "name": "Nanobots Mage Perk 93",
+      "tier": "Rare",
+      "tags": [
+        "defense",
+        "utility"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "haste",
+          "min": 2.2,
+          "max": 4.6
+        }
+      ],
+      "description": "Random perk enhancing defense, utility for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_94",
+      "name": "Nanobots Mage Perk 94",
+      "tier": "Common",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 2.3,
+          "max": 7.6
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_95",
+      "name": "Nanobots Mage Perk 95",
+      "tier": "Epic",
+      "tags": [
+        "damage",
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.1,
+          "max": 4.5
+        }
+      ],
+      "description": "Random perk enhancing damage, defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_96",
+      "name": "Nanobots Mage Perk 96",
+      "tier": "Epic",
+      "tags": [
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "dr",
+          "min": 1.9,
+          "max": 4.0
+        }
+      ],
+      "description": "Random perk enhancing damage for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_97",
+      "name": "Nanobots Mage Perk 97",
+      "tier": "Common",
+      "tags": [
+        "defense"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "hp",
+          "min": 1.3,
+          "max": 5.7
+        }
+      ],
+      "description": "Random perk enhancing defense for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_98",
+      "name": "Nanobots Mage Perk 98",
+      "tier": "Common",
+      "tags": [
+        "control"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "crit",
+          "min": 2.9,
+          "max": 6.7
+        }
+      ],
+      "description": "Random perk enhancing control for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_99",
+      "name": "Nanobots Mage Perk 99",
+      "tier": "Common",
+      "tags": [
+        "resource"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.4,
+          "max": 5.8
+        }
+      ],
+      "description": "Random perk enhancing resource for Nanobots Mage."
+    },
+    {
+      "id": "nanobots_mage/perk_100",
+      "name": "Nanobots Mage Perk 100",
+      "tier": "Common",
+      "tags": [
+        "defense",
+        "damage"
+      ],
+      "effect": {
+        "note": "class-tailored bonus"
+      },
+      "rolls": [
+        {
+          "stat": "cdr",
+          "min": 2.6,
+          "max": 4.9
+        }
+      ],
+      "description": "Random perk enhancing defense, damage for Nanobots Mage."
+    }
+  ]
+}

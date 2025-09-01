@@ -1,0 +1,178 @@
+{
+  "pois": [
+    {
+      "biome": "Neon Metropolis",
+      "name": "HoloMarket",
+      "density_per_hectare": 0.5,
+      "tags": [
+        "vendors",
+        "quest"
+      ]
+    },
+    {
+      "biome": "Neon Metropolis",
+      "name": "Monorail Station",
+      "density_per_hectare": 0.3,
+      "tags": [
+        "travel",
+        "encounter"
+      ]
+    },
+    {
+      "biome": "Industrial Wastes",
+      "name": "Scrap Bazaar",
+      "density_per_hectare": 0.6,
+      "tags": [
+        "craft",
+        "quest"
+      ]
+    },
+    {
+      "biome": "Industrial Wastes",
+      "name": "Cooling Tower Base",
+      "density_per_hectare": 0.4,
+      "tags": [
+        "encounter"
+      ]
+    },
+    {
+      "biome": "Void Marsh",
+      "name": "Rift Shrine",
+      "density_per_hectare": 0.4,
+      "tags": [
+        "ritual",
+        "event"
+      ]
+    },
+    {
+      "biome": "Plasma Lagoons",
+      "name": "Bridge Span",
+      "density_per_hectare": 0.5,
+      "tags": [
+        "travel",
+        "encounter"
+      ]
+    },
+    {
+      "biome": "Nanite Forest",
+      "name": "Hive Node",
+      "density_per_hectare": 0.6,
+      "tags": [
+        "craft",
+        "event"
+      ]
+    },
+    {
+      "biome": "Orbital Graveyard",
+      "name": "Derelict Dock",
+      "density_per_hectare": 0.4,
+      "tags": [
+        "quest",
+        "encounter"
+      ]
+    },
+    {
+      "biome": "Cryo Tundra Colony",
+      "name": "Hab Dome Ruin",
+      "density_per_hectare": 0.5,
+      "tags": [
+        "quest",
+        "encounter"
+      ]
+    },
+    {
+      "biome": "Sunken Arcology",
+      "name": "Drowned Atrium",
+      "density_per_hectare": 0.5,
+      "tags": [
+        "explore",
+        "encounter"
+      ]
+    },
+    {
+      "biome": "Reactor Badlands",
+      "name": "Heat Sink Ridge",
+      "density_per_hectare": 0.4,
+      "tags": [
+        "encounter"
+      ]
+    },
+    {
+      "biome": "Sentient Sands Expanse",
+      "name": "Signal Obelisk",
+      "density_per_hectare": 0.6,
+      "tags": [
+        "event",
+        "encounter"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "biome": "Neon Metropolis",
+      "name": "Gang Broadcast Jack",
+      "weight": 4,
+      "cooldown_chunks": 6
+    },
+    {
+      "biome": "Neon Metropolis",
+      "name": "Billboard Oracle",
+      "weight": 3,
+      "cooldown_chunks": 4
+    },
+    {
+      "biome": "Industrial Wastes",
+      "name": "Toxic Leak Containment",
+      "weight": 5,
+      "cooldown_chunks": 6
+    },
+    {
+      "biome": "Void Marsh",
+      "name": "Rift Stabilization",
+      "weight": 5,
+      "cooldown_chunks": 8
+    },
+    {
+      "biome": "Plasma Lagoons",
+      "name": "Arc Surge",
+      "weight": 4,
+      "cooldown_chunks": 5
+    },
+    {
+      "biome": "Nanite Forest",
+      "name": "Swarm Bloom",
+      "weight": 5,
+      "cooldown_chunks": 7
+    },
+    {
+      "biome": "Orbital Graveyard",
+      "name": "Black Box Hunt",
+      "weight": 4,
+      "cooldown_chunks": 6
+    },
+    {
+      "biome": "Cryo Tundra Colony",
+      "name": "Heater Re-ignite",
+      "weight": 4,
+      "cooldown_chunks": 6
+    },
+    {
+      "biome": "Sunken Arcology",
+      "name": "Pressure Gate Unlock",
+      "weight": 4,
+      "cooldown_chunks": 6
+    },
+    {
+      "biome": "Reactor Badlands",
+      "name": "Rod Retrieval",
+      "weight": 4,
+      "cooldown_chunks": 6
+    },
+    {
+      "biome": "Sentient Sands Expanse",
+      "name": "Mirage Decode",
+      "weight": 5,
+      "cooldown_chunks": 6
+    }
+  ]
+}

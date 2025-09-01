@@ -1,0 +1,1112 @@
+{
+  "class": "Warrior",
+  "abilities": [
+    {
+      "id": "warrior/vanguard_act_1",
+      "name": "Vanguard Act 1",
+      "branch": "Vanguard",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 21.1
+      },
+      "cooldown_s": 14.7,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.18
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.05
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_2",
+      "name": "Vanguard Act 2",
+      "branch": "Vanguard",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 23.2
+      },
+      "cooldown_s": 17.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.73
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_3",
+      "name": "Vanguard Act 3",
+      "branch": "Vanguard",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 11.1
+      },
+      "cooldown_s": 16.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.86
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_4",
+      "name": "Vanguard Act 4",
+      "branch": "Vanguard",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 24.3
+      },
+      "cooldown_s": 10.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.21
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.13
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_5",
+      "name": "Vanguard Act 5",
+      "branch": "Vanguard",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 31.7
+      },
+      "cooldown_s": 17.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.88
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.73
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_6",
+      "name": "Vanguard Act 6",
+      "branch": "Vanguard",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 14.0
+      },
+      "cooldown_s": 8.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.82
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.61
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_7",
+      "name": "Vanguard Act 7",
+      "branch": "Vanguard",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 12.1
+      },
+      "cooldown_s": 8.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.81
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.06
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_8",
+      "name": "Vanguard Act 8",
+      "branch": "Vanguard",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 21.0
+      },
+      "cooldown_s": 7.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.59
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_9",
+      "name": "Vanguard Act 9",
+      "branch": "Vanguard",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 23.5
+      },
+      "cooldown_s": 17.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.16
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.87
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_act_10",
+      "name": "Vanguard Act 10",
+      "branch": "Vanguard",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 20.3
+      },
+      "cooldown_s": 14.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.83
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.2
+        }
+      ],
+      "description": "Active ability in Vanguard branch."
+    },
+    {
+      "id": "warrior/vanguard_pas_1",
+      "name": "Vanguard Passive 1",
+      "branch": "Vanguard",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.3
+        }
+      ],
+      "description": "Passive bonus themed to Vanguard."
+    },
+    {
+      "id": "warrior/vanguard_pas_2",
+      "name": "Vanguard Passive 2",
+      "branch": "Vanguard",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.7
+        }
+      ],
+      "description": "Passive bonus themed to Vanguard."
+    },
+    {
+      "id": "warrior/vanguard_pas_3",
+      "name": "Vanguard Passive 3",
+      "branch": "Vanguard",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.5
+        }
+      ],
+      "description": "Passive bonus themed to Vanguard."
+    },
+    {
+      "id": "warrior/vanguard_pas_4",
+      "name": "Vanguard Passive 4",
+      "branch": "Vanguard",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 4.0
+        }
+      ],
+      "description": "Passive bonus themed to Vanguard."
+    },
+    {
+      "id": "warrior/vanguard_exo_1",
+      "name": "Vanguard Exotic 1",
+      "branch": "Vanguard",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Vanguard to other branches."
+    },
+    {
+      "id": "warrior/vanguard_exo_2",
+      "name": "Vanguard Exotic 2",
+      "branch": "Vanguard",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Vanguard to other branches."
+    },
+    {
+      "id": "warrior/berserk_act_1",
+      "name": "Berserk Act 1",
+      "branch": "Berserk",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 24.3
+      },
+      "cooldown_s": 17.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.03
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.08
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_2",
+      "name": "Berserk Act 2",
+      "branch": "Berserk",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 15.9
+      },
+      "cooldown_s": 13.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.17
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.46
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_3",
+      "name": "Berserk Act 3",
+      "branch": "Berserk",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 23.5
+      },
+      "cooldown_s": 10.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.84
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.58
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_4",
+      "name": "Berserk Act 4",
+      "branch": "Berserk",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 14.3
+      },
+      "cooldown_s": 6.1,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.03
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.84
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_5",
+      "name": "Berserk Act 5",
+      "branch": "Berserk",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 12.1
+      },
+      "cooldown_s": 12.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.01
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.47
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_6",
+      "name": "Berserk Act 6",
+      "branch": "Berserk",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 20.5
+      },
+      "cooldown_s": 10.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.94
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.71
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_7",
+      "name": "Berserk Act 7",
+      "branch": "Berserk",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 21.4
+      },
+      "cooldown_s": 16.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.64
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_8",
+      "name": "Berserk Act 8",
+      "branch": "Berserk",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 34.1
+      },
+      "cooldown_s": 11.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.18
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.96
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_9",
+      "name": "Berserk Act 9",
+      "branch": "Berserk",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 14.7
+      },
+      "cooldown_s": 14.9,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.96
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.11
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_act_10",
+      "name": "Berserk Act 10",
+      "branch": "Berserk",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 29.3
+      },
+      "cooldown_s": 13.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.16
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.83
+        }
+      ],
+      "description": "Active ability in Berserk branch."
+    },
+    {
+      "id": "warrior/berserk_pas_1",
+      "name": "Berserk Passive 1",
+      "branch": "Berserk",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.8
+        }
+      ],
+      "description": "Passive bonus themed to Berserk."
+    },
+    {
+      "id": "warrior/berserk_pas_2",
+      "name": "Berserk Passive 2",
+      "branch": "Berserk",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.4
+        }
+      ],
+      "description": "Passive bonus themed to Berserk."
+    },
+    {
+      "id": "warrior/berserk_pas_3",
+      "name": "Berserk Passive 3",
+      "branch": "Berserk",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.9
+        }
+      ],
+      "description": "Passive bonus themed to Berserk."
+    },
+    {
+      "id": "warrior/berserk_pas_4",
+      "name": "Berserk Passive 4",
+      "branch": "Berserk",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.4
+        }
+      ],
+      "description": "Passive bonus themed to Berserk."
+    },
+    {
+      "id": "warrior/berserk_exo_1",
+      "name": "Berserk Exotic 1",
+      "branch": "Berserk",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Berserk to other branches."
+    },
+    {
+      "id": "warrior/berserk_exo_2",
+      "name": "Berserk Exotic 2",
+      "branch": "Berserk",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Berserk to other branches."
+    },
+    {
+      "id": "warrior/tactician_act_1",
+      "name": "Tactician Act 1",
+      "branch": "Tactician",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 12.6
+      },
+      "cooldown_s": 16.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.83
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.82
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_2",
+      "name": "Tactician Act 2",
+      "branch": "Tactician",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 16.7
+      },
+      "cooldown_s": 15.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.99
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.33
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_3",
+      "name": "Tactician Act 3",
+      "branch": "Tactician",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 20.0
+      },
+      "cooldown_s": 9.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.7
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_4",
+      "name": "Tactician Act 4",
+      "branch": "Tactician",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 27.9
+      },
+      "cooldown_s": 11.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.24
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.97
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_5",
+      "name": "Tactician Act 5",
+      "branch": "Tactician",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 24.1
+      },
+      "cooldown_s": 11.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.95
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.68
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_6",
+      "name": "Tactician Act 6",
+      "branch": "Tactician",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 30.0
+      },
+      "cooldown_s": 7.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.02
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.5
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_7",
+      "name": "Tactician Act 7",
+      "branch": "Tactician",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 20.1
+      },
+      "cooldown_s": 8.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.09
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.42
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_8",
+      "name": "Tactician Act 8",
+      "branch": "Tactician",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 30.6
+      },
+      "cooldown_s": 17.8,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.1
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_9",
+      "name": "Tactician Act 9",
+      "branch": "Tactician",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 14.9
+      },
+      "cooldown_s": 10.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.26
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.52
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_act_10",
+      "name": "Tactician Act 10",
+      "branch": "Tactician",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Rage",
+        "cost": 16.2
+      },
+      "cooldown_s": 15.6,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.3
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.18
+        }
+      ],
+      "description": "Active ability in Tactician branch."
+    },
+    {
+      "id": "warrior/tactician_pas_1",
+      "name": "Tactician Passive 1",
+      "branch": "Tactician",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.7
+        }
+      ],
+      "description": "Passive bonus themed to Tactician."
+    },
+    {
+      "id": "warrior/tactician_pas_2",
+      "name": "Tactician Passive 2",
+      "branch": "Tactician",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.9
+        }
+      ],
+      "description": "Passive bonus themed to Tactician."
+    },
+    {
+      "id": "warrior/tactician_pas_3",
+      "name": "Tactician Passive 3",
+      "branch": "Tactician",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.6
+        }
+      ],
+      "description": "Passive bonus themed to Tactician."
+    },
+    {
+      "id": "warrior/tactician_pas_4",
+      "name": "Tactician Passive 4",
+      "branch": "Tactician",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.5
+        }
+      ],
+      "description": "Passive bonus themed to Tactician."
+    },
+    {
+      "id": "warrior/tactician_exo_1",
+      "name": "Tactician Exotic 1",
+      "branch": "Tactician",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Tactician to other branches."
+    },
+    {
+      "id": "warrior/tactician_exo_2",
+      "name": "Tactician Exotic 2",
+      "branch": "Tactician",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Tactician to other branches."
+    },
+    {
+      "id": "warrior/ultimate_1",
+      "name": "Warrior Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Rage",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Warrior."
+    },
+    {
+      "id": "warrior/ultimate_2",
+      "name": "Warrior Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Rage",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Warrior."
+    }
+  ],
+  "perks": []
+}

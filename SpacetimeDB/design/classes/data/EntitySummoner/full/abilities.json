@@ -1,0 +1,1112 @@
+{
+  "class": "Entity Summoner",
+  "abilities": [
+    {
+      "id": "entity_summoner/legion_act_1",
+      "name": "Legion Act 1",
+      "branch": "Legion",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 28.7
+      },
+      "cooldown_s": 17.8,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.03
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.66
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_2",
+      "name": "Legion Act 2",
+      "branch": "Legion",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 16.4
+      },
+      "cooldown_s": 14.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.97
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.14
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_3",
+      "name": "Legion Act 3",
+      "branch": "Legion",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 15.6
+      },
+      "cooldown_s": 12.2,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.01
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.72
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_4",
+      "name": "Legion Act 4",
+      "branch": "Legion",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 12.5
+      },
+      "cooldown_s": 8.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.54
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_5",
+      "name": "Legion Act 5",
+      "branch": "Legion",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 31.7
+      },
+      "cooldown_s": 8.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.03
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.74
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_6",
+      "name": "Legion Act 6",
+      "branch": "Legion",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 14.3
+      },
+      "cooldown_s": 13.1,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.42
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_7",
+      "name": "Legion Act 7",
+      "branch": "Legion",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 18.7
+      },
+      "cooldown_s": 9.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.06
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.1
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_8",
+      "name": "Legion Act 8",
+      "branch": "Legion",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 11.3
+      },
+      "cooldown_s": 11.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.91
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.23
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_9",
+      "name": "Legion Act 9",
+      "branch": "Legion",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 20.3
+      },
+      "cooldown_s": 6.8,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.85
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.14
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_act_10",
+      "name": "Legion Act 10",
+      "branch": "Legion",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 17.4
+      },
+      "cooldown_s": 17.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.19
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.12
+        }
+      ],
+      "description": "Active ability in Legion branch."
+    },
+    {
+      "id": "entity_summoner/legion_pas_1",
+      "name": "Legion Passive 1",
+      "branch": "Legion",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.7
+        }
+      ],
+      "description": "Passive bonus themed to Legion."
+    },
+    {
+      "id": "entity_summoner/legion_pas_2",
+      "name": "Legion Passive 2",
+      "branch": "Legion",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.0
+        }
+      ],
+      "description": "Passive bonus themed to Legion."
+    },
+    {
+      "id": "entity_summoner/legion_pas_3",
+      "name": "Legion Passive 3",
+      "branch": "Legion",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.1
+        }
+      ],
+      "description": "Passive bonus themed to Legion."
+    },
+    {
+      "id": "entity_summoner/legion_pas_4",
+      "name": "Legion Passive 4",
+      "branch": "Legion",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.2
+        }
+      ],
+      "description": "Passive bonus themed to Legion."
+    },
+    {
+      "id": "entity_summoner/legion_exo_1",
+      "name": "Legion Exotic 1",
+      "branch": "Legion",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Legion to other branches."
+    },
+    {
+      "id": "entity_summoner/legion_exo_2",
+      "name": "Legion Exotic 2",
+      "branch": "Legion",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Legion to other branches."
+    },
+    {
+      "id": "entity_summoner/avatar_act_1",
+      "name": "Avatar Act 1",
+      "branch": "Avatar",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 19.2
+      },
+      "cooldown_s": 16.9,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.25
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.26
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_2",
+      "name": "Avatar Act 2",
+      "branch": "Avatar",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 15.9
+      },
+      "cooldown_s": 11.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.18
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.66
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_3",
+      "name": "Avatar Act 3",
+      "branch": "Avatar",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 31.2
+      },
+      "cooldown_s": 8.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.01
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.98
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_4",
+      "name": "Avatar Act 4",
+      "branch": "Avatar",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 28.1
+      },
+      "cooldown_s": 11.6,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.9
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_5",
+      "name": "Avatar Act 5",
+      "branch": "Avatar",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 22.8
+      },
+      "cooldown_s": 16.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.12
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.52
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_6",
+      "name": "Avatar Act 6",
+      "branch": "Avatar",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 28.5
+      },
+      "cooldown_s": 17.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.13
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.07
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_7",
+      "name": "Avatar Act 7",
+      "branch": "Avatar",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 20.3
+      },
+      "cooldown_s": 18.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.89
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.97
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_8",
+      "name": "Avatar Act 8",
+      "branch": "Avatar",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 29.1
+      },
+      "cooldown_s": 10.3,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.3
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.68
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_9",
+      "name": "Avatar Act 9",
+      "branch": "Avatar",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 33.5
+      },
+      "cooldown_s": 17.4,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.11
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.22
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_act_10",
+      "name": "Avatar Act 10",
+      "branch": "Avatar",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 32.1
+      },
+      "cooldown_s": 10.3,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.12
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.73
+        }
+      ],
+      "description": "Active ability in Avatar branch."
+    },
+    {
+      "id": "entity_summoner/avatar_pas_1",
+      "name": "Avatar Passive 1",
+      "branch": "Avatar",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.1
+        }
+      ],
+      "description": "Passive bonus themed to Avatar."
+    },
+    {
+      "id": "entity_summoner/avatar_pas_2",
+      "name": "Avatar Passive 2",
+      "branch": "Avatar",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.3
+        }
+      ],
+      "description": "Passive bonus themed to Avatar."
+    },
+    {
+      "id": "entity_summoner/avatar_pas_3",
+      "name": "Avatar Passive 3",
+      "branch": "Avatar",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.6
+        }
+      ],
+      "description": "Passive bonus themed to Avatar."
+    },
+    {
+      "id": "entity_summoner/avatar_pas_4",
+      "name": "Avatar Passive 4",
+      "branch": "Avatar",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 2.7
+        }
+      ],
+      "description": "Passive bonus themed to Avatar."
+    },
+    {
+      "id": "entity_summoner/avatar_exo_1",
+      "name": "Avatar Exotic 1",
+      "branch": "Avatar",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Avatar to other branches."
+    },
+    {
+      "id": "entity_summoner/avatar_exo_2",
+      "name": "Avatar Exotic 2",
+      "branch": "Avatar",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Avatar to other branches."
+    },
+    {
+      "id": "entity_summoner/conclave_act_1",
+      "name": "Conclave Act 1",
+      "branch": "Conclave",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 34.0
+      },
+      "cooldown_s": 12.4,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.23
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 2.18
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_2",
+      "name": "Conclave Act 2",
+      "branch": "Conclave",
+      "tier": 1,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 13.7
+      },
+      "cooldown_s": 7.6,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.83
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.06
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_3",
+      "name": "Conclave Act 3",
+      "branch": "Conclave",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 15.1
+      },
+      "cooldown_s": 13.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.87
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.35
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_4",
+      "name": "Conclave Act 4",
+      "branch": "Conclave",
+      "tier": 2,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 25.1
+      },
+      "cooldown_s": 11.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 0.84
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.59
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_5",
+      "name": "Conclave Act 5",
+      "branch": "Conclave",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 12.8
+      },
+      "cooldown_s": 11.5,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.16
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.99
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_6",
+      "name": "Conclave Act 6",
+      "branch": "Conclave",
+      "tier": 3,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 21.0
+      },
+      "cooldown_s": 16.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.89
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.1
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_7",
+      "name": "Conclave Act 7",
+      "branch": "Conclave",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 13.2
+      },
+      "cooldown_s": 12.0,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.13
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.86
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_8",
+      "name": "Conclave Act 8",
+      "branch": "Conclave",
+      "tier": 4,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 14.9
+      },
+      "cooldown_s": 18.7,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 0.93
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.96
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_9",
+      "name": "Conclave Act 9",
+      "branch": "Conclave",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 27.2
+      },
+      "cooldown_s": 8.0,
+      "tags": [
+        "utility"
+      ],
+      "scaling": {
+        "power": 1.15
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.05
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_act_10",
+      "name": "Conclave Act 10",
+      "branch": "Conclave",
+      "tier": 5,
+      "type": "active",
+      "resource": {
+        "type": "Command",
+        "cost": 26.1
+      },
+      "cooldown_s": 17.2,
+      "tags": [
+        "damage"
+      ],
+      "scaling": {
+        "power": 1.08
+      },
+      "effects": [
+        {
+          "kind": "damage",
+          "mult": 1.11
+        }
+      ],
+      "description": "Active ability in Conclave branch."
+    },
+    {
+      "id": "entity_summoner/conclave_pas_1",
+      "name": "Conclave Passive 1",
+      "branch": "Conclave",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 3.6
+        }
+      ],
+      "description": "Passive bonus themed to Conclave."
+    },
+    {
+      "id": "entity_summoner/conclave_pas_2",
+      "name": "Conclave Passive 2",
+      "branch": "Conclave",
+      "tier": 1,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.7
+        }
+      ],
+      "description": "Passive bonus themed to Conclave."
+    },
+    {
+      "id": "entity_summoner/conclave_pas_3",
+      "name": "Conclave Passive 3",
+      "branch": "Conclave",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.9
+        }
+      ],
+      "description": "Passive bonus themed to Conclave."
+    },
+    {
+      "id": "entity_summoner/conclave_pas_4",
+      "name": "Conclave Passive 4",
+      "branch": "Conclave",
+      "tier": 2,
+      "type": "passive",
+      "tags": [
+        "passive"
+      ],
+      "effects": [
+        {
+          "kind": "stat",
+          "stat": "haste",
+          "pct": 1.4
+        }
+      ],
+      "description": "Passive bonus themed to Conclave."
+    },
+    {
+      "id": "entity_summoner/conclave_exo_1",
+      "name": "Conclave Exotic 1",
+      "branch": "Conclave",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Conclave to other branches."
+    },
+    {
+      "id": "entity_summoner/conclave_exo_2",
+      "name": "Conclave Exotic 2",
+      "branch": "Conclave",
+      "tier": 6,
+      "type": "exotic",
+      "tags": [
+        "exotic"
+      ],
+      "effects": [
+        {
+          "kind": "special",
+          "note": "cross-branch synergy"
+        }
+      ],
+      "description": "Exotic effect connecting Conclave to other branches."
+    },
+    {
+      "id": "entity_summoner/ultimate_1",
+      "name": "Entity Summoner Ultimate 1",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 90,
+      "resource": {
+        "type": "Command",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Entity Summoner."
+    },
+    {
+      "id": "entity_summoner/ultimate_2",
+      "name": "Entity Summoner Ultimate 2",
+      "branch": "All",
+      "tier": 6,
+      "type": "ultimate",
+      "cooldown_s": 120,
+      "resource": {
+        "type": "Command",
+        "cost": 0
+      },
+      "effects": [
+        {
+          "kind": "ultimate",
+          "note": "signature"
+        }
+      ],
+      "description": "Thematic ultimate for Entity Summoner."
+    }
+  ],
+  "perks": []
+}
